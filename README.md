@@ -14,9 +14,26 @@ PRs welcome!
 
 - [Current](https://current.com/)
 
+## Code Tools
+
+- [SourceGraph](https://sourcegraph.com/search)
+
 ## Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
+
+## Drawing
+
+- [Canvas](https://canvas.apps.chrome/)
+
+## Free Resources
+
+- [Feather Icons](https://feathericons.com/)
+- [Font Awesome](http://fontawesome.io/icons/)
+- [React Icons](https://www.npmjs.com/package/react-icons)
+- [Unsplash: Free Pictures](https://unsplash.com/)
+- [Resource Cards](https://resourcecards.com/)
+- [AppScope](https://appsco.pe/)
 
 ## Freelance
 
@@ -30,6 +47,8 @@ PRs welcome!
 
 - [A(x56)](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
 - [Neal Fun](https://neal.fun/)
+- [The True Size Of...](https://thetruesize.com/)
+- [Based Cooking](https://based.cooking/)
 
 ## JS Games
 
@@ -40,15 +59,42 @@ PRs welcome!
 
 ## Peer 2 Peer
 
-- WebTorrent or WebRTC
+- [ShareDrop](https://www.sharedrop.io/)
+- [Snapdrop](https://www.snapdrop.net)
+- [Instant IO](https://instant.io/)
+- [Web Torrent](https://webtorrent.io/intro)
 - [Beaker Browser](https://beakerbrowser.com/)
 - [Dat Ecosystem](https://dat-ecosystem.org/)
 - [IPFS](http://Ipfs.io)
 - Article: [Result the web from the internet](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
 
+## Photo Editor
+
+- [Fotor](https://www.fotor.com/)
+- [GIMP](https://www.gimp.org/)
+
 ## Presentation
 
 - [Make Code Pictures](https://ray.so/)
+
+## Reference/Articles
+
+- [HEAD - What should go in the head](https://htmlhead.dev/)
+
+## Service Workers
+
+- [Service Worker Cookbook](https://serviceworke.rs/)
+- [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+- [Jake Archibald Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+- [Google Guide Getting Started](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers?authuser=0)
+
+## SVG Editors
+
+- [Vectr](https://vectr.com/)
+- [Boxy SVG](https://boxy-svg.com/app)
+- [Curve App](https://github.com/benogle/curve-app)
+- [Inkscape](https://gitlab.com/inkscape/inkscape)
+- [SVGEdit](https://github.com/SVG-Edit/svgedit)
 
 ## Tutorials
 
