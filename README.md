@@ -17,10 +17,16 @@ PRs welcome!
 ## Code Tools
 
 - [SourceGraph](https://sourcegraph.com/search)
+- [Natto.dev - diagram code](https://natto.dev/)
 
 ## Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
+
+## CSS Reference
+
+- [CSS and divs](https://a.singlediv.com/)
+- [Replicate Bootstrap with CSS Grid](https://speckyboy.com/replicate-bootstrap-grid-using-css-grid/)
 
 ## Drawing
 
@@ -49,6 +55,9 @@ PRs welcome!
 - [Neal Fun](https://neal.fun/)
 - [The True Size Of...](https://thetruesize.com/)
 - [Based Cooking](https://based.cooking/)
+- [TheSkyLive](https://theskylive.com/)
+- [Meteor showers from space](https://www.meteorshowers.org/view/all)
+- [WinBox](https://nextapps-de.github.io/winbox/)
 
 ## JS Games
 
@@ -56,6 +65,11 @@ PRs welcome!
 - HTML 5 Game Examples: [10 Retro Video Games](https://speckyboy.com/retro-video-games-html5-js-css/)
 - [Meteor](http://multeor.com/)
 - [Godot Engine](https://godotengine.org/)
+
+## Module Service
+
+- [UNPKG](https://unpkg.com/)
+- [SkyPack](https://www.skypack.dev/)
 
 ## Peer 2 Peer
 
@@ -80,6 +94,18 @@ PRs welcome!
 ## Reference/Articles
 
 - [HEAD - What should go in the head](https://htmlhead.dev/)
+- [JavaScript Golf](https://www.lesscake.com/code-golf-javascript)
+- [Devhints](https://devhints.io/)
+- [Design Resource websites](https://css-tricks.com/design-resource-sites/)
+- [Critical Rendering Path of Browser](https://css-tricks.com/the-critical-request/)
+- [3D web graphics](https://css-tricks.com/creating-photorealistic-3d-graphics-web/)
+- [No jQuery!](https://css-tricks.com/now-ever-might-not-need-jquery/)
+- JavaScript React(ish)
+  - [Part 1](https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/)
+  - [Part 2](https://css-tricks.com/reactive-uis-vanillajs-part-2-class-based-components/)
+- [Lazy Load](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
+- [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
+- [WebGL libraries](https://areknawo.com/your-webgl-aiders/)
 
 ## Service Workers
 
