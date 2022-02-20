@@ -18,21 +18,44 @@ PRs welcome!
 
 - [SourceGraph](https://sourcegraph.com/search)
 - [Natto.dev - diagram code](https://natto.dev/)
+- [Haiku Animator](https://github.com/HaikuTeam/animator)
 
 ## Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
 
-## CSS Reference
+## CSS
 
 - [CSS and divs](https://a.singlediv.com/)
 - [Replicate Bootstrap with CSS Grid](https://speckyboy.com/replicate-bootstrap-grid-using-css-grid/)
+- [Icons/Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
+- [Simple CSS: CSS reference/cheatsheet](https://simplecss.eu/)
+- [CSS Box Model](https://css-tricks.com/the-css-box-model/)
+- [CSS Triggers](https://csstriggers.com/)
+- [CSS DB](https://cssdb.org/)
+- [Popular CSS Libraries](https://cssdb.co/)
+- [Collapsing margins](https://www.jonathan-harrell.com/blog/what%E2%80%99s-the-deal-with-margin-collapse/)
+- [Reference](https://cssreference.io/)
+- [Cheatsheets](https://speckyboy.com/css-cheatsheets-resources-guides/)
+- [Grid Game](https://gridcritters.com/)
+- [Grid By Example](https://gridbyexample.com/)
+- [CSS Tricks: Complete Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [CSS Flexbox: Complete Grid Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Color Schemes](https://css-tricks.com/re-pleasing-color-palettes/)
+- [What No One Told you about z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+- [Understanding Z-Index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
 
 ## Drawing
 
 - [Canvas](https://canvas.apps.chrome/)
 
+## API
+
+- [Unsplash](https://unsplash.com/developers)
+
 ## Free Resources
+
+Keep note of License requirements...
 
 - [Feather Icons](https://feathericons.com/)
 - [Font Awesome](http://fontawesome.io/icons/)
@@ -40,6 +63,11 @@ PRs welcome!
 - [Unsplash: Free Pictures](https://unsplash.com/)
 - [Resource Cards](https://resourcecards.com/)
 - [AppScope](https://appsco.pe/)
+- [Free front end: Code examples](https://freefrontend.com/)
+- [123apps](https://123apps.com/)
+- [Audio Tools](https://vocalremover.org/)
+- [Free for Dev](https://free-for.dev/#/)
+- [Awesome List](https://www.trackawesomelist.com/)
 
 ## Freelance
 
@@ -58,6 +86,11 @@ PRs welcome!
 - [TheSkyLive](https://theskylive.com/)
 - [Meteor showers from space](https://www.meteorshowers.org/view/all)
 - [WinBox](https://nextapps-de.github.io/winbox/)
+- [OpenSky-Network](https://opensky-network.org/)
+
+## JS
+
+- [Does it Mutate?](https://doesitmutate.xyz/)
 
 ## JS Games
 
