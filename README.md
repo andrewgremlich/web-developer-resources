@@ -2,27 +2,27 @@
 
 A wide breadth of web developer resources.
 
-More to come! I have a Google Doc file that I am putting here.
-
 PRs welcome!
 
 ## Backend Development
 
 - [Manage Backend Self Host](https://appwrite.io/)
+- [Supabase](https://supabase.com/)
+- [Firebase](https://firebase.google.com/)
+- [Unsplash](https://unsplash.com/developers)
+- [Deno Deploy](https://deno.com/deploy)
 
-## Banking/Finances
+## Books
 
-- [Current](https://current.com/)
+- [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
 
 ## Code Tools
 
 - [SourceGraph](https://sourcegraph.com/search)
 - [Natto.dev - diagram code](https://natto.dev/)
 - [Haiku Animator](https://github.com/HaikuTeam/animator)
+- [IndiePen](https://indiepen.tech/)
 
-## Books
-
-- [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
 
 ## CSS
 
@@ -45,14 +45,6 @@ PRs welcome!
 - [What No One Told you about z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 - [Understanding Z-Index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
 
-## Drawing
-
-- [Canvas](https://canvas.apps.chrome/)
-
-## API
-
-- [Unsplash](https://unsplash.com/developers)
-
 ## Free Resources
 
 Keep note of License requirements...
@@ -68,6 +60,26 @@ Keep note of License requirements...
 - [Audio Tools](https://vocalremover.org/)
 - [Free for Dev](https://free-for.dev/#/)
 - [Awesome List](https://www.trackawesomelist.com/)
+- [Standard Notes: Encrypted notes](https://standardnotes.com/)
+- [Penpot App](https://penpot.app/)
+- [Posthog](https://posthog.com/)
+- [MeshGradient](https://meshgradient.com/)
+- [NounProject](https://thenounproject.com/)
+- [Canvas](https://canvas.apps.chrome/)
+- [Fotor](https://www.fotor.com/)
+- [GIMP](https://www.gimp.org/)
+- [Make Code Pictures](https://ray.so/)
+- [Streamline Icons](https://streamlinehq.com/)
+- [CodeMyUi](https://codemyui.com/)
+- [Sound Bible](https://soundbible.com/)
+- [All The Free Stock](https://allthefreestock.com/)
+- [Stock IO](https://www.stockio.com/)
+- [SEO tools](https://saijogeorge.com/best-marketing-tools/)
+- [Remote Starter Kit](https://www.remotestarterkit.com/)
+- [Smashing Magazine: Freebies Category](https://www.smashingmagazine.com/category/freebies)
+- [PhosphorIcons](https://phosphoricons.com/)
+- [SVG Repo](https://www.svgrepo.com/)
+- [Free Fonts](https://www.ffonts.net/)
 
 ## Freelance
 
@@ -91,6 +103,7 @@ Keep note of License requirements...
 ## JS
 
 - [Does it Mutate?](https://doesitmutate.xyz/)
+- [React hooks](https://react-hooks.org/docs/hooks-list/)
 
 ## JS Games
 
@@ -115,15 +128,6 @@ Keep note of License requirements...
 - [IPFS](http://Ipfs.io)
 - Article: [Result the web from the internet](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
 
-## Photo Editor
-
-- [Fotor](https://www.fotor.com/)
-- [GIMP](https://www.gimp.org/)
-
-## Presentation
-
-- [Make Code Pictures](https://ray.so/)
-
 ## Reference/Articles
 
 - [HEAD - What should go in the head](https://htmlhead.dev/)
@@ -139,6 +143,7 @@ Keep note of License requirements...
 - [Lazy Load](https://css-tricks.com/the-complete-guide-to-lazy-loading-images/)
 - [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
 - [WebGL libraries](https://areknawo.com/your-webgl-aiders/)
+- [What is REST](https://restfulapi.net/)
 
 ## Service Workers
 
@@ -181,3 +186,47 @@ Keep note of License requirements...
 - [NoIP - Free Subdomains](https://www.noip.com/)
 - [Lets Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 - [Automated Domain Management](https://dnsimple.com/)
+
+## TO SORT AND LINKIFY
+
+JAVASCRIPT / LIBRARIES / FRAMEWORKS
+- Animation Library
+     - https://threejs.org/
+- Graph library
+     - http://ui.toast.com/tui-chart/
+- Make Wireframes with CSS
+     - https://github.com/agauniyal/wireframe
+- Javascript animations
+     - https://github.com/popmotion/popmotion
+
+
+TOOLS
+- hack markdown
+     - HackMD - Collaborative Markdown Knowledge Base
+- web page design and code
+     - Webflow: The no-code platform for web design and development
+- Code Analysis (with github account)
+     - codebeat.co
+- google || onedrive diagramming
+     - Flowchart Maker & Online Diagram Software
+- Online code editor
+     - codesandbox.io
+- Bank Account Syncing
+     - Plaid: Enabling all companies to build fintech solutions
+- Web Code Generator
+     - Web Code Tools
+- HTML Entity search
+     - http://www.amp-what.com/unicode/search/eye
+- Sprite Maker
+     - Piskel - Free online sprite editor
+- adobe color
+    - Adobe Color: Color wheel, a color palette generator
+- box shadow
+    - boxShadows | CSS box-shadow editor & quick presets
+- CSS transitions
+    - Transition.css - easy transitions with clip-path
+- create videos programmatically
+    - JonnyBurger/remotion: 🎥 Create videos programmatically in React
+    - mifi/editly: Slick, declarative command line video editing & API
+
+
