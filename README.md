@@ -15,6 +15,9 @@ PRs welcome!
 ## Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
+- [From JS to Rust](https://github.com/vinodotdev/node-to-rust/)
+- [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Rust Lang Book](https://doc.rust-lang.org/book/)
 
 ## Code Tools
 
@@ -22,7 +25,6 @@ PRs welcome!
 - [Natto.dev - diagram code](https://natto.dev/)
 - [Haiku Animator](https://github.com/HaikuTeam/animator)
 - [IndiePen](https://indiepen.tech/)
-
 
 ## CSS
 
@@ -49,6 +51,9 @@ PRs welcome!
 
 Keep note of License requirements...
 
+- [Adobe Color: Make color schemes](https://color.adobe.com/create/color-wheel)
+- [CodeSandbox](https://codesandbox.io)
+- [HackMD: Team Knowledge Base with MD](https://hackmd.io/)
 - [Feather Icons](https://feathericons.com/)
 - [Font Awesome](http://fontawesome.io/icons/)
 - [React Icons](https://www.npmjs.com/package/react-icons)
@@ -80,6 +85,7 @@ Keep note of License requirements...
 - [PhosphorIcons](https://phosphoricons.com/)
 - [SVG Repo](https://www.svgrepo.com/)
 - [Free Fonts](https://www.ffonts.net/)
+- [Favicon Generator](https://realfavicongenerator.net/)
 
 ## Freelance
 
@@ -104,6 +110,9 @@ Keep note of License requirements...
 
 - [Does it Mutate?](https://doesitmutate.xyz/)
 - [React hooks](https://react-hooks.org/docs/hooks-list/)
+- [Three.js](https://threejs.org/)
+- [Make Wireframes with CSS](https://github.com/agauniyal/wireframe)
+- [JS Animations](https://github.com/popmotion/popmotion)
 
 ## JS Games
 
@@ -189,44 +198,24 @@ Keep note of License requirements...
 
 ## TO SORT AND LINKIFY
 
-JAVASCRIPT / LIBRARIES / FRAMEWORKS
-- Animation Library
-     - https://threejs.org/
-- Graph library
-     - http://ui.toast.com/tui-chart/
-- Make Wireframes with CSS
-     - https://github.com/agauniyal/wireframe
-- Javascript animations
-     - https://github.com/popmotion/popmotion
-
-
 TOOLS
-- hack markdown
-     - HackMD - Collaborative Markdown Knowledge Base
+
 - web page design and code
-     - Webflow: The no-code platform for web design and development
+  - Webflow: The no-code platform for web design and development
 - Code Analysis (with github account)
-     - codebeat.co
+  - codebeat.co
 - google || onedrive diagramming
-     - Flowchart Maker & Online Diagram Software
-- Online code editor
-     - codesandbox.io
-- Bank Account Syncing
-     - Plaid: Enabling all companies to build fintech solutions
+  - Flowchart Maker & Online Diagram Software
 - Web Code Generator
-     - Web Code Tools
+  - Web Code Tools
 - HTML Entity search
-     - http://www.amp-what.com/unicode/search/eye
+  - http://www.amp-what.com/unicode/search/eye
 - Sprite Maker
-     - Piskel - Free online sprite editor
-- adobe color
-    - Adobe Color: Color wheel, a color palette generator
+  - Piskel - Free online sprite editor
 - box shadow
-    - boxShadows | CSS box-shadow editor & quick presets
+  - boxShadows | CSS box-shadow editor & quick presets
 - CSS transitions
-    - Transition.css - easy transitions with clip-path
+  - Transition.css - easy transitions with clip-path
 - create videos programmatically
-    - JonnyBurger/remotion: 🎥 Create videos programmatically in React
-    - mifi/editly: Slick, declarative command line video editing & API
-
-
+  - JonnyBurger/remotion: 🎥 Create videos programmatically in React
+  - mifi/editly: Slick, declarative command line video editing & API
