@@ -46,6 +46,7 @@ PRs welcome!
 - [Color Schemes](https://css-tricks.com/re-pleasing-color-palettes/)
 - [What No One Told you about z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 - [Understanding Z-Index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
+- [CSS Loaders](https://loading.io/css/)
 
 ## Free Resources
 
