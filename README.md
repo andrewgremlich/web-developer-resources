@@ -87,6 +87,10 @@ Keep note of License requirements...
 - [SVG Repo](https://www.svgrepo.com/)
 - [Free Fonts](https://www.ffonts.net/)
 - [Favicon Generator](https://realfavicongenerator.net/)
+- [Flowchart.Fun: Diagrams website](https://flowchart.fun/)
+- Reveal.JS
+  - [Main website](https://revealjs.com/)
+  - [Slides](https://slides.com/)
 
 ## Freelance
 
@@ -114,6 +118,10 @@ Keep note of License requirements...
 - [Three.js](https://threejs.org/)
 - [Make Wireframes with CSS](https://github.com/agauniyal/wireframe)
 - [JS Animations](https://github.com/popmotion/popmotion)
+- [Codepen.IO](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [Stack Blitz](https://stackblitz.com/)
+- [Vscode.dev](https://vscode.dev/)
 
 ## JS Games
 
