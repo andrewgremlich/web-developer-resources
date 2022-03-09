@@ -18,6 +18,8 @@ PRs welcome!
 - [From JS to Rust](https://github.com/vinodotdev/node-to-rust/)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Rust Lang Book](https://doc.rust-lang.org/book/)
+- [Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [MDN](https://github.com/mdn/content)
 
 ## Code Tools
 
@@ -47,6 +49,8 @@ PRs welcome!
 - [What No One Told you about z-index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 - [Understanding Z-Index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
 - [CSS Loaders](https://loading.io/css/)
+- [Transition Style: CSS transitions](https://www.transition.style/)
+- [BoxShadows: Style box shadows in browser](https://boxshadows.com/)
 
 ## Free Resources
 
@@ -91,6 +95,12 @@ Keep note of License requirements...
 - Reveal.JS
   - [Main website](https://revealjs.com/)
   - [Slides](https://slides.com/)
+- [CodeBeat: Get Code feedback](https://codebeat.co/)
+- [HTML Entity search](https://www.amp-what.com/)
+- [Piskel: Free Sprite Creator](https://www.piskelapp.com/)
+- [Webflow: Build a website with the code](https://webflow.com/)
+- [Draw.io: Diagrams that sync to google drive](https://app.diagrams.net/)
+- [Web Code Tools: Interactive Coding shortcuts](https://webcode.tools/)
 
 ## Freelance
 
@@ -122,6 +132,9 @@ Keep note of License requirements...
 - [JSFiddle](https://jsfiddle.net/)
 - [Stack Blitz](https://stackblitz.com/)
 - [Vscode.dev](https://vscode.dev/)
+- Edit Videos with JS
+  - [editly](https://github.com/mifi/editly)
+  - [remotion](https://github.com/remotion-dev/remotion)
 
 ## JS Games
 
@@ -204,27 +217,3 @@ Keep note of License requirements...
 - [NoIP - Free Subdomains](https://www.noip.com/)
 - [Lets Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 - [Automated Domain Management](https://dnsimple.com/)
-
-## TO SORT AND LINKIFY
-
-TOOLS
-
-- web page design and code
-  - Webflow: The no-code platform for web design and development
-- Code Analysis (with github account)
-  - codebeat.co
-- google || onedrive diagramming
-  - Flowchart Maker & Online Diagram Software
-- Web Code Generator
-  - Web Code Tools
-- HTML Entity search
-  - http://www.amp-what.com/unicode/search/eye
-- Sprite Maker
-  - Piskel - Free online sprite editor
-- box shadow
-  - boxShadows | CSS box-shadow editor & quick presets
-- CSS transitions
-  - Transition.css - easy transitions with clip-path
-- create videos programmatically
-  - JonnyBurger/remotion: 🎥 Create videos programmatically in React
-  - mifi/editly: Slick, declarative command line video editing & API
