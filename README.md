@@ -101,6 +101,8 @@ Keep note of License requirements...
 - [Webflow: Build a website with the code](https://webflow.com/)
 - [Draw.io: Diagrams that sync to google drive](https://app.diagrams.net/)
 - [Web Code Tools: Interactive Coding shortcuts](https://webcode.tools/)
+- [Easy Retro](https://easyretro.io/)
+- [Awesome Tech Stack](https://awesometechstack.com/)
 
 ## Freelance
 
