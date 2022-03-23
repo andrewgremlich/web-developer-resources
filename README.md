@@ -27,6 +27,11 @@ PRs welcome!
 - [Natto.dev - diagram code](https://natto.dev/)
 - [Haiku Animator](https://github.com/HaikuTeam/animator)
 - [IndiePen](https://indiepen.tech/)
+- [Codepen.IO](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [CodeSandbox](https://codesandbox.io)
+- [Stack Blitz](https://stackblitz.com/)
+- [Vscode.dev](https://vscode.dev/)
 
 ## CSS
 
@@ -57,7 +62,6 @@ PRs welcome!
 Keep note of License requirements...
 
 - [Adobe Color: Make color schemes](https://color.adobe.com/create/color-wheel)
-- [CodeSandbox](https://codesandbox.io)
 - [HackMD: Team Knowledge Base with MD](https://hackmd.io/)
 - [Feather Icons](https://feathericons.com/)
 - [Font Awesome](http://fontawesome.io/icons/)
@@ -130,10 +134,6 @@ Keep note of License requirements...
 - [Three.js](https://threejs.org/)
 - [Make Wireframes with CSS](https://github.com/agauniyal/wireframe)
 - [JS Animations](https://github.com/popmotion/popmotion)
-- [Codepen.IO](https://codepen.io/)
-- [JSFiddle](https://jsfiddle.net/)
-- [Stack Blitz](https://stackblitz.com/)
-- [Vscode.dev](https://vscode.dev/)
 - Edit Videos with JS
   - [editly](https://github.com/mifi/editly)
   - [remotion](https://github.com/remotion-dev/remotion)
