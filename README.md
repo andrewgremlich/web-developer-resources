@@ -115,6 +115,9 @@ Keep note of License requirements...
 - [Triple Byte](https://triplebyte.com)
 - [Coder Byte](https://coderbyte.com/)
 - DXI: [full story](https://www.fullstory.com/)
+- [CodeMentor](https://www.codementor.io/)
+- [Freelance guide](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
+- [Freelance guide 2](https://sunilc.medium.com/kick-start-your-freelancing-career-with-these-tips-747cc27a150f)
 
 ## Fun websites
 
