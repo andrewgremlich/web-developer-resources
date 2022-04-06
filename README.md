@@ -129,6 +129,7 @@ Keep note of License requirements...
 - [Meteor showers from space](https://www.meteorshowers.org/view/all)
 - [WinBox](https://nextapps-de.github.io/winbox/)
 - [OpenSky-Network](https://opensky-network.org/)
+- [100 Cool Web Moments](https://developer.chrome.com/100/)
 
 ## JS
 
@@ -140,6 +141,7 @@ Keep note of License requirements...
 - Edit Videos with JS
   - [editly](https://github.com/mifi/editly)
   - [remotion](https://github.com/remotion-dev/remotion)
+- [React libraries Reference](https://www.robinwieruch.de/react-libraries/)
 
 ## JS Games
 
