@@ -182,6 +182,8 @@ Keep note of License requirements...
 - [33 JS concepts](https://github.com/leonardomso/33-js-concepts)
 - [WebGL libraries](https://areknawo.com/your-webgl-aiders/)
 - [What is REST](https://restfulapi.net/)
+- [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
+- [JS and Node Best practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
 
 ## Service Workers
 
