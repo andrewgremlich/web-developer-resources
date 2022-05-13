@@ -142,7 +142,6 @@ Keep note of License requirements...
   - [editly](https://github.com/mifi/editly)
   - [remotion](https://github.com/remotion-dev/remotion)
 - [React libraries Reference](https://www.robinwieruch.de/react-libraries/)
-- [JS13K](https://js13kgames.com/)
 
 ## JS Games
 
@@ -150,6 +149,16 @@ Keep note of License requirements...
 - HTML 5 Game Examples: [10 Retro Video Games](https://speckyboy.com/retro-video-games-html5-js-css/)
 - [Meteor](http://multeor.com/)
 - [Godot Engine](https://godotengine.org/)
+- [Net games](https://netgames.io/games/)
+- [Online Games Github ref](https://github.com/leereilly/games)
+
+  - [Similar Ref](https://gist.github.com/roachhd/d579b58148d7e36a6b72#major-companies)
+
+- [Github web game collection](https://github.com/collections/web-games)
+- [JS13K](https://js13kgames.com/)
+- [powerline](https://powerline.io/)
+- [slither io](http://slither.io/)
+- [Hextris](https://hextris.io/)
 
 ## Module Service
 
