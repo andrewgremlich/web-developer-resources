@@ -143,7 +143,7 @@ Keep note of License requirements...
   - [remotion](https://github.com/remotion-dev/remotion)
 - [React libraries Reference](https://www.robinwieruch.de/react-libraries/)
 
-## JS Games
+## Online Games
 
 - Game Theory: [Evolution of Trust](http://ncase.me/trust/)
 - HTML 5 Game Examples: [10 Retro Video Games](https://speckyboy.com/retro-video-games-html5-js-css/)
@@ -159,6 +159,11 @@ Keep note of License requirements...
 - [powerline](https://powerline.io/)
 - [slither io](http://slither.io/)
 - [Hextris](https://hextris.io/)
+- [Chicken Koup](https://www.chickenkoup.com/)
+- [Let's go build a](https://dr-d-king.itch.io/lets-go-build-a)
+- [SecretHitler](https://secrethitler.io/)
+- [Lichess](https://lichess.org/)
+- [Tiny Islands](https://dr-d-king.itch.io/tiny-islands)
 
 ## Module Service
 
