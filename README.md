@@ -62,6 +62,7 @@ PRs welcome!
 Keep note of License requirements...
 
 - [Adobe Color: Make color schemes](https://color.adobe.com/create/color-wheel)
+- [OneSignal: Text Messaging](https://onesignal.com/pricing)
 - [HackMD: Team Knowledge Base with MD](https://hackmd.io/)
 - [Feather Icons](https://feathericons.com/)
 - [Font Awesome](http://fontawesome.io/icons/)
@@ -164,6 +165,7 @@ Keep note of License requirements...
 - [SecretHitler](https://secrethitler.io/)
 - [Lichess](https://lichess.org/)
 - [Tiny Islands](https://dr-d-king.itch.io/tiny-islands)
+- [Codenames](https://codenames.game/)
 
 ## Module Service
 
