@@ -32,6 +32,7 @@ PRs welcome!
 - [CodeSandbox](https://codesandbox.io)
 - [Stack Blitz](https://stackblitz.com/)
 - [Vscode.dev](https://vscode.dev/)
+- [Glitch](https://glitch.com/)
 
 ## CSS
 
@@ -243,3 +244,12 @@ Keep note of License requirements...
 - [NoIP - Free Subdomains](https://www.noip.com/)
 - [Lets Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 - [Automated Domain Management](https://dnsimple.com/)
+
+## Web Hosting/Functions
+
+- [Netlify](https://www.netlify.com/)
+- [Vercel](https://vercel.com/)
+- [Firebase](https://firebase.google.com/)
+- [Heroku](https://www.heroku.com/)
+- [Digital Ocean](https://www.digitalocean.com/)
+- [Fastly](https://www.fastly.com/)
