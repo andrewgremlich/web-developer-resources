@@ -109,6 +109,7 @@ Keep note of License requirements...
 - [Web Code Tools: Interactive Coding shortcuts](https://webcode.tools/)
 - [Easy Retro](https://easyretro.io/)
 - [Awesome Tech Stack](https://awesometechstack.com/)
+- [Boring Avatars](https://boringavatars.com/)
 
 ## Freelance
 
