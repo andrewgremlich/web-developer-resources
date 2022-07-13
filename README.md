@@ -20,6 +20,9 @@ PRs welcome!
 - [Rust Lang Book](https://doc.rust-lang.org/book/)
 - [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [MDN](https://github.com/mdn/content)
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Open Source Society University](https://github.com/ossu/computer-science)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Code Tools
 
@@ -206,6 +209,7 @@ Keep note of License requirements...
 - [What is REST](https://restfulapi.net/)
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - [JS and Node Best practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
+- [Looks.wtf: All sorts of text emoji](https://looks.wtf/)
 
 ## Service Workers
 
