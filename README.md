@@ -211,6 +211,7 @@ Keep note of License requirements...
 - [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - [JS and Node Best practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
 - [Looks.wtf: All sorts of text emoji](https://looks.wtf/)
+- [ECMAScript Specification](https://262.ecma-international.org/)
 
 ## Service Workers
 
