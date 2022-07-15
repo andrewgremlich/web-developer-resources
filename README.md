@@ -160,9 +160,7 @@ Keep note of License requirements...
 - [Godot Engine](https://godotengine.org/)
 - [Net games](https://netgames.io/games/)
 - [Online Games Github ref](https://github.com/leereilly/games)
-
   - [Similar Ref](https://gist.github.com/roachhd/d579b58148d7e36a6b72#major-companies)
-
 - [Github web game collection](https://github.com/collections/web-games)
 - [JS13K](https://js13kgames.com/)
 - [powerline](https://powerline.io/)
