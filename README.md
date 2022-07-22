@@ -173,6 +173,7 @@ Keep note of License requirements...
 - [Tiny Islands](https://dr-d-king.itch.io/tiny-islands)
 - [Codenames](https://codenames.game/)
 - [Garctic Phone Game](https://garticphone.com/)
+- [Sandspiel](https://sandspiel.club/)
 
 ## Module Service
 
@@ -210,6 +211,7 @@ Keep note of License requirements...
 - [JS and Node Best practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
 - [Looks.wtf: All sorts of text emoji](https://looks.wtf/)
 - [ECMAScript Specification](https://262.ecma-international.org/)
+- [Made with Webassembly](https://madewithwebassembly.com/)
 
 ## Service Workers
 
