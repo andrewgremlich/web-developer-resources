@@ -151,6 +151,8 @@ Keep note of License requirements...
   - [remotion](https://github.com/remotion-dev/remotion)
 - [React libraries Reference](https://www.robinwieruch.de/react-libraries/)
 - [Component Storybook Showcase](https://storybook.js.org/showcase)
+- [Esbuild dev in browser](https://esb.deno.dev/)
+- [Fireworks JS](https://fireworks.js.org/)
 
 ## Online Games
 
