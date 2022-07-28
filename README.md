@@ -212,6 +212,7 @@ Keep note of License requirements...
 - [Looks.wtf: All sorts of text emoji](https://looks.wtf/)
 - [ECMAScript Specification](https://262.ecma-international.org/)
 - [Made with Webassembly](https://madewithwebassembly.com/)
+- [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 ## Service Workers
 
