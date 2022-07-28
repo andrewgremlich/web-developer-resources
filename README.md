@@ -249,6 +249,7 @@ Keep note of License requirements...
 - [Rust’s own wasm website tutorial](https://rustwasm.github.io/book/)
 - [Rocket.rs - Rust web server](https://rocket.rs/guide/)
 - [Wasm-pack](https://github.com/rustwasm/wasm-pack)
+- [NAPI-RS](https://napi.rs/)
 
 ## Website deployment
 
