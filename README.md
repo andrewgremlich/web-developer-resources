@@ -267,3 +267,4 @@ Keep note of License requirements...
 - [Heroku](https://www.heroku.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Fastly](https://www.fastly.com/)
+- [Fly.io](https://fly.io/)
