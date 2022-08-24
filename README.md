@@ -75,7 +75,8 @@ Keep note of License requirements...
 - [Resource Cards](https://resourcecards.com/)
 - [AppScope](https://appsco.pe/)
 - [Free front end: Code examples](https://freefrontend.com/)
-- [123apps](https://123apps.com/)
+- [123apps: Bunc of free tools](https://123apps.com/)
+- [Tiny wow: bunch of free tools](https://tinywow.com/)
 - [Audio Tools](https://vocalremover.org/)
 - [Free for Dev](https://free-for.dev/#/)
 - [Awesome List](https://www.trackawesomelist.com/)
@@ -215,6 +216,8 @@ Keep note of License requirements...
 - [ECMAScript Specification](https://262.ecma-international.org/)
 - [Made with Webassembly](https://madewithwebassembly.com/)
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+- [WolframAlpha: AI calculations](https://www.wolframalpha.com/)
+- [opensourcealternative.to](https://www.opensourcealternative.to/)
 
 ## Service Workers
 
