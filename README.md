@@ -219,6 +219,7 @@ Keep note of License requirements...
 - [WolframAlpha: AI calculations](https://www.wolframalpha.com/)
 - [opensourcealternative.to](https://www.opensourcealternative.to/)
 - [Checklist Design](https://www.checklist.design/)
+- [Deno Cheat Sheet](https://oscarotero.com/deno/)
 
 ## Service Workers
 
