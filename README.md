@@ -218,6 +218,7 @@ Keep note of License requirements...
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 - [WolframAlpha: AI calculations](https://www.wolframalpha.com/)
 - [opensourcealternative.to](https://www.opensourcealternative.to/)
+- [Checklist Design](https://www.checklist.design/)
 
 ## Service Workers
 
