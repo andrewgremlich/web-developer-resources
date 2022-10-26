@@ -4,6 +4,8 @@ A wide breadth of web developer resources.
 
 PRs welcome!
 
+[web dev resources by Marko Denic](https://web-dev-resources.com/#/)
+
 ## Backend Development
 
 - [Manage Backend Self Host](https://appwrite.io/)
@@ -36,6 +38,7 @@ PRs welcome!
 - [Stack Blitz](https://stackblitz.com/)
 - [Vscode.dev](https://vscode.dev/)
 - [Glitch](https://glitch.com/)
+- [Replit](https://replit.com/)
 
 ## CSS
 
@@ -116,6 +119,7 @@ Keep note of License requirements...
 - [Boring Avatars](https://boringavatars.com/)
 - [RunKit: Node env in browser](https://runkit.com/home)
 - [Concourse CI](https://concourse-ci.org/)
+- [NameLix: Business name generator](https://namelix.com/)
 
 ## Freelance
 
@@ -200,6 +204,8 @@ Keep note of License requirements...
 - [JavaScript Golf](https://www.lesscake.com/code-golf-javascript)
 - [Devhints](https://devhints.io/)
 - [Design Resource websites](https://css-tricks.com/design-resource-sites/)
+- [Design Laws of UX](https://lawsofux.com/en/)
+- [Microcopy](https://www.microcopy.me/)
 - [Critical Rendering Path of Browser](https://css-tricks.com/the-critical-request/)
 - [3D web graphics](https://css-tricks.com/creating-photorealistic-3d-graphics-web/)
 - [No jQuery!](https://css-tricks.com/now-ever-might-not-need-jquery/)
