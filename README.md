@@ -158,6 +158,7 @@ Keep note of License requirements...
 - [Component Storybook Showcase](https://storybook.js.org/showcase)
 - [Esbuild dev in browser](https://esb.deno.dev/)
 - [Fireworks JS](https://fireworks.js.org/)
+- [EJM.sh: import json modules into deno](https://ejm.sh)
 
 ## Online Games
 
