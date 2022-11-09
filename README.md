@@ -2,8 +2,6 @@
 
 A wide breadth of web developer resources.
 
-PRs welcome!
-
 [web dev resources by Marko Denic](https://web-dev-resources.com/#/)
 
 ## Backend Development
@@ -228,6 +226,9 @@ Keep note of License requirements...
 - [Checklist Design](https://www.checklist.design/)
 - [Deno Cheat Sheet](https://oscarotero.com/deno/)
 - [All Things How](https://allthings.how/)
+- [Can I Use](https://caniuse.com/)
+- [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## Service Workers
 
