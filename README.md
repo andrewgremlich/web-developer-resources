@@ -2,8 +2,10 @@
 
 A wide breadth of web developer resources.
 
-[web dev resources by Marko Denic](https://web-dev-resources.com/#/)
-[dev-box.app](https://www.dev-box.app/)
+## Other Resource Collection sites
+
+- [web dev resources by Marko Denic](https://web-dev-resources.com/#/)
+- [dev-box.app](https://www.dev-box.app/)
 
 ## Backend Development
 
@@ -65,23 +67,39 @@ A wide breadth of web developer resources.
 
 ## Design
 
+Keep note of License requirements...
+
 - [Color Picker](https://colorpicker.me/)
 - [Color Scheme Generator](https://colorffy.com/color-scheme-generator)
+- [Adobe Color: Make color schemes](https://color.adobe.com/create/color-wheel)
 - [Design Resource websites](https://css-tricks.com/design-resource-sites/)
 - [Design Laws of UX](https://lawsofux.com/en/)
 - [Checklist Design](https://www.checklist.design/)
+- [Draw.io: Diagrams that sync to google drive](https://app.diagrams.net/)
+- [NounProject](https://thenounproject.com/)
+- [Canvas](https://canvas.apps.chrome/)
+- [Fotor](https://www.fotor.com/)
+- [GIMP](https://www.gimp.org/)
+- [MeshGradient](https://meshgradient.com/)
+- [Stock IO](https://www.stockio.com/)
+- [PhosphorIcons](https://phosphoricons.com/)
+- [SVG Repo](https://www.svgrepo.com/)
+- [Free Fonts](https://www.ffonts.net/)
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [Piskel: Free Sprite Creator](https://www.piskelapp.com/)
+- [All The Free Stock](https://allthefreestock.com/)
+- [Unsplash: Free Pictures](https://unsplash.com/)
+- [Feather Icons](https://feathericons.com/)
+- [Font Awesome](http://fontawesome.io/icons/)
+- [React Icons](https://www.npmjs.com/package/react-icons)
+- [Penpot App](https://penpot.app/)
 
 ## Free Resources
 
 Keep note of License requirements...
 
-- [Adobe Color: Make color schemes](https://color.adobe.com/create/color-wheel)
 - [OneSignal: Text Messaging](https://onesignal.com/pricing)
 - [HackMD: Team Knowledge Base with MD](https://hackmd.io/)
-- [Feather Icons](https://feathericons.com/)
-- [Font Awesome](http://fontawesome.io/icons/)
-- [React Icons](https://www.npmjs.com/package/react-icons)
-- [Unsplash: Free Pictures](https://unsplash.com/)
 - [Resource Cards](https://resourcecards.com/)
 - [AppScope](https://appsco.pe/)
 - [Free front end: Code examples](https://freefrontend.com/)
@@ -91,35 +109,21 @@ Keep note of License requirements...
 - [Free for Dev](https://free-for.dev/#/)
 - [Awesome List](https://www.trackawesomelist.com/)
 - [Standard Notes: Encrypted notes](https://standardnotes.com/)
-- [Penpot App](https://penpot.app/)
 - [Posthog](https://posthog.com/)
-- [MeshGradient](https://meshgradient.com/)
-- [NounProject](https://thenounproject.com/)
-- [Canvas](https://canvas.apps.chrome/)
-- [Fotor](https://www.fotor.com/)
-- [GIMP](https://www.gimp.org/)
 - [Make Code Pictures](https://ray.so/)
 - [Streamline Icons](https://streamlinehq.com/)
 - [CodeMyUi](https://codemyui.com/)
 - [Sound Bible](https://soundbible.com/)
-- [All The Free Stock](https://allthefreestock.com/)
-- [Stock IO](https://www.stockio.com/)
 - [SEO tools](https://saijogeorge.com/best-marketing-tools/)
 - [Remote Starter Kit](https://www.remotestarterkit.com/)
 - [Smashing Magazine: Freebies Category](https://www.smashingmagazine.com/category/freebies)
-- [PhosphorIcons](https://phosphoricons.com/)
-- [SVG Repo](https://www.svgrepo.com/)
-- [Free Fonts](https://www.ffonts.net/)
-- [Favicon Generator](https://realfavicongenerator.net/)
 - [Flowchart.Fun: Diagrams website](https://flowchart.fun/)
 - Reveal.JS
   - [Main website](https://revealjs.com/)
   - [Slides](https://slides.com/)
 - [CodeBeat: Get Code feedback](https://codebeat.co/)
 - [HTML Entity search](https://www.amp-what.com/)
-- [Piskel: Free Sprite Creator](https://www.piskelapp.com/)
 - [Webflow: Build a website with the code](https://webflow.com/)
-- [Draw.io: Diagrams that sync to google drive](https://app.diagrams.net/)
 - [Web Code Tools: Interactive Coding shortcuts](https://webcode.tools/)
 - [Easy Retro](https://easyretro.io/)
 - [Awesome Tech Stack](https://awesometechstack.com/)
