@@ -63,6 +63,14 @@ A wide breadth of web developer resources.
 - [Transition Style: CSS transitions](https://www.transition.style/)
 - [BoxShadows: Style box shadows in browser](https://boxshadows.com/)
 
+## Design
+
+- [Color Picker](https://colorpicker.me/)
+- [Color Scheme Generator](https://colorffy.com/color-scheme-generator)
+- [Design Resource websites](https://css-tricks.com/design-resource-sites/)
+- [Design Laws of UX](https://lawsofux.com/en/)
+- [Checklist Design](https://www.checklist.design/)
+
 ## Free Resources
 
 Keep note of License requirements...
@@ -203,8 +211,6 @@ Keep note of License requirements...
 - [HEAD - What should go in the head](https://htmlhead.dev/)
 - [JavaScript Golf](https://www.lesscake.com/code-golf-javascript)
 - [Devhints](https://devhints.io/)
-- [Design Resource websites](https://css-tricks.com/design-resource-sites/)
-- [Design Laws of UX](https://lawsofux.com/en/)
 - [Microcopy](https://www.microcopy.me/)
 - [Critical Rendering Path of Browser](https://css-tricks.com/the-critical-request/)
 - [3D web graphics](https://css-tricks.com/creating-photorealistic-3d-graphics-web/)
@@ -224,7 +230,6 @@ Keep note of License requirements...
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 - [WolframAlpha: AI calculations](https://www.wolframalpha.com/)
 - [opensourcealternative.to](https://www.opensourcealternative.to/)
-- [Checklist Design](https://www.checklist.design/)
 - [Deno Cheat Sheet](https://oscarotero.com/deno/)
 - [All Things How](https://allthings.how/)
 - [Can I Use](https://caniuse.com/)
