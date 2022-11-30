@@ -7,6 +7,14 @@ A wide breadth of web developer resources.
 - [web dev resources by Marko Denic](https://web-dev-resources.com/#/)
 - [dev-box.app](https://www.dev-box.app/)
 
+## AI tools
+
+- [Jasper AI](https://www.jasper.ai/)
+- [Hemingway AI](https://contentbot.ai/hemingway-ai)
+- [Copy AI](https://www.copy.ai/)
+- [Awesome AI](https://github.com/amusi/awesome-ai-awesomeness)
+- [Mem AI](https://get.mem.ai/)
+
 ## Backend Development
 
 - [Manage Backend Self Host](https://appwrite.io/)
@@ -93,6 +101,9 @@ Keep note of License requirements...
 - [Font Awesome](http://fontawesome.io/icons/)
 - [React Icons](https://www.npmjs.com/package/react-icons)
 - [Penpot App](https://penpot.app/)
+- [Canva](https://www.canva.com/)
+- [Paint JS org](https://paint.js.org/)
+- [JS Paint APP](https://jspaint.app/#local:d0610fe432fb8)
 
 ## Free Resources
 
@@ -131,6 +142,7 @@ Keep note of License requirements...
 - [RunKit: Node env in browser](https://runkit.com/home)
 - [Concourse CI](https://concourse-ci.org/)
 - [NameLix: Business name generator](https://namelix.com/)
+- [Readwise](https://readwise.io/)
 
 ## Freelance
 
@@ -142,6 +154,8 @@ Keep note of License requirements...
 - [CodeMentor](https://www.codementor.io/)
 - [Freelance guide](https://www.freecodecamp.org/news/freelance-web-developer-guide/)
 - [Freelance guide 2](https://sunilc.medium.com/kick-start-your-freelancing-career-with-these-tips-747cc27a150f)
+- [Zapier: Automation](https://zapier.com/)
+- [Make: Automation](https://www.make.com/en)
 
 ## Fun websites
 
@@ -292,3 +306,6 @@ Keep note of License requirements...
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Fastly](https://www.fastly.com/)
 - [Fly.io](https://fly.io/)
+- [Gumroad](https://gumroad.com/)
+- [Typedream](https://typedream.com/)
+- [Carrd](https://carrd.co/)
