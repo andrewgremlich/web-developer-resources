@@ -73,6 +73,7 @@ A wide breadth of web developer resources.
 - [CSS Loaders](https://loading.io/css/)
 - [Transition Style: CSS transitions](https://www.transition.style/)
 - [BoxShadows: Style box shadows in browser](https://boxshadows.com/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
 ## Design
 
