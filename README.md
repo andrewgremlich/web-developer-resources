@@ -18,8 +18,6 @@ A wide breadth of web developer resources.
 ## Backend Development
 
 - [Manage Backend Self Host](https://appwrite.io/)
-- [Supabase](https://supabase.com/)
-- [Firebase](https://firebase.google.com/)
 - [Unsplash](https://unsplash.com/developers)
 - [Deno Deploy](https://deno.com/deploy)
 
@@ -74,6 +72,12 @@ A wide breadth of web developer resources.
 - [Transition Style: CSS transitions](https://www.transition.style/)
 - [BoxShadows: Style box shadows in browser](https://boxshadows.com/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
+
+## Database (hosted)
+
+- [FaunaDB](https://fauna.com/)
+- [Supabase](https://supabase.com/)
+- [Firebase](https://firebase.google.com/)
 
 ## Design
 
