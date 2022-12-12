@@ -150,8 +150,11 @@ Keep note of License requirements...
 - [Concourse CI](https://concourse-ci.org/)
 - [NameLix: Business name generator](https://namelix.com/)
 - [Readwise](https://readwise.io/)
+- [Common Crawl](https://commoncrawl.org/)
 
 ## Freelance
+
+Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Linsley](https://github.com/tannerlinsley)?
 
 - [Gitcoin](https://gitcoin.co/)
 - [Upwork](http://upwork.com)
