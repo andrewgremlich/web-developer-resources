@@ -179,7 +179,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [OpenSky-Network](https://opensky-network.org/)
 - [100 Cool Web Moments](https://developer.chrome.com/100/)
 
-## JS
+## JavaScript
 
 - [Does it Mutate?](https://doesitmutate.xyz/)
 - [React hooks](https://react-hooks.org/docs/hooks-list/)
@@ -197,6 +197,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Deno](https://deno.land/)
 - [Bun](https://bun.sh/)
 - [Make your own Runtime](https://deno.com/blog/roll-your-own-javascript-runtime)
+- [Snow!](https://embed.im/snow/)
 
 ## Online Games
 
