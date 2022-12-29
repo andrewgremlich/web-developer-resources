@@ -221,12 +221,14 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Codenames](https://codenames.game/)
 - [Garctic Phone Game](https://garticphone.com/)
 - [Sandspiel](https://sandspiel.club/)
+- [Air Console](https://www.airconsole.com/)
 
 ## Module Service
 
 - [UNPKG](https://unpkg.com/)
 - [SkyPack](https://www.skypack.dev/)
 - [ESM.SH](https://esm.sh/)
+- [Bundle JS](https://bundlejs.com/)
 
 ## Peer 2 Peer
 
@@ -268,6 +270,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Can I Use](https://caniuse.com/)
 - [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Complete Guide to CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Fugu Showcase (PWAs)](https://developer.chrome.com/blog/fugu-showcase/)
 
 ## Service Workers
 
