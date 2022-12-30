@@ -223,6 +223,8 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Sandspiel](https://sandspiel.club/)
 - [Air Console](https://www.airconsole.com/)
 - [Antstream](https://www.antstream.com/)
+- [Happy Fun Times](https://docs.happyfuntimes.net/)
+- [RocketCrab](https://rocketcrab.com/)
 
 ## Module Service
 
