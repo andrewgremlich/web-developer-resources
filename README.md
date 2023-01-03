@@ -24,6 +24,7 @@ A wide breadth of web developer resources.
 - [From JS to Rust](https://github.com/vinodotdev/node-to-rust/)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Rust Lang Book](https://doc.rust-lang.org/book/)
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 - [Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [MDN](https://github.com/mdn/content)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
