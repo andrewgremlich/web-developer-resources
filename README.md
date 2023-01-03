@@ -14,12 +14,9 @@ A wide breadth of web developer resources.
 - [Copy AI](https://www.copy.ai/)
 - [Awesome AI](https://github.com/amusi/awesome-ai-awesomeness)
 - [Mem AI](https://get.mem.ai/)
-
-## Backend Development
-
-- [Manage Backend Self Host](https://appwrite.io/)
-- [Unsplash](https://unsplash.com/developers)
-- [Deno Deploy](https://deno.com/deploy)
+- [Chat GPT](https://chat.openai.com/)
+- [Dalle 2](https://openai.com/dall-e-2/)
+- 
 
 ## Books
 
@@ -79,11 +76,13 @@ A wide breadth of web developer resources.
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Help Generate Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
-## Database (hosted)
+## Backend DB and Server host
 
 - [FaunaDB](https://fauna.com/)
 - [Supabase](https://supabase.com/)
 - [Firebase](https://firebase.google.com/)
+- [Deno Deploy](https://deno.com/deploy)
+- [Appwrite](https://appwrite.io/)
 
 ## Design
 
@@ -183,6 +182,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [WinBox](https://nextapps-de.github.io/winbox/)
 - [OpenSky-Network](https://opensky-network.org/)
 - [100 Cool Web Moments](https://developer.chrome.com/100/)
+- [Github Contributions](https://github-contributions.vercel.app/)
 
 ## JavaScript
 
