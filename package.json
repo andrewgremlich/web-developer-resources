@@ -4,7 +4,7 @@
   "description": "A wide breadth of web developer resources.",
   "main": "index.js",
   "scripts": {
-    "build": "marked -o index.html -i README.md"
+    "build": "node build-index.js"
   },
   "repository": {
     "type": "git",
