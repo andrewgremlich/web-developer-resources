@@ -30,6 +30,7 @@ A wide breadth of web developer resources.
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [Open Source Society University](https://github.com/ossu/computer-science)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 
 ## CMS
 
