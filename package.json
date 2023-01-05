@@ -1,0 +1,23 @@
+{
+  "name": "web-developer-resources",
+  "version": "1.0.0",
+  "description": "A wide breadth of web developer resources.",
+  "main": "index.js",
+  "scripts": {
+    "build": "marked -o index.html -i README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewgremlich/web-developer-resources.git"
+  },
+  "keywords": [],
+  "author": "Andrew Gremlich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewgremlich/web-developer-resources/issues"
+  },
+  "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
+  "dependencies": {
+    "marked": "^4.2.5"
+  }
+}
