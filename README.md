@@ -204,6 +204,8 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Bun](https://bun.sh/)
 - [Make your own Runtime](https://deno.com/blog/roll-your-own-javascript-runtime)
 - [Snow!](https://embed.im/snow/)
+- [Autoregex](https://www.autoregex.xyz/)
+- [Regexr](https://regexr.com/)
 
 ## Online Games
 
