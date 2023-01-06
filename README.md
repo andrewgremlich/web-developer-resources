@@ -340,3 +340,9 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Typedream](https://typedream.com/)
 - [Carrd](https://carrd.co/)
 - [Dynaboard](https://dynaboard.com/)
+
+---
+
+## Other Resources
+
+- [Bevy Engine](https://bevyengine.org/)
