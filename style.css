@@ -26,7 +26,8 @@ h1,
 h2,
 h3,
 h4,
-p {
+p,
+li {
   color: #fff;
 }
 
@@ -70,4 +71,8 @@ a:hover {
 
 a:visited {
   color: #60bdc9;
+}
+
+ul {
+  list-style-type: none;
 }
