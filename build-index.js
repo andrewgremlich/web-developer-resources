@@ -14,10 +14,12 @@ fs.readFile("README.md", "utf8", (err, data) => {
     <title>Web Developer Resources</title>
     <meta name="author" content="Andrew Gremlich">
     <meta name="description" content="A collection of resources for a web developer">
-    <link rel="stylesheet" type="text/css" href="https://dohliam.github.io/dropin-minimal-css/min/a11yana.min.css">
+    <link rel="stylesheet" type="text/css" href="./style.css">
   </head>
   <body>
+    <main>
     ${marked.parse(data)}
+    </main>
   </body>
 </html>`;
 
