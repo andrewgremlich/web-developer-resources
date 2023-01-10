@@ -79,13 +79,15 @@ A wide breadth of web developer resources.
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Help Generate Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
-## Backend DB and Server host
+## Backend Resources
 
 - [FaunaDB](https://fauna.com/)
 - [Supabase](https://supabase.com/)
 - [Firebase](https://firebase.google.com/)
 - [Deno Deploy](https://deno.com/deploy)
 - [Appwrite](https://appwrite.io/)
+- [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
+- [Boot Dev](https://boot.dev/)
 
 ## Design
 
@@ -118,6 +120,7 @@ Keep note of License requirements...
 - [Canva](https://www.canva.com/)
 - [Paint JS org](https://paint.js.org/)
 - [JS Paint APP](https://jspaint.app/#local:d0610fe432fb8)
+- [Adobe Express](https://express.adobe.com/)
 
 ## Free Resources
 
