@@ -17,6 +17,10 @@ A wide breadth of web developer resources.
 - [Chat GPT](https://chat.openai.com/)
 - [Dalle 2](https://openai.com/dall-e-2/)
 
+## APIs
+
+- [Pirate Weather](https://pirateweather.net/)
+
 ## Books
 
 - [Eloquent JavaScript](http://eloquentjavascript.net/3rd_edition/)
@@ -161,6 +165,7 @@ Keep note of License requirements...
 - [NameLix: Business name generator](https://namelix.com/)
 - [Readwise](https://readwise.io/)
 - [Common Crawl](https://commoncrawl.org/)
+- [SDF - learn linux shell](https://sdf.org/)
 
 ## Freelance
 
@@ -189,6 +194,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [OpenSky-Network](https://opensky-network.org/)
 - [100 Cool Web Moments](https://developer.chrome.com/100/)
 - [Github Contributions](https://github-contributions.vercel.app/)
+- [Code.org](https://code.org/)
 
 ## JavaScript
 
@@ -339,6 +345,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Firebase](https://firebase.google.com/)
 - [Heroku](https://www.heroku.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
+- [Linode](https://www.linode.com/)
 - [Fastly](https://www.fastly.com/)
 - [Fly.io](https://fly.io/)
 - [Gumroad](https://gumroad.com/)
