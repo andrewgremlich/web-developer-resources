@@ -19,6 +19,11 @@ fs.readFile("README.md", "utf8", (err, data) => {
   <body>
     <main>
     ${marked.parse(data)}
+    <p>Last Updated: ${new Date().toLocaleDateString(undefined, {
+      year: "numeric",
+      month: "short",
+      day: "numeric",
+    })}</p>
     </main>
   </body>
 </html>`;

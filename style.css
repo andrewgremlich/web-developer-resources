@@ -16,6 +16,7 @@ body {
   display: flex;
   justify-content: center;
   background-color: #191919;
+  margin-bottom: 5em;
 }
 
 main {
@@ -75,4 +76,9 @@ a:visited {
 
 ul {
   list-style-type: none;
+  margin-bottom: 1em;
+}
+
+hr {
+  margin: 1em 0;
 }
