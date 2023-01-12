@@ -16,11 +16,11 @@ body {
   display: flex;
   justify-content: center;
   background-color: #191919;
-  margin-bottom: 5em;
 }
 
 main {
   max-width: 400px;
+  margin-bottom: 5em;
 }
 
 h1,
@@ -77,6 +77,11 @@ a:visited {
 ul {
   list-style-type: none;
   margin-bottom: 1em;
+}
+
+li {
+  margin-bottom: 0.5em;
+  font-size: 1em;
 }
 
 hr {
