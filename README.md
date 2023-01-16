@@ -337,6 +337,9 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [NoIP - Free Subdomains](https://www.noip.com/)
 - [Lets Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 - [Automated Domain Management](https://dnsimple.com/)
+- [Dan: Buy and sell domains](https://dan.com/)
+- [Namecheap](https://www.namecheap.com/)
+- [Domains Google](https://domains.google/)
 
 ## Web Hosting/Functions
 
