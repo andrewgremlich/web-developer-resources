@@ -352,6 +352,8 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Typedream](https://typedream.com/)
 - [Carrd](https://carrd.co/)
 - [Dynaboard](https://dynaboard.com/)
+- [Cloudflare Workers](https://workers.cloudflare.com/)
+- [AWS](https://aws.amazon.com/)
 
 ---
 
