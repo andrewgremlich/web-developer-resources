@@ -16,6 +16,8 @@ A wide breadth of web developer resources.
 - [Mem AI](https://get.mem.ai/)
 - [Chat GPT](https://chat.openai.com/)
 - [Dalle 2](https://openai.com/dall-e-2/)
+- [Liner AI](https://liner.ai/)
+- [Restore Old Photos](https://www.restorephotos.io/)
 
 ## APIs
 
