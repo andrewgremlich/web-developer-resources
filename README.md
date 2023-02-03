@@ -219,6 +219,11 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Autoregex](https://www.autoregex.xyz/)
 - [Regexr](https://regexr.com/)
 
+## JavaScript tools
+
+- [Deno Lint](https://lint.deno.land/)
+- [Rome Tools](https://rome.tools/)
+
 ## Online Games
 
 - Game Theory: [Evolution of Trust](http://ncase.me/trust/)
