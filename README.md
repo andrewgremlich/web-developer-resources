@@ -221,7 +221,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 
 ## JavaScript tools
 
-- [Deno Lint](https://lint.deno.land/)
+- [Deno Tools](https://deno.land/manual@v1.30.1/tools)
 - [Rome Tools](https://rome.tools/)
 
 ## Online Games
