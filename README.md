@@ -225,6 +225,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 
 - [Deno Tools](https://deno.land/manual@v1.30.1/tools)
 - [Rome Tools](https://rome.tools/)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com)
 
 ## Online Games
 
