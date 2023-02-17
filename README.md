@@ -169,6 +169,7 @@ Keep note of License requirements...
 - [Readwise](https://readwise.io/)
 - [Common Crawl](https://commoncrawl.org/)
 - [SDF - learn linux shell](https://sdf.org/)
+- [Algolia Crawler](https://crawler.algolia.com/)
 
 ## Freelance
 
