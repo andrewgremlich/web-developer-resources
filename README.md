@@ -86,15 +86,15 @@ A wide breadth of web developer resources.
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Help Generate Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
-## Backend Resources
+## Backend Resources/Database
 
 - [FaunaDB](https://fauna.com/)
 - [Supabase](https://supabase.com/)
 - [Firebase](https://firebase.google.com/)
-- [Deno Deploy](https://deno.com/deploy)
 - [Appwrite](https://appwrite.io/)
 - [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - [Boot Dev](https://boot.dev/)
+- [Bit.io](https://bit.io/)
 
 ## Design
 
@@ -351,7 +351,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Namecheap](https://www.namecheap.com/)
 - [Domains Google](https://domains.google/)
 
-## Web Hosting/Functions
+## Web Hosting or Functions
 
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
@@ -367,6 +367,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Dynaboard](https://dynaboard.com/)
 - [Cloudflare Workers](https://workers.cloudflare.com/)
 - [AWS](https://aws.amazon.com/)
+- [Deno Deploy](https://deno.com/deploy)
 
 ---
 
