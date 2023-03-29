@@ -19,6 +19,12 @@ A wide breadth of web developer resources.
 - [Liner AI](https://liner.ai/)
 - [Restore Old Photos](https://www.restorephotos.io/)
 
+## Analytics 
+
+- [Posthog](https://posthog.com/)
+- [Goat Counter](https://www.goatcounter.com/)
+- [Heap](https://www.heap.io/lp/ppc-free-trial)
+
 ## APIs
 
 - [Pirate Weather](https://pirateweather.net/)
@@ -43,6 +49,7 @@ A wide breadth of web developer resources.
 
 - [Tina](https://tina.io/)
 - [Forestry](https://forestry.io/)
+- [Strapi](https://strapi.io/)
 
 ## Code Tools
 
@@ -97,6 +104,8 @@ A wide breadth of web developer resources.
 - [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - [Boot Dev](https://boot.dev/)
 - [Bit.io](https://bit.io/)
+- [Planet scale](https://planetscale.com/)
+- [upstash](https://upstash.com/about)
 
 ## Design
 
@@ -147,7 +156,6 @@ Keep note of License requirements...
 - [Free for Dev](https://free-for.dev/#/)
 - [Awesome List](https://www.trackawesomelist.com/)
 - [Standard Notes: Encrypted notes](https://standardnotes.com/)
-- [Posthog](https://posthog.com/)
 - [Make Code Pictures](https://ray.so/)
 - [Streamline Icons](https://streamlinehq.com/)
 - [CodeMyUi](https://codemyui.com/)
