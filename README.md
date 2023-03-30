@@ -180,7 +180,6 @@ Keep note of License requirements...
 - [Readwise](https://readwise.io/)
 - [Common Crawl](https://commoncrawl.org/)
 - [SDF - learn linux shell](https://sdf.org/)
-- [Algolia Crawler](https://crawler.algolia.com/)
 
 ## Freelance
 
@@ -313,6 +312,11 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Can I Use](https://caniuse.com/)
 - [Fugu Showcase (PWAs)](https://developer.chrome.com/blog/fugu-showcase/)
 - [A11y Coffee](https://a11y.coffee/)
+
+## Search
+
+- [Algolia Crawler](https://crawler.algolia.com/)
+- [Notion](https://www.notion.so/)
 
 ## Service Workers
 
