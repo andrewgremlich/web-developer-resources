@@ -18,6 +18,7 @@ A wide breadth of web developer resources.
 - [Dalle 2](https://openai.com/dall-e-2/)
 - [Liner AI](https://liner.ai/)
 - [Restore Old Photos](https://www.restorephotos.io/)
+- [Open AI API](https://platform.openai.com/docs/api-reference)
 
 ## Analytics 
 
