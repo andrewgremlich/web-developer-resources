@@ -20,7 +20,7 @@ A wide breadth of web developer resources.
 - [Restore Old Photos](https://www.restorephotos.io/)
 - [Open AI API](https://platform.openai.com/docs/api-reference)
 
-## Analytics 
+## Analytics
 
 - [Posthog](https://posthog.com/)
 - [Goat Counter](https://www.goatcounter.com/)
@@ -210,6 +210,17 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [100 Cool Web Moments](https://developer.chrome.com/100/)
 - [Github Contributions](https://github-contributions.vercel.app/)
 - [Code.org](https://code.org/)
+
+## Image Placeholder Service
+
+- [PlaceKitten](https://placekitten.com/)
+- [DummyImage](https://dummyimage.com/)
+- [LoremFlickr](https://loremflickr.com/)
+- [Place Holder image](https://placeholderimage.dev/)
+- [Lorem Space](https://lorem.space/)
+- [Dummy Image](http://dummy-image-generator.com/)
+- [Fake Image Please](https://fakeimg.pl/)
+- [Lorem Picsum](https://picsum.photos/)
 
 ## JavaScript
 
