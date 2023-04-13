@@ -244,6 +244,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Snow!](https://embed.im/snow/)
 - [Autoregex](https://www.autoregex.xyz/)
 - [Regexr](https://regexr.com/)
+- [https://eqeq.js.org/](https://eqeq.js.org/)
 
 ## JavaScript tools
 
