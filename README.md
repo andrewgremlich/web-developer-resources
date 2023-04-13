@@ -251,6 +251,11 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Rome Tools](https://rome.tools/)
 - [JSON Placeholder](https://jsonplaceholder.typicode.com)
 
+## Job Boards
+
+- [Facet](https://www.facet.net/)
+- [Arc](https://arc.dev/)
+
 ## Online Games
 
 - Game Theory: [Evolution of Trust](http://ncase.me/trust/)
