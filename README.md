@@ -45,6 +45,7 @@ A wide breadth of web developer resources.
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Deep JS](https://exploringjs.com/deep-js/)
 - [Impatient JS](https://exploringjs.com/impatient-js/)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ## CMS
 
