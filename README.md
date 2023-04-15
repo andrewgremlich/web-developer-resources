@@ -108,6 +108,7 @@ A wide breadth of web developer resources.
 - [Bit.io](https://bit.io/)
 - [Planet scale](https://planetscale.com/)
 - [upstash](https://upstash.com/about)
+- [Learn Python](https://www.learnpython.org/)
 
 ## Design
 
@@ -147,6 +148,7 @@ Keep note of License requirements...
 
 Keep note of License requirements...
 
+- [Learn Web3](https://learnweb3.io/)
 - [OneSignal: Text Messaging](https://onesignal.com/pricing)
 - [HackMD: Team Knowledge Base with MD](https://hackmd.io/)
 - [Resource Cards](https://resourcecards.com/)
@@ -246,6 +248,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Autoregex](https://www.autoregex.xyz/)
 - [Regexr](https://regexr.com/)
 - [https://eqeq.js.org/](https://eqeq.js.org/)
+- [Javascript Info](https://javascript.info/)
 
 ## JavaScript tools
 
