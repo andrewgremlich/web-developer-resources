@@ -94,7 +94,6 @@ A wide breadth of web developer resources.
 - [CSS Loaders](https://loading.io/css/)
 - [Transition Style: CSS transitions](https://www.transition.style/)
 - [BoxShadows: Style box shadows in browser](https://boxshadows.com/)
-- [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Help Generate Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67)
 
 ## Backend Resources/Database
@@ -185,6 +184,7 @@ Keep note of License requirements...
 - [Common Crawl](https://commoncrawl.org/)
 - [SDF - learn linux shell](https://sdf.org/)
 - [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)
 
 ## Freelance
 
