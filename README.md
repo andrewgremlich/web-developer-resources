@@ -296,6 +296,10 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [ESM.SH](https://esm.sh/)
 - [Bundle JS](https://bundlejs.com/)
 
+## NPM Packages
+
+- [Zod](https://www.npmjs.com/package/zod#introduction)
+
 ## Peer 2 Peer
 
 - [ShareDrop](https://www.sharedrop.io/)
