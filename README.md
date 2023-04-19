@@ -29,6 +29,7 @@ A wide breadth of web developer resources.
 ## APIs
 
 - [Pirate Weather](https://pirateweather.net/)
+- [MirageJS: API mocking](https://miragejs.com/)
 
 ## Books
 
