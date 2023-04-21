@@ -136,6 +136,7 @@ Keep note of License requirements...
 - [All The Free Stock](https://allthefreestock.com/)
 - [Unsplash: Free Pictures](https://unsplash.com/)
 - [Feather Icons](https://feathericons.com/)
+- [Iconoir](https://iconoir.com/)
 - [Font Awesome](http://fontawesome.io/icons/)
 - [React Icons](https://www.npmjs.com/package/react-icons)
 - [Penpot App](https://penpot.app/)
