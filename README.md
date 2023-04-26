@@ -398,6 +398,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
 - [Firebase](https://firebase.google.com/)
+- [Render](https://render.com/)
 - [Heroku](https://www.heroku.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Linode](https://www.linode.com/)
