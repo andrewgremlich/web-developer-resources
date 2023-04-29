@@ -187,6 +187,7 @@ Keep note of License requirements...
 - [SDF - learn linux shell](https://sdf.org/)
 - [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [Keygen: Licensing and distribution](https://keygen.sh/)
 
 ## Freelance
 
@@ -383,6 +384,8 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Rocket.rs - Rust web server](https://rocket.rs/guide/)
 - [Wasm-pack](https://github.com/rustwasm/wasm-pack)
 - [NAPI-RS](https://napi.rs/)
+- [Leptos](https://github.com/leptos-rs/leptos)
+- [Dioxus](https://github.com/DioxusLabs/dioxus)
 
 ## Website deployment
 
@@ -411,6 +414,7 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Cloudflare Workers](https://workers.cloudflare.com/)
 - [AWS](https://aws.amazon.com/)
 - [Deno Deploy](https://deno.com/deploy)
+- [ShuttleRS: Vercel for Rust](https://www.shuttle.rs/)
 
 ---
 
