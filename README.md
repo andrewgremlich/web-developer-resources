@@ -106,10 +106,12 @@ A wide breadth of web developer resources.
 - [Postgres Playground](https://www.crunchydata.com/developers/tutorials)
 - [Boot Dev](https://boot.dev/)
 - [Bit.io](https://bit.io/)
-- [Neon Tech](https://neon.tech) 
+- [Neon Tech](https://neon.tech)
+- [Turso Tech](https://turso.tech)
 - [Planet scale](https://planetscale.com/)
 - [upstash](https://upstash.com/about)
 - [Learn Python](https://www.learnpython.org/)
+- [Fly.io](https://fly.io/) 
 
 ## Design
 
@@ -407,7 +409,6 @@ Follow the example of [Sindre Sorhus](https://sindresorhus.com/) or [Tanner Lins
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Linode](https://www.linode.com/)
 - [Fastly](https://www.fastly.com/)
-- [Fly.io](https://fly.io/)
 - [Gumroad](https://gumroad.com/)
 - [Typedream](https://typedream.com/)
 - [Carrd](https://carrd.co/)
