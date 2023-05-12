@@ -4,9 +4,6 @@
   "description": "A wide breadth of web developer resources.",
   "main": "index.js",
   "type": "module",
-  "scripts": {
-    "build": "node fetch-data.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andrewgremlich/web-developer-resources.git"
@@ -20,5 +17,12 @@
   "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "husky": "^8.0.3"
+  },
+  "scripts": {
+    "prepare": "husky install",
+    "build": "node fetch-data.js"
   }
 }
