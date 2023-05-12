@@ -13,13 +13,12 @@ body {
 }
 
 body {
-  display: flex;
-  justify-content: center;
+  padding: 5em 3em;
   background-color: #191919;
 }
 
 main {
-  max-width: 400px;
+  max-width: 700px;
   margin-bottom: 5em;
 }
 
@@ -33,13 +32,13 @@ li {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   font-weight: 400;
   margin: 0.67em 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.75em;
   font-weight: 400;
   margin: 0.83em 0;
 }
@@ -64,6 +63,7 @@ p {
 
 a {
   color: white;
+  text-decoration: none;
 }
 
 a:hover {
