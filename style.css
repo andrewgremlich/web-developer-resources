@@ -34,13 +34,16 @@ li {
 h1 {
   font-size: 3em;
   font-weight: 400;
-  margin: 0.67em 0;
+  margin-bottom: 0.4em;
 }
 
 h2 {
   font-size: 1.75em;
   font-weight: 400;
   margin: 0.83em 0;
+
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
 }
 
 h3 {
