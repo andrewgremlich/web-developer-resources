@@ -191,6 +191,7 @@ Keep note of License requirements...
 - [Chrome Extension CLI](https://github.com/dutiyesh/chrome-extension-cli)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
 - [Keygen: Licensing and distribution](https://keygen.sh/)
+- [pandoc](https://pandoc.org/)
 
 ## Freelance
 
