@@ -208,7 +208,8 @@ export const data = {
       "https://github.com/dutiyesh/chrome-extension-cli",
       "https://algorithm-visualizer.org/",
       "https://keygen.sh/",
-      "https://pandoc.org/"
+      "https://pandoc.org/",
+      "https://imagemagick.org/script/license.php"
     ]
   },
   {
