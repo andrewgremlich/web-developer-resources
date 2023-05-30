@@ -472,7 +472,8 @@ export const data = {
   {
     "title": "Other Resources",
     "urls": [
-      "https://bevyengine.org/"
+      "https://bevyengine.org/",
+      "https://www.gitpod.io/"
     ]
   }
 ],
