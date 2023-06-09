@@ -323,7 +323,8 @@ export const data = {
       "https://www.airconsole.com/",
       "https://www.antstream.com/",
       "https://docs.happyfuntimes.net/",
-      "https://rocketcrab.com/"
+      "https://rocketcrab.com/",
+      "https://avalon.fun/",
     ]
   },
   {
