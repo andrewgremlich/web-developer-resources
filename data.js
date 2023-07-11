@@ -435,7 +435,8 @@ export const data = {
       "https://github.com/rustwasm/wasm-pack",
       "https://napi.rs/",
       "https://github.com/leptos-rs/leptos",
-      "https://github.com/DioxusLabs/dioxus"
+      "https://github.com/DioxusLabs/dioxus",
+      "https://neon-bindings.com/" 
     ]
   },
   {

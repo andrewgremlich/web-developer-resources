@@ -36,7 +36,7 @@ const makeSection = async (sectionToGet) => {
     ${
     sectionData
       .sort((a, b) => a.title.localeCompare(b.title))
-      .map((section) => `<p><a href="${section.url}">${section.title}</a></p>`)
+      .map((section) => `<p><a href="${section.url}">${section.title.substring(0,100)}</a></p>`)
       .join("\n")
   }
   `;
