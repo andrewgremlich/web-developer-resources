@@ -129,7 +129,8 @@ export const data = {
       "https://planetscale.com/",
       "https://upstash.com/about",
       "https://www.learnpython.org/",
-      "https://fly.io/"
+      "https://fly.io/",
+      "https://www.convex.dev/"
     ]
   },
   {
@@ -294,7 +295,8 @@ export const data = {
     "urls": [
       "https://www.facet.net/",
       "https://arc.dev/",
-      "https://stillhiring.today/"
+      "https://stillhiring.today/",
+      "https://remote.co/"
     ]
   },
   {
