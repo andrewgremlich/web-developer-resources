@@ -29,6 +29,12 @@ const makeSection = async (sectionToGet) => {
     sectionToGet.urls.map((url) => getUrlData(url)),
   );
 
+  let title;
+
+  if (sectionToGet.title.length > 200) {
+    title = sectionToGet.title.substring(0, 200) + "...";
+  }
+
   return `
     <h2 id="${
     sectionToGet.title.toLowerCase().split(" ").join("-")
