@@ -216,9 +216,9 @@ export const data = {
   {
     "title": "Freelance",
     "urls": [
-      "https://sindresorhus.com/",
       "https://gitcoin.co/",
       "http://upwork.com",
+      "https://www.fiverr.com/",
       "https://triplebyte.com",
       "https://coderbyte.com/",
       "https://www.fullstory.com/",
