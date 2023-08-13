@@ -7,12 +7,19 @@ const getUrlData = async (url) => {
   try {
     const page = await fetch(url);
     const data = await page.text();
-
     const $ = load(data);
+
+    let title;
+
+    if (page.status !== 200) {
+      title = url;
+    } else {
+      title = $("title").text()
+    }
 
     return {
       url,
-      title: $("title").text(),
+      title: title,
       description: $("meta[name='description']").attr("content"),
     };
   } catch {
@@ -36,15 +43,13 @@ const makeSection = async (sectionToGet) => {
   }
 
   return `
-    <h2 id="${
-    sectionToGet.title.toLowerCase().split(" ").join("-")
-  }">${sectionToGet.title}</h2>
-    ${
-    sectionData
+    <h2 id="${sectionToGet.title.toLowerCase().split(" ").join("-")
+    }">${sectionToGet.title}</h2>
+    ${sectionData
       .sort((a, b) => a.title.localeCompare(b.title))
-      .map((section) => `<p><a href="${section.url}">${section.title.substring(0,100)}</a></p>`)
+      .map((section) => `<p><a href="${section.url}">${section.title.substring(0, 100)}</a></p>`)
       .join("\n")
-  }
+    }
   `;
 };
 
@@ -74,13 +79,12 @@ const main = (async () => {
     </main>
 
     <footer>
-      <p>Last Updated: ${
-    new Date().toLocaleDateString(undefined, {
-      year: "numeric",
-      month: "short",
-      day: "numeric",
-    })
-  }</p>
+      <p>Last Updated: ${new Date().toLocaleDateString(undefined, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  })
+    }</p>
     </footer>
   </body>
 </html>`;
