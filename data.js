@@ -326,7 +326,7 @@ export const data = {
 				"https://github.com/collections/web-games",
 				"https://js13kgames.com/",
 				"https://powerline.io/",
-				"http://slither.io/",
+				"https://slither.io/",
 				"https://hextris.io/",
 				"https://www.chickenkoup.com/",
 				"https://dr-d-king.itch.io/lets-go-build-a",
@@ -341,6 +341,8 @@ export const data = {
 				"https://docs.happyfuntimes.net/",
 				"https://rocketcrab.com/",
 				"https://avalon.fun/",
+				"https://skribbl.io/",
+				"https://www.geoguessr.com/",
 			],
 		},
 		{
