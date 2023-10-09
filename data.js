@@ -234,6 +234,8 @@ export const data = {
 				"https://developer.chrome.com/100/",
 				"https://github-contributions.vercel.app/",
 				"https://code.org/",
+				"https://eyes.nasa.gov/apps/solar-system/#/home",
+				"https://eyes.nasa.gov/",
 			],
 		},
 		{
