@@ -475,6 +475,7 @@ export const data = {
         "https://render.com/",
         "https://www.heroku.com/",
         "https://www.digitalocean.com/",
+        "https://webpod.dev/",
         "https://www.linode.com/",
         "https://www.fastly.com/",
         "https://gumroad.com/",
