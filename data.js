@@ -486,6 +486,7 @@ export const data = {
         "https://aws.amazon.com/",
         "https://deno.com/deploy",
         "https://www.shuttle.rs/",
+        "https://pouchdb.com/",
       ],
     },
     {
