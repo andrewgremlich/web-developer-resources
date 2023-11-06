@@ -445,14 +445,16 @@ export const data = {
       urls: [
         "https://mbebenita.github.io/WasmExplorer/",
         "https://webassembly.studio/",
-        "https://www.hellorust.com/",
-        "https://rustwasm.github.io/book/",
+        "https://rustwasm.github.io/docs/book/",
         "https://rocket.rs/guide/",
         "https://github.com/rustwasm/wasm-pack",
         "https://napi.rs/",
         "https://github.com/leptos-rs/leptos",
         "https://github.com/DioxusLabs/dioxus",
         "https://neon-bindings.com/",
+        "https://wasmtime.dev",
+        "https://wasmer.io",
+        "https://wasi.dev",
       ],
     },
     {
@@ -462,8 +464,7 @@ export const data = {
         "https://letsencrypt.org/",
         "https://dnsimple.com/",
         "https://dan.com/",
-        "https://www.namecheap.com/",
-        "https://domains.google/",
+        "https://www.namecheap.com/", 
       ],
     },
     {
