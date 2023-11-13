@@ -313,6 +313,7 @@ export const data = {
         "https://techjobsforgood.com/",
         "https://www.fossjobs.net/",
         "https://startup.jobs/",
+        "https://remoteintech.company/"
       ],
     },
     {
