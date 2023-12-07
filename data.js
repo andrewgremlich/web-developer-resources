@@ -239,7 +239,7 @@ export const data = {
       ],
     },
     {
-      title: "Image Placeholder Service",
+      title: "Placeholder Service",
       urls: [
         "https://placekitten.com/",
         "https://dummyimage.com/",
@@ -249,6 +249,8 @@ export const data = {
         "http://dummy-image-generator.com/",
         "https://fakeimg.pl/",
         "https://picsum.photos/",
+        "https://placehold.co/",
+        "https://randomuser.me/"
       ],
     },
     {
