@@ -26,8 +26,6 @@ const data = splitReadme.map((section) => {
 				const match = url.match(regex);
 				if (match) {
 					return match[0].slice(1, -1).trim();
-				} else {
-					return false;
 				}
 			})
 			.filter((val) => {

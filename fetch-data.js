@@ -44,8 +44,8 @@ const makeSection = async (sectionToGet) => {
 
 	return `
     <h2 id="${sectionToGet.title.toLowerCase().split(" ").join("-")}">${
-		sectionToGet.title
-	}</h2>
+			sectionToGet.title
+		}</h2>
     ${sectionData
 			.sort((a, b) => a.title.localeCompare(b.title))
 			.map(
