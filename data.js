@@ -203,6 +203,8 @@ export const data = {
 				"https://keygen.sh/",
 				"https://pandoc.org/",
 				"https://imagemagick.org/script/license.php",
+				"https://excalidraw.com/",
+				"https://www.tldraw.com/",
 			],
 		},
 		{
@@ -496,7 +498,11 @@ export const data = {
 		},
 		{
 			title: "Other Resources",
-			urls: ["https://bevyengine.org/", "https://www.gitpod.io/"],
+			urls: [
+				"https://bevyengine.org/",
+				"https://www.gitpod.io/",
+				"https://react-spectrum.adobe.com/react-aria/index.html",
+			],
 		},
 	],
 };
