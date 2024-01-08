@@ -502,6 +502,7 @@ export const data = {
 				"https://bevyengine.org/",
 				"https://www.gitpod.io/",
 				"https://react-spectrum.adobe.com/react-aria/index.html",
+				"https://www.crypto101.io/",
 			],
 		},
 	],
