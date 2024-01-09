@@ -105,6 +105,7 @@ export const data = {
 				"https://www.transition.style/",
 				"https://boxshadows.com/",
 				"https://cubic-bezier.com/#.17,.67,.83,.67",
+				"https://cssgenerator.org/",
 			],
 		},
 		{
