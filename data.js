@@ -243,6 +243,7 @@ export const data = {
 				"https://www.flightradar24.com/",
 				"https://planefinder.net/",
 				"https://www.marinetraffic.com/",
+				"https://www.piday.org/million/",
 			],
 		},
 		{
@@ -289,7 +290,7 @@ export const data = {
 			title: "JavaScript tools",
 			urls: [
 				"https://deno.land/manual@v1.30.1/tools",
-				"https://rome.tools/",
+				"https://biomejs.dev/",
 				"https://jsonplaceholder.typicode.com",
 			],
 		},

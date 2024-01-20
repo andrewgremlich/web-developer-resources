@@ -19,7 +19,7 @@
     "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.4.1",
+    "@biomejs/biome": "^1.5.2",
     "husky": "^8.0.3"
   },
   "scripts": {
@@ -27,6 +27,6 @@
     "build": "node fetch-data.js",
     "format": "biome format data.js fetch-data.js pull-urls.js --write",
     "lint": "biome lint data.js fetch-data.js pull-urls.js",
-    "check": "biome check data.js fetch-data.js pull-urls.js"
+    "check": "biome check --apply data.js fetch-data.js pull-urls.js"
   }
 }
