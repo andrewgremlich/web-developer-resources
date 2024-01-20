@@ -240,6 +240,8 @@ export const data = {
 				"https://eyes.nasa.gov/apps/solar-system/#/home",
 				"https://eyes.nasa.gov/",
 				"https://dgreenheck.github.io/threejs-procedural-planets/",
+				"https://www.flightradar24.com/",
+				"https://www.marinetraffic.com/"
 			],
 		},
 		{
