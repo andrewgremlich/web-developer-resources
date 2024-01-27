@@ -284,6 +284,8 @@ export const data = {
 				"https://regexr.com/",
 				"https://eqeq.js.org/",
 				"https://javascript.info/",
+				"https://culorijs.org/",
+				"https://bellard.org/quickjs/"
 			],
 		},
 		{
