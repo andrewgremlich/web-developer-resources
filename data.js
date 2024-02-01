@@ -286,7 +286,7 @@ export const data = {
 				"https://eqeq.js.org/",
 				"https://javascript.info/",
 				"https://culorijs.org/",
-				"https://bellard.org/quickjs/"
+				"https://bellard.org/quickjs/",
 			],
 		},
 		{
@@ -461,7 +461,7 @@ export const data = {
 			urls: [
 				"https://ffmpegwasm.netlify.app/",
 				"https://github.com/mifi/editly",
-			]
+			],
 		},
 		{
 			title: "Web Assembly/Rust",
