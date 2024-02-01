@@ -23,6 +23,7 @@ export const data = {
 				"https://liner.ai/",
 				"https://www.restorephotos.io/",
 				"https://platform.openai.com/docs/api-reference",
+				"https://docs.privategpt.dev/",
 			],
 		},
 		{
@@ -293,6 +294,8 @@ export const data = {
 			urls: [
 				"https://deno.land/manual@v1.30.1/tools",
 				"https://biomejs.dev/",
+				"https://oxc-project.github.io/",
+				"https://github.com/karimould/awesome-js-tooling-in-rust",
 				"https://jsonplaceholder.typicode.com",
 			],
 		},
@@ -452,6 +455,13 @@ export const data = {
 				"https://learngitbranching.js.org/",
 				"http://ES6.io",
 			],
+		},
+		{
+			title: "Video",
+			urls: [
+				"https://ffmpegwasm.netlify.app/",
+				"https://github.com/mifi/editly",
+			]
 		},
 		{
 			title: "Web Assembly/Rust",
