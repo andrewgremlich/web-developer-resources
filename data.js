@@ -24,6 +24,9 @@ export const data = {
 				"https://www.restorephotos.io/",
 				"https://platform.openai.com/docs/api-reference",
 				"https://docs.privategpt.dev/",
+				"https://huggingface.co/",
+				"https://huggingface.co/TheBloke/guanaco-65B-GPTQ",
+				"https://huggingface.co/codellama/CodeLlama-70b-hf",
 			],
 		},
 		{
