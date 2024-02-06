@@ -27,6 +27,9 @@ export const data = {
 				"https://huggingface.co/",
 				"https://huggingface.co/TheBloke/guanaco-65B-GPTQ",
 				"https://huggingface.co/codellama/CodeLlama-70b-hf",
+				"https://lmstudio.ai/",
+				"https://www.deepai.org/",
+				"https://faraday.dev/",
 			],
 		},
 		{
