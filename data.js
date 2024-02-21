@@ -30,6 +30,8 @@ export const data = {
 				"https://lmstudio.ai/",
 				"https://www.deepai.org/",
 				"https://faraday.dev/",
+				"https://replicate.com/",
+				"https://elevenlabs.io/",
 			],
 		},
 		{
@@ -335,6 +337,11 @@ export const data = {
 				"https://www.fossjobs.net/",
 				"https://startup.jobs/",
 				"https://remoteintech.company/",
+				"https://justremote.co/",
+				"https://remoteok.com/",
+				"https://weworkremotely.com/",
+				"https://wellfound.com/",
+				"https://jsremotely.com/",
 			],
 		},
 		{
