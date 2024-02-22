@@ -474,6 +474,8 @@ export const data = {
 			urls: [
 				"https://ffmpegwasm.netlify.app/",
 				"https://github.com/mifi/editly",
+				"https://www.vidstack.io/",
+				"https://www.mux.com/",
 			],
 		},
 		{
