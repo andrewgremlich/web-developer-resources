@@ -314,6 +314,7 @@ export const data = {
 				"https://arc.dev/",
 				"https://stillhiring.today/",
 				"https://remote.co/",
+				"https://remote.com/jobs",
 				"https://www.workatastartup.com/",
 				"https://www.workingnomads.co/jobs",
 				"https://www.wfh.io/",
