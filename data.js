@@ -528,7 +528,7 @@ export const data = {
 				"https://www.shuttle.rs/",
 				"https://pouchdb.com/",
 				"https://www.macincloud.com/",
-				"https://www.macstadium.com/"
+				"https://www.macstadium.com/",
 			],
 		},
 		{
