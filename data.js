@@ -527,6 +527,8 @@ export const data = {
 				"https://deno.com/deploy",
 				"https://www.shuttle.rs/",
 				"https://pouchdb.com/",
+				"https://www.macincloud.com/",
+				"https://www.macstadium.com/"
 			],
 		},
 		{
