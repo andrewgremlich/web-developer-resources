@@ -23,6 +23,15 @@ export const data = {
 				"https://liner.ai/",
 				"https://www.restorephotos.io/",
 				"https://platform.openai.com/docs/api-reference",
+				"https://docs.privategpt.dev/",
+				"https://huggingface.co/",
+				"https://huggingface.co/TheBloke/guanaco-65B-GPTQ",
+				"https://huggingface.co/codellama/CodeLlama-70b-hf",
+				"https://lmstudio.ai/",
+				"https://www.deepai.org/",
+				"https://faraday.dev/",
+				"https://replicate.com/",
+				"https://elevenlabs.io/",
 			],
 		},
 		{
@@ -285,7 +294,7 @@ export const data = {
 				"https://eqeq.js.org/",
 				"https://javascript.info/",
 				"https://culorijs.org/",
-				"https://bellard.org/quickjs/"
+				"https://bellard.org/quickjs/",
 			],
 		},
 		{
@@ -293,6 +302,8 @@ export const data = {
 			urls: [
 				"https://deno.land/manual@v1.30.1/tools",
 				"https://biomejs.dev/",
+				"https://oxc-project.github.io/",
+				"https://github.com/karimould/awesome-js-tooling-in-rust",
 				"https://jsonplaceholder.typicode.com",
 			],
 		},
@@ -303,6 +314,7 @@ export const data = {
 				"https://arc.dev/",
 				"https://stillhiring.today/",
 				"https://remote.co/",
+				"https://remote.com/jobs",
 				"https://www.workatastartup.com/",
 				"https://www.workingnomads.co/jobs",
 				"https://www.wfh.io/",
@@ -326,6 +338,11 @@ export const data = {
 				"https://www.fossjobs.net/",
 				"https://startup.jobs/",
 				"https://remoteintech.company/",
+				"https://justremote.co/",
+				"https://remoteok.com/",
+				"https://weworkremotely.com/",
+				"https://wellfound.com/",
+				"https://jsremotely.com/",
 			],
 		},
 		{
@@ -454,6 +471,15 @@ export const data = {
 			],
 		},
 		{
+			title: "Video",
+			urls: [
+				"https://ffmpegwasm.netlify.app/",
+				"https://github.com/mifi/editly",
+				"https://www.vidstack.io/",
+				"https://www.mux.com/",
+			],
+		},
+		{
 			title: "Web Assembly/Rust",
 			urls: [
 				"https://mbebenita.github.io/WasmExplorer/",
@@ -489,6 +515,7 @@ export const data = {
 				"https://firebase.google.com/",
 				"https://render.com/",
 				"https://www.heroku.com/",
+				"https://www.withcoherence.com/",
 				"https://www.digitalocean.com/",
 				"https://webpod.dev/",
 				"https://www.linode.com/",
@@ -502,6 +529,8 @@ export const data = {
 				"https://deno.com/deploy",
 				"https://www.shuttle.rs/",
 				"https://pouchdb.com/",
+				"https://www.macincloud.com/",
+				"https://www.macstadium.com/",
 			],
 		},
 		{
