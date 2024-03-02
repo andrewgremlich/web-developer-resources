@@ -468,6 +468,7 @@ export const data = {
 				"https://wasmtime.dev",
 				"https://wasmer.io",
 				"https://wasi.dev",
+				"https://github.com/electric-sql/pglite",
 			],
 		},
 		{
