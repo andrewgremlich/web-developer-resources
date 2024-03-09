@@ -495,6 +495,7 @@ export const data = {
 				"https://wasmer.io",
 				"https://wasi.dev",
 				"https://github.com/electric-sql/pglite",
+				"https://sql.js.org/#/",
 			],
 		},
 		{
