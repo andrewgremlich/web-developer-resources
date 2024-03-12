@@ -507,7 +507,7 @@ export const data = {
 				"https://dan.com/",
 				"https://www.namecheap.com/",
 				"https://www.name.com/",
-				"https://www.duckdns.org/"
+				"https://www.duckdns.org/",
 			],
 		},
 		{
