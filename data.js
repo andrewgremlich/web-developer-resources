@@ -496,6 +496,7 @@ export const data = {
 				"https://wasi.dev",
 				"https://github.com/electric-sql/pglite",
 				"https://sql.js.org/#/",
+				"https://github.com/tursodatabase/libsql-js",
 			],
 		},
 		{
