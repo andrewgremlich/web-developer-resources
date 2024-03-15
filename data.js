@@ -302,7 +302,7 @@ export const data = {
 				"https://wasmer.io/posts/winterjs-v1",
 				"https://github.com/cloudflare/workerd",
 				"https://deno.com/blog/roll-your-own-javascript-runtime",
-			]
+			],
 		},
 		{
 			title: "JavaScript tools",
