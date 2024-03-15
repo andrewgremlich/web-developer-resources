@@ -285,9 +285,6 @@ export const data = {
 				"https://esb.deno.dev/",
 				"https://fireworks.js.org/",
 				"https://ejm.sh",
-				"https://deno.land/",
-				"https://bun.sh/",
-				"https://deno.com/blog/roll-your-own-javascript-runtime",
 				"https://embed.im/snow/",
 				"https://www.autoregex.xyz/",
 				"https://regexr.com/",
@@ -296,6 +293,16 @@ export const data = {
 				"https://culorijs.org/",
 				"https://bellard.org/quickjs/",
 			],
+		},
+		{
+			title: "JavaScript Alternative Runtimes",
+			urls: [
+				"https://deno.land/",
+				"https://bun.sh/",
+				"https://wasmer.io/posts/winterjs-v1",
+				"https://github.com/cloudflare/workerd",
+				"https://deno.com/blog/roll-your-own-javascript-runtime",
+			]
 		},
 		{
 			title: "JavaScript tools",
