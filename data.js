@@ -178,7 +178,7 @@ export const data = {
 				"https://www.freecodecamp.org/news/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba/",
 				"https://github.com/fregante/Awesome-WebExtensions",
 				"https://wxt.dev/",
-			]
+			],
 		},
 		{
 			title: "Free Resources",
