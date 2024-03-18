@@ -261,6 +261,8 @@ export const data = {
 				"https://planefinder.net/",
 				"https://www.marinetraffic.com/",
 				"https://www.piday.org/million/",
+				"https://www.gebco.net/",
+				"https://bathyglobe.ccom.unh.edu/",
 			],
 		},
 		{
