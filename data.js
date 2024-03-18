@@ -172,6 +172,15 @@ export const data = {
 			],
 		},
 		{
+			title: "Extensions",
+			urls: [
+				"https://github.com/dutiyesh/chrome-extension-cli",
+				"https://www.freecodecamp.org/news/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba/",
+				"https://github.com/fregante/Awesome-WebExtensions",
+				"https://wxt.dev/",
+			]
+		},
+		{
 			title: "Free Resources",
 			urls: [
 				"https://learnweb3.io/",
@@ -208,7 +217,6 @@ export const data = {
 				"https://readwise.io/",
 				"https://commoncrawl.org/",
 				"https://sdf.org/",
-				"https://github.com/dutiyesh/chrome-extension-cli",
 				"https://algorithm-visualizer.org/",
 				"https://keygen.sh/",
 				"https://pandoc.org/",
@@ -350,6 +358,7 @@ export const data = {
 				"https://weworkremotely.com/",
 				"https://wellfound.com/",
 				"https://jsremotely.com/",
+				"https://github.com/remoteintech/remote-jobs",
 			],
 		},
 		{
