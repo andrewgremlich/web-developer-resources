@@ -32,6 +32,7 @@ export const data = {
 				"https://faraday.dev/",
 				"https://replicate.com/",
 				"https://elevenlabs.io/",
+				"https://www.toolify.ai/",
 			],
 		},
 		{
