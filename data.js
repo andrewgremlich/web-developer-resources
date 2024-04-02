@@ -224,6 +224,7 @@ export const data = {
 				"https://imagemagick.org/script/license.php",
 				"https://excalidraw.com/",
 				"https://www.tldraw.com/",
+				"https://awesome-selfhosted.net/index.html",
 			],
 		},
 		{
@@ -240,7 +241,6 @@ export const data = {
 				"https://sunilc.medium.com/kick-start-your-freelancing-career-with-these-tips-747cc27a150f",
 				"https://zapier.com/",
 				"https://www.make.com/en",
-				"https://awesome-selfhosted.net/index.html",
 			],
 		},
 		{
