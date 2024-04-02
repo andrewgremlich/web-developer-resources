@@ -240,6 +240,7 @@ export const data = {
 				"https://sunilc.medium.com/kick-start-your-freelancing-career-with-these-tips-747cc27a150f",
 				"https://zapier.com/",
 				"https://www.make.com/en",
+				"https://awesome-selfhosted.net/index.html"
 			],
 		},
 		{
