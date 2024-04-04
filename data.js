@@ -266,6 +266,7 @@ export const data = {
 				"https://www.piday.org/million/",
 				"https://www.gebco.net/",
 				"https://bathyglobe.ccom.unh.edu/",
+				"https://duckduckgo.github.io/tracker-radar-wiki/",
 			],
 		},
 		{
