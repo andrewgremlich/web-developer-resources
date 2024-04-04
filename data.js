@@ -225,6 +225,7 @@ export const data = {
 				"https://excalidraw.com/",
 				"https://www.tldraw.com/",
 				"https://awesome-selfhosted.net/index.html",
+				"https://github.com/public-apis/public-apis",
 			],
 		},
 		{
