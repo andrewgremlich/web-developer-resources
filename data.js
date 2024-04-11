@@ -557,6 +557,7 @@ export const data = {
 				"https://pouchdb.com/",
 				"https://www.macincloud.com/",
 				"https://www.macstadium.com/",
+				"https://www.val.town/",
 			],
 		},
 		{
