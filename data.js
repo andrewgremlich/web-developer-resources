@@ -33,6 +33,7 @@ export const data = {
 				"https://replicate.com/",
 				"https://elevenlabs.io/",
 				"https://www.toolify.ai/",
+				"https://aistudio.google.com/"
 			],
 		},
 		{
@@ -47,6 +48,7 @@ export const data = {
 			title: "APIs",
 			urls: ["https://pirateweather.net/", "https://miragejs.com/"],
 		},
+		{ title: "Authentication", urls: ["https://auth0.com/", "https://next-auth.js.org/"] },
 		{
 			title: "Books",
 			urls: [
@@ -135,6 +137,7 @@ export const data = {
 				"https://www.learnpython.org/",
 				"https://fly.io/",
 				"https://www.convex.dev/",
+				"https://www.prisma.io/",
 			],
 		},
 		{
@@ -171,6 +174,10 @@ export const data = {
 				"https://jspaint.app/#local:d0610fe432fb8",
 				"https://express.adobe.com/",
 			],
+		},
+		{
+			title: "Email Services",
+			urls: ["https://resend.com/", "https://www.mailgun.com/"],
 		},
 		{
 			title: "Extensions",
@@ -412,6 +419,10 @@ export const data = {
 		{
 			title: "NPM Packages",
 			urls: ["https://www.npmjs.com/package/zod#introduction"],
+		},
+		{
+			title: "Payment Portals",
+			urls: ["https://stripe.dev/"],
 		},
 		{
 			title: "Peer 2 Peer",
