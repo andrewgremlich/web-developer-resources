@@ -33,7 +33,7 @@ export const data = {
 				"https://replicate.com/",
 				"https://elevenlabs.io/",
 				"https://www.toolify.ai/",
-				"https://aistudio.google.com/"
+				"https://aistudio.google.com/",
 			],
 		},
 		{
@@ -48,7 +48,10 @@ export const data = {
 			title: "APIs",
 			urls: ["https://pirateweather.net/", "https://miragejs.com/"],
 		},
-		{ title: "Authentication", urls: ["https://auth0.com/", "https://next-auth.js.org/"] },
+		{
+			title: "Authentication",
+			urls: ["https://auth0.com/", "https://next-auth.js.org/"],
+		},
 		{
 			title: "Books",
 			urls: [

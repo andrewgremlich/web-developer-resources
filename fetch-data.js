@@ -1,9 +1,16 @@
-import fs from "fs";
+import fs from "node:fs";
 import { load } from "cheerio";
 
 import { data } from "./data.js";
 
+let cachedDataMap = new Map();
+
 const getUrlData = async (url) => {
+	if (cachedDataMap.has(url)) {
+		const pulled = cachedDataMap.get(url);
+		return { ...pulled, url };
+	}
+
 	try {
 		const page = await fetch(url);
 		const data = await page.text();
@@ -16,6 +23,11 @@ const getUrlData = async (url) => {
 		} else {
 			title = $("title").text();
 		}
+
+		cachedDataMap.set(url, {
+			title,
+			description: $("meta[name='description']").attr("content"),
+		});
 
 		return {
 			url,
@@ -35,8 +47,6 @@ const makeSection = async (sectionToGet) => {
 	const sectionData = await Promise.all(
 		sectionToGet.urls.map((url) => getUrlData(url)),
 	);
-
-	let title;
 
 	if (sectionToGet.title.length > 200) {
 		title = `${sectionToGet.title.substring(0, 200)}...`;
@@ -60,10 +70,26 @@ const makeSection = async (sectionToGet) => {
 };
 
 const main = (async () => {
+	const cachedFile = fs.readFileSync("cached_data.json", "utf8");
+	const cachedData = JSON.parse(cachedFile);
+
+	cachedDataMap = new Map(cachedData);
+
 	const pageHtml = await Promise.all(
 		data.other
 			.sort((a, b) => a.title.localeCompare(b.title))
 			.map((sectionToGet) => makeSection(sectionToGet)),
+	);
+
+	fs.writeFile(
+		"cached_data.json",
+		JSON.stringify(Array.from(cachedDataMap)),
+		(err) => {
+			if (err) {
+				throw err;
+			}
+			console.log("cachedDataMap has been written to cached_data.json!");
+		},
 	);
 
 	const fileToWrite = `<!DOCTYPE html>

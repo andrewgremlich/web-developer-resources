@@ -1,4 +1,4 @@
-import fs from "fs";
+import fs from "node:fs";
 
 // remove new line characters from readme
 const readme = fs.readFileSync("./README.md", "utf8");
