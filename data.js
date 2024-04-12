@@ -316,6 +316,7 @@ export const data = {
 				"https://javascript.info/",
 				"https://culorijs.org/",
 				"https://bellard.org/quickjs/",
+				"https://www.partykit.io/",
 			],
 		},
 		{
@@ -566,6 +567,7 @@ export const data = {
 				"https://dynaboard.com/",
 				"https://workers.cloudflare.com/",
 				"https://aws.amazon.com/",
+				"https://www.cloudflare.com/",
 				"https://deno.com/deploy",
 				"https://www.shuttle.rs/",
 				"https://pouchdb.com/",
