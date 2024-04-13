@@ -277,6 +277,7 @@ export const data = {
 				"https://www.gebco.net/",
 				"https://bathyglobe.ccom.unh.edu/",
 				"https://duckduckgo.github.io/tracker-radar-wiki/",
+				"https://www.timeanddate.com/",
 			],
 		},
 		{
