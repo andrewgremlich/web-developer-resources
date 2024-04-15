@@ -180,7 +180,13 @@ export const data = {
 		},
 		{
 			title: "Email Services",
-			urls: ["https://resend.com/", "https://www.mailgun.com/"],
+			urls: [
+				"https://resend.com/",
+				"https://www.mailgun.com/",
+				"https://postmarkapp.com/",
+				"https://mailchimp.com/",
+				"https://sendgrid.com/",
+			],
 		},
 		{
 			title: "Extensions",
