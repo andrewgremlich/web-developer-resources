@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A wide breadth of web developer resources.",
   "main": "index.js",
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andrewgremlich/web-developer-resources.git"
@@ -16,17 +15,23 @@
   },
   "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
   "dependencies": {
+    "@prisma/client": "^5.12.1",
     "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.6.4",
-    "husky": "^9.0.11"
+    "@biomejs/biome": "^1.7.0",
+    "@types/node": "^20.12.7",
+    "husky": "^9.0.11",
+    "prisma": "^5.12.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
   },
   "scripts": {
     "prepare": "husky install",
-    "build": "node fetch-data.js",
-    "format": "biome format data.js fetch-data.js pull-urls.js --write",
-    "lint": "biome lint data.js fetch-data.js pull-urls.js",
-    "check": "biome check --apply data.js fetch-data.js pull-urls.js"
+    "build": "ts-node fetch-data.ts",
+    "format": "biome format data.ts fetch-data.ts --write",
+    "lint": "biome lint data.ts fetch-data.ts",
+    "check": "biome check --apply data.ts fetch-data.ts",
+    "studio": "prisma studio"
   }
 }
