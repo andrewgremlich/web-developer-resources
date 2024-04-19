@@ -26,7 +26,7 @@ export async function CreateResource({
 
 export async function GetResourceByUrl(url: string) {
   try {
-    return await prisma.resource.findUnique({
+    return await prisma.resource.findFirst({
       where: {
         url,
       },
