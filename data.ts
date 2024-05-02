@@ -67,7 +67,11 @@ export const data: Resources = {
 		},
 		{
 			title: "Authentication",
-			urls: ["https://auth0.com/", "https://next-auth.js.org/", "https://stytch.com/"],
+			urls: [
+				"https://auth0.com/",
+				"https://next-auth.js.org/",
+				"https://stytch.com/",
+			],
 		},
 		{
 			title: "Books",
