@@ -271,6 +271,7 @@ export const data: Resources = {
 				"https://www.utf8-chartable.de/unicode-utf8-table.pl",
 				"https://www.unicode.org/charts/PDF/U0000.pdf",
 				"https://getstream.io/",
+				"https://pixabay.com/",
 			],
 		},
 		{
