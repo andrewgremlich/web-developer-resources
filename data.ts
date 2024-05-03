@@ -268,6 +268,7 @@ export const data: Resources = {
 				"https://awesome-selfhosted.net/index.html",
 				"https://github.com/public-apis/public-apis",
 				"https://www.utf8-chartable.de/unicode-utf8-table.pl",
+				"https://www.unicode.org/charts/PDF/U0000.pdf",
 			],
 		},
 		{
