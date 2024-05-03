@@ -220,6 +220,7 @@ export const data: Resources = {
 				"https://www.freecodecamp.org/news/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba/",
 				"https://github.com/fregante/Awesome-WebExtensions",
 				"https://wxt.dev/",
+				"https://extension.js.org/",
 			],
 		},
 		{
@@ -312,6 +313,7 @@ export const data: Resources = {
 				"https://bathyglobe.ccom.unh.edu/",
 				"https://duckduckgo.github.io/tracker-radar-wiki/",
 				"https://www.timeanddate.com/",
+				"https://fusionauth.io/password-history/",
 			],
 		},
 		{
