@@ -354,6 +354,7 @@ export const data: Resources = {
 				"https://culorijs.org/",
 				"https://bellard.org/quickjs/",
 				"https://www.partykit.io/",
+				"https://livekit.io/",
 			],
 		},
 		{
