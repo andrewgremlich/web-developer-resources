@@ -267,6 +267,7 @@ export const data: Resources = {
 				"https://www.tldraw.com/",
 				"https://awesome-selfhosted.net/index.html",
 				"https://github.com/public-apis/public-apis",
+				"https://www.utf8-chartable.de/unicode-utf8-table.pl",
 			],
 		},
 		{
