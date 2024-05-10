@@ -51,6 +51,8 @@ export const data: Resources = {
 				"https://elevenlabs.io/",
 				"https://www.toolify.ai/",
 				"https://aistudio.google.com/",
+				"https://openwebui.com/",
+				"https://ollama.com/",
 			],
 		},
 		{
