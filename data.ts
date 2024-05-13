@@ -198,6 +198,7 @@ export const data: Resources = {
 				"https://iconoir.com/",
 				"http://fontawesome.io/icons/",
 				"https://www.npmjs.com/package/react-icons",
+				"https://react-demo.hugeicons.com/",
 				"https://penpot.app/",
 				"https://www.canva.com/",
 				"https://paint.js.org/",
