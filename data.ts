@@ -418,6 +418,7 @@ export const data: Resources = {
 				"https://wellfound.com/",
 				"https://jsremotely.com/",
 				"https://github.com/remoteintech/remote-jobs",
+				"https://stackoverflow.jobs/",
 			],
 		},
 		{
