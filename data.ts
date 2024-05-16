@@ -241,6 +241,8 @@ export const data: Resources = {
 				"https://www.trackawesomelist.com/",
 				"https://standardnotes.com/",
 				"https://ray.so/",
+				"https://cs.vkrsi.com/",
+				"https://carbon.now.sh/",
 				"https://streamlinehq.com/",
 				"https://codemyui.com/",
 				"https://soundbible.com/",
