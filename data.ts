@@ -320,6 +320,9 @@ export const data: Resources = {
 				"https://duckduckgo.github.io/tracker-radar-wiki/",
 				"https://www.timeanddate.com/",
 				"https://fusionauth.io/password-history/",
+				"https://98.js.org/",
+				"https://svtsim.com/moonjs/agc.html",
+				"https://cryptii.com/",
 			],
 		},
 		{
