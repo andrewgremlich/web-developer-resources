@@ -474,7 +474,13 @@ export const data: Resources = {
 		},
 		{
 			title: "Payment Portals",
-			urls: ["https://stripe.dev/"],
+			urls: [
+				"https://stripe.dev/",
+				"https://stripe.com/",
+				"https://www.paddle.com/",
+				"https://www.paypal.com/",
+				"https://www.lemonsqueezy.com/",
+			],
 		},
 		{
 			title: "Peer 2 Peer",
