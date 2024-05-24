@@ -83,6 +83,7 @@ export const data: Resources = {
 				"https://github.com/getify/You-Dont-Know-JS",
 				"https://doc.rust-lang.org/book/",
 				"https://google.github.io/comprehensive-rust/",
+				"https://rust-exercises.com/",
 				"https://github.com/EbookFoundation/free-programming-books",
 				"https://github.com/mdn/content",
 				"https://github.com/trekhleb/javascript-algorithms",
@@ -602,6 +603,14 @@ export const data: Resources = {
 				"https://www.name.com/",
 				"https://www.duckdns.org/",
 				"https://porkbun.com/",
+			],
+		},
+		{
+			title: "Webscraping",
+			urls: [
+				"https://brightdata.com/products/scraping-browser",
+				"https://brightdata.com/",
+				"https://playwright.dev/",
 			],
 		},
 		{
