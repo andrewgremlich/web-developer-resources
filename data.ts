@@ -323,6 +323,7 @@ export const data: Resources = {
 				"https://98.js.org/",
 				"https://svtsim.com/moonjs/agc.html",
 				"https://cryptii.com/",
+				"https://visitedplaces.com/",
 			],
 		},
 		{
