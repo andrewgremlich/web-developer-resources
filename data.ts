@@ -325,6 +325,7 @@ export const data: Resources = {
 				"https://svtsim.com/moonjs/agc.html",
 				"https://cryptii.com/",
 				"https://visitedplaces.com/",
+				"https://www.myretrotvs.com/",
 			],
 		},
 		{
