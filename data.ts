@@ -542,6 +542,10 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Security",
+			urls: ["https://github.com/RetireJS/retire.js"],
+		},
+		{
 			title: "SVG Editors",
 			urls: [
 				"https://vectr.com/",
