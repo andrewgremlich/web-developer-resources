@@ -53,6 +53,8 @@ export const data: Resources = {
 				"https://aistudio.google.com/",
 				"https://openwebui.com/",
 				"https://ollama.com/",
+				"https://github.com/ultralytics/yolov5",
+				"https://github.com/hailo-ai/hailo_model_zoo?tab=readme-ov-file",
 			],
 		},
 		{
