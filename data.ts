@@ -459,6 +459,7 @@ export const data: Resources = {
 				"https://avalon.fun/",
 				"https://skribbl.io/",
 				"https://www.geoguessr.com/",
+				"https://kahoot.it/",
 			],
 		},
 		{
