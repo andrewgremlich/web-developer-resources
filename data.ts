@@ -55,6 +55,11 @@ export const data: Resources = {
 				"https://ollama.com/",
 				"https://github.com/ultralytics/yolov5",
 				"https://github.com/hailo-ai/hailo_model_zoo?tab=readme-ov-file",
+				"https://github.com/facebookresearch/audiocraft",
+				"https://suno.com/",
+				"https://boomy.com/",
+				"https://www.loudly.com/music/ai-music-generator",
+				"https://soundraw.io/",
 			],
 		},
 		{
