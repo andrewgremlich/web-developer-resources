@@ -169,9 +169,9 @@ export const data: Resources = {
 				"https://planetscale.com/",
 				"https://upstash.com/about",
 				"https://www.learnpython.org/",
-				"https://fly.io/",
 				"https://www.convex.dev/",
 				"https://www.prisma.io/",
+				"https://orm.drizzle.team/",
 			],
 		},
 		{
@@ -212,16 +212,6 @@ export const data: Resources = {
 				"https://paint.js.org/",
 				"https://jspaint.app/#local:d0610fe432fb8",
 				"https://express.adobe.com/",
-			],
-		},
-		{
-			title: "Email Services",
-			urls: [
-				"https://resend.com/",
-				"https://www.mailgun.com/",
-				"https://postmarkapp.com/",
-				"https://mailchimp.com/",
-				"https://sendgrid.com/",
 			],
 		},
 		{
@@ -285,6 +275,8 @@ export const data: Resources = {
 				"https://www.unicode.org/charts/PDF/U0000.pdf",
 				"https://getstream.io/",
 				"https://pixabay.com/",
+				"https://github.com/SortableJS/Sortable",
+				"https://github.com/epicweb-dev/epic-stack",
 			],
 		},
 		{
@@ -564,6 +556,15 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Testing",
+			urls: [
+				"https://www.cypress.io/",
+				"https://jestjs.io/",
+				"https://mochajs.org/",
+				"https://www.npmjs.com/package/msw",
+			],
+		},
+		{
 			title: "Tutorials",
 			urls: [
 				"https://css-tricks.com/implementing-push-notifications-setting-firebase/",
@@ -574,6 +575,18 @@ export const data: Resources = {
 				"https://egghead.io/courses/building-react-applications-with-idiomatic-redux",
 				"https://learngitbranching.js.org/",
 				"http://ES6.io",
+			],
+		},
+		{
+			title: "User Engagement Services",
+			urls: [
+				"https://resend.com/",
+				"https://www.mailgun.com/",
+				"https://postmarkapp.com/",
+				"https://mailchimp.com/",
+				"https://sendgrid.com/",
+				"https://www.twilio.com/en-us",
+				"https://sentry.io/welcome/",
 			],
 		},
 		{
@@ -652,6 +665,8 @@ export const data: Resources = {
 				"https://www.macincloud.com/",
 				"https://www.macstadium.com/",
 				"https://www.val.town/",
+				"https://fly.io/",
+				"https://coolify.io/",
 			],
 		},
 		{
