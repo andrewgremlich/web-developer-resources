@@ -60,6 +60,7 @@ export const data: Resources = {
 				"https://boomy.com/",
 				"https://www.loudly.com/music/ai-music-generator",
 				"https://soundraw.io/",
+				"https://github.com/mlabonne/llm-course",
 			],
 		},
 		{
