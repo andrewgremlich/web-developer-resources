@@ -216,6 +216,21 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Encryption",
+			urls: [
+				"https://standardnotes.com/",
+				"https://standardnotes.com/help/security/encryption",
+				"https://github.com/standardnotes",
+				"https://github.com/jonhadfield/awesome-standard-notes",
+				"https://signal.org/docs/",
+				"https://www.wikiwand.com/en/Signal_Protocol",
+				"https://github.com/signalapp",
+				"https://github.com/signalapp/libsignal",
+				"https://cryptii.com/",
+				"https://cryptpad.org/instances/",
+			],
+		},
+		{
 			title: "Extensions",
 			urls: [
 				"https://github.com/dutiyesh/chrome-extension-cli",
@@ -238,7 +253,6 @@ export const data: Resources = {
 				"https://tinywow.com/",
 				"https://vocalremover.org/",
 				"https://www.trackawesomelist.com/",
-				"https://standardnotes.com/",
 				"https://ray.so/",
 				"https://cs.vkrsi.com/",
 				"https://carbon.now.sh/",
@@ -323,7 +337,6 @@ export const data: Resources = {
 				"https://fusionauth.io/password-history/",
 				"https://98.js.org/",
 				"https://svtsim.com/moonjs/agc.html",
-				"https://cryptii.com/",
 				"https://visitedplaces.com/",
 				"https://www.myretrotvs.com/",
 			],
