@@ -61,6 +61,8 @@ export const data: Resources = {
 				"https://www.loudly.com/music/ai-music-generator",
 				"https://soundraw.io/",
 				"https://github.com/mlabonne/llm-course",
+				"https://huggingface.co/apple",
+				"https://huggingface.co/apple/OpenELM",
 			],
 		},
 		{
