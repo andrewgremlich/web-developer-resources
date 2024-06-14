@@ -294,6 +294,7 @@ export const data: Resources = {
 				"https://pixabay.com/",
 				"https://github.com/SortableJS/Sortable",
 				"https://github.com/epicweb-dev/epic-stack",
+				"https://webhook.site/",
 			],
 		},
 		{
