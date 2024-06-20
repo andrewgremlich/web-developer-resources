@@ -403,6 +403,7 @@ export const data: Resources = {
 				"https://oxc-project.github.io/",
 				"https://github.com/karimould/awesome-js-tooling-in-rust",
 				"https://jsonplaceholder.typicode.com",
+				"https://webcontainers.io/",
 			],
 		},
 		{
@@ -513,6 +514,8 @@ export const data: Resources = {
 				"https://dat-ecosystem.org/",
 				"http://Ipfs.io",
 				"https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html",
+				"https://crates.io/crates/libp2p",
+				"https://www.npmjs.com/package/libp2p",
 			],
 		},
 		{
