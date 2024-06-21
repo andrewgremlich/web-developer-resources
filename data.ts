@@ -167,7 +167,6 @@ export const data: Resources = {
 				"https://www.crunchydata.com/developers/tutorials",
 				"https://boot.dev/",
 				"https://bit.io/",
-				"https://neon.tech",
 				"https://turso.tech",
 				"https://planetscale.com/",
 				"https://upstash.com/about",
@@ -175,6 +174,7 @@ export const data: Resources = {
 				"https://www.convex.dev/",
 				"https://www.prisma.io/",
 				"https://orm.drizzle.team/",
+				"https://neon.tech",
 			],
 		},
 		{
@@ -243,6 +243,13 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "FFI(ish)",
+			urls: [
+				"https://github.com/kabiroberai/node-swift",
+				"https://neon-rs.dev/",
+			],
+		},
+		{
 			title: "Free Resources",
 			urls: [
 				"https://learnweb3.io/",
@@ -295,6 +302,7 @@ export const data: Resources = {
 				"https://github.com/SortableJS/Sortable",
 				"https://github.com/epicweb-dev/epic-stack",
 				"https://webhook.site/",
+				"https://kasper.github.io/phoenix/",
 			],
 		},
 		{
@@ -616,6 +624,13 @@ export const data: Resources = {
 				"https://github.com/mifi/editly",
 				"https://www.vidstack.io/",
 				"https://www.mux.com/",
+			],
+		},
+		{
+			title: "VPN",
+			urls: [
+				"https://github.com/trailofbits/algo",
+				"https://github.com/ziogas/digital-ocean-private-vpn",
 			],
 		},
 		{
