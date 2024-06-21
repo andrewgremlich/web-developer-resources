@@ -303,6 +303,7 @@ export const data: Resources = {
 				"https://github.com/epicweb-dev/epic-stack",
 				"https://webhook.site/",
 				"https://kasper.github.io/phoenix/",
+				"https://crontab.guru/",
 			],
 		},
 		{
