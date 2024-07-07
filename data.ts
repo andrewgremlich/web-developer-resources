@@ -63,6 +63,7 @@ export const data: Resources = {
 				"https://github.com/mlabonne/llm-course",
 				"https://huggingface.co/apple",
 				"https://huggingface.co/apple/OpenELM",
+				"https://makereal.tldraw.com/",
 			],
 		},
 		{
@@ -167,7 +168,6 @@ export const data: Resources = {
 				"https://www.crunchydata.com/developers/tutorials",
 				"https://boot.dev/",
 				"https://bit.io/",
-				"https://neon.tech",
 				"https://turso.tech",
 				"https://planetscale.com/",
 				"https://upstash.com/about",
@@ -175,6 +175,7 @@ export const data: Resources = {
 				"https://www.convex.dev/",
 				"https://www.prisma.io/",
 				"https://orm.drizzle.team/",
+				"https://neon.tech",
 			],
 		},
 		{
@@ -188,7 +189,6 @@ export const data: Resources = {
 				"https://www.checklist.design/",
 				"https://app.diagrams.net/",
 				"https://thenounproject.com/",
-				"https://canvas.apps.chrome/",
 				"https://www.fotor.com/",
 				"https://www.gimp.org/",
 				"https://meshgradient.com/",
@@ -210,15 +210,33 @@ export const data: Resources = {
 				"http://fontawesome.io/icons/",
 				"https://www.npmjs.com/package/react-icons",
 				"https://react-demo.hugeicons.com/",
-				"https://penpot.app/",
-				"https://www.canva.com/",
-				"https://paint.js.org/",
-				"https://jspaint.app/#local:d0610fe432fb8",
 				"https://express.adobe.com/",
 			],
 		},
 		{
-			title: "Encryption",
+			title: "Design Systems",
+			urls: [
+				"https://www.designsystems.com/",
+				"https://www.canva.com/",
+				"https://penpot.app/",
+				"https://www.figma.com/",
+				"https://www.sketch.com/",
+				"https://www.invisionapp.com/",
+				"https://canvas.apps.chrome/",
+			],
+		},
+		{
+			title: "Drawing",
+			urls: [
+				"https://excalidraw.com/",
+				"https://tldraw.dev/",
+				"https://paint.js.org/",
+				"https://www.draw.io/",
+				"https://jspaint.app/",
+			],
+		},
+		{
+			title: "Privacy",
 			urls: [
 				"https://standardnotes.com/",
 				"https://standardnotes.com/help/security/encryption",
@@ -240,6 +258,13 @@ export const data: Resources = {
 				"https://github.com/fregante/Awesome-WebExtensions",
 				"https://wxt.dev/",
 				"https://extension.js.org/",
+			],
+		},
+		{
+			title: "FFI(ish)",
+			urls: [
+				"https://github.com/kabiroberai/node-swift",
+				"https://neon-rs.dev/",
 			],
 		},
 		{
@@ -295,6 +320,8 @@ export const data: Resources = {
 				"https://github.com/SortableJS/Sortable",
 				"https://github.com/epicweb-dev/epic-stack",
 				"https://webhook.site/",
+				"https://kasper.github.io/phoenix/",
+				"https://crontab.guru/",
 			],
 		},
 		{
@@ -379,8 +406,6 @@ export const data: Resources = {
 				"https://regexr.com/",
 				"https://eqeq.js.org/",
 				"https://javascript.info/",
-				"https://culorijs.org/",
-				"https://bellard.org/quickjs/",
 				"https://www.partykit.io/",
 				"https://livekit.io/",
 			],
@@ -393,6 +418,7 @@ export const data: Resources = {
 				"https://wasmer.io/posts/winterjs-v1",
 				"https://github.com/cloudflare/workerd",
 				"https://deno.com/blog/roll-your-own-javascript-runtime",
+				"https://bellard.org/quickjs/",
 			],
 		},
 		{
@@ -495,7 +521,11 @@ export const data: Resources = {
 		},
 		{
 			title: "NPM Packages",
-			urls: ["https://www.npmjs.com/package/zod#introduction"],
+			urls: [
+				"https://www.npmjs.com/package/zod#introduction",
+				"https://culorijs.org/",
+				"https://github.com/pdfslick/pdfslick",
+			],
 		},
 		{
 			title: "Payment Portals",
@@ -554,7 +584,7 @@ export const data: Resources = {
 		},
 		{
 			title: "Search",
-			urls: ["https://crawler.algolia.com/", "https://www.notion.so/"],
+			urls: ["https://crawler.algolia.com/"],
 		},
 		{
 			title: "Service Workers",
@@ -586,6 +616,8 @@ export const data: Resources = {
 				"https://jestjs.io/",
 				"https://mochajs.org/",
 				"https://www.npmjs.com/package/msw",
+				"https://playwright.dev/",
+				"https://www.selenium.dev/",
 			],
 		},
 		{
@@ -620,6 +652,13 @@ export const data: Resources = {
 				"https://github.com/mifi/editly",
 				"https://www.vidstack.io/",
 				"https://www.mux.com/",
+			],
+		},
+		{
+			title: "VPN",
+			urls: [
+				"https://github.com/trailofbits/algo",
+				"https://github.com/ziogas/digital-ocean-private-vpn",
 			],
 		},
 		{
