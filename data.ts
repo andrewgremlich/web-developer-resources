@@ -736,6 +736,7 @@ export const data: Resources = {
 				"https://fly.io/",
 				"https://coolify.io/",
 				"https://caprover.com/",
+				"https://rclone.org/",
 			],
 		},
 		{
