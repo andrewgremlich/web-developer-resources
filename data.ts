@@ -480,6 +480,10 @@ export const data: Resources = {
 			],
 		},
 		{
+		    title: "Mobile Frameworks",
+		    urls: ["https://expo.dev/","https://reactnative.dev/","https://nativescript.org/","https://ionicframework.com/"],
+		},
+		{
 			title: "Module Service",
 			urls: [
 				"https://unpkg.com/",
