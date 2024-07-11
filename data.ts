@@ -585,6 +585,7 @@ export const data: Resources = {
 				"https://allthings.how/",
 				"https://caniuse.com/",
 				"https://a11y.coffee/",
+				"https://keliris.dev/articles/deep-note",
 			],
 		},
 		{
