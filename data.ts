@@ -104,6 +104,8 @@ export const data: Resources = {
 				"https://exploringjs.com/deep-js/",
 				"https://exploringjs.com/impatient-js/",
 				"https://github.com/ryanmcdermott/clean-code-javascript",
+				"https://webrtcforthecurious.com/",
+				"https://github.com/MostlyAdequate/mostly-adequate-guide",
 			],
 		},
 		{
