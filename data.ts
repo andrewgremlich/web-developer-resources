@@ -110,7 +110,12 @@ export const data: Resources = {
 		},
 		{
 			title: "CMS",
-			urls: ["https://tina.io/", "https://forestry.io/", "https://strapi.io/"],
+			urls: [
+				"https://tina.io/",
+				"https://forestry.io/",
+				"https://strapi.io/",
+				"https://payloadcms.com/",
+			],
 		},
 		{
 			title: "Code Tools",
