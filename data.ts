@@ -64,6 +64,7 @@ export const data: Resources = {
 				"https://huggingface.co/apple",
 				"https://huggingface.co/apple/OpenELM",
 				"https://makereal.tldraw.com/",
+				"https://opencv.org/",
 			],
 		},
 		{
