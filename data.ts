@@ -707,6 +707,7 @@ export const data: Resources = {
 				"https://github.com/electric-sql/pglite",
 				"https://sql.js.org/#/",
 				"https://github.com/tursodatabase/libsql-js",
+				"https://bevyengine.org/",
 			],
 		},
 		{
@@ -765,7 +766,6 @@ export const data: Resources = {
 		{
 			title: "Other Resources",
 			urls: [
-				"https://bevyengine.org/",
 				"https://www.gitpod.io/",
 				"https://react-spectrum.adobe.com/react-aria/index.html",
 				"https://www.crypto101.io/",
