@@ -6,12 +6,6 @@
   font-family: "Roboto", sans-serif;
 }
 
-html,
-body {
-  height: 100%;
-  width: 100%;
-}
-
 body {
   padding: 5em 3em;
   background-color: #191919;
