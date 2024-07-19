@@ -401,7 +401,6 @@ export const data: Resources = {
 			urls: [
 				"https://doesitmutate.xyz/",
 				"https://react-hooks.org/docs/hooks-list/",
-				"https://threejs.org/",
 				"https://github.com/agauniyal/wireframe",
 				"https://github.com/popmotion/popmotion",
 				"https://github.com/mifi/editly",
@@ -634,6 +633,19 @@ export const data: Resources = {
 				"https://www.npmjs.com/package/msw",
 				"https://playwright.dev/",
 				"https://www.selenium.dev/",
+			],
+		},
+		{
+			title: "Three Dimensional",
+			urls: [
+				"https://threejs.org/",
+				"https://www.babylonjs.com/",
+				"https://aframe.io/",
+				"https://www.blender.org/",
+				"https://www.tinkercad.com/",
+				"https://www.openscad.org/",
+				"https://github.com/jscad",
+				"https://jscad.app/",
 			],
 		},
 		{
