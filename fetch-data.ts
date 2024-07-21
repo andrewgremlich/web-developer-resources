@@ -122,6 +122,8 @@ const main = (async () => {
 				})}</p>
 				<p>Created without React. <a href="https://github.com/andrewgremlich/web-developer-resources" target="_blank">Check it out!</a></p>
       </footer>
+
+			<script src="./hash-listener.js"></script>
     </body>
   </html>`;
 

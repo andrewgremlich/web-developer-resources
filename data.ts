@@ -281,6 +281,7 @@ export const data: Resources = {
 		{
 			title: "Free Resources",
 			urls: [
+				"https://p2p.mirotalk.com/",
 				"https://learnweb3.io/",
 				"https://onesignal.com/pricing",
 				"https://hackmd.io/",
