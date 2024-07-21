@@ -2,6 +2,5 @@
 npm run check
 npm run build
 git add index.html
-git add cached_data.json
 git add prisma/dev.db
 git add data.ts
