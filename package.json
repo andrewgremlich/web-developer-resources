@@ -28,11 +28,12 @@
     "typescript": "^5.5.3"
   },
   "scripts": {
-    "prepare": "husky install",
+    "prepare": "husky",
     "build": "ts-node fetch-data.ts",
     "format": "biome format data.ts fetch-data.ts --write",
     "lint": "biome lint data.ts fetch-data.ts",
     "check": "biome check --write data.ts fetch-data.ts",
-    "studio": "prisma studio"
+    "studio": "prisma studio",
+    "postinstall": "prisma generate"
   }
 }
