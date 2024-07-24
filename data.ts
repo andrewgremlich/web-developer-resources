@@ -637,6 +637,7 @@ export const data: Resources = {
 				"https://www.npmjs.com/package/msw",
 				"https://playwright.dev/",
 				"https://www.selenium.dev/",
+				"https://www.npmjs.com/package/leaked-handles",
 			],
 		},
 		{
