@@ -678,6 +678,14 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Two Dimensional",
+			urls: [
+				"https://github.com/jagenjo/litegraph.js",
+				"https://two.js.org/",
+				"https://roughjs.com/",
+			],
+		},
+		{
 			title: "User Engagement Services",
 			urls: [
 				"https://resend.com/",
