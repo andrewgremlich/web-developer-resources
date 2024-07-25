@@ -14,3 +14,17 @@ document.addEventListener("DOMContentLoaded", () => {
     checkbox.checked = true;
   }
 });
+
+const allCategorySections = document.querySelectorAll(".category-section");
+
+for (const categorySection of allCategorySections) {
+  categorySection.addEventListener("change", (event) => {
+    const checkbox = event.target;
+
+    if (checkbox.checked) {
+      window.location.hash = `#${checkbox.parentElement.id}`;
+    } else {
+      window.location.hash = "";
+    }
+  });
+}

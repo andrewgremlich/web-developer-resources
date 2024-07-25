@@ -60,7 +60,7 @@ const makeSection = async (sectionToGet: Resource) => {
 			title: sectionToGet.title,
 		},
 		__html: `
-		<section id="${sectionId}" class="dropdown">
+		<section id="${sectionId}" class="dropdown category-section">
 		<input type="checkbox" id="dropdown-toggle-${sectionId}" class="dropdown-toggle">
     <label for="dropdown-toggle-${sectionId}" class="dropdown-label">${
 			sectionToGet.title
