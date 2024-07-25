@@ -192,14 +192,6 @@ export const data: Resources = {
 			],
 		},
 		{
-			title: "Developers to Follow",
-			urls: [
-				"https://wattenberger.com/",
-				"https://www.joshwcomeau.com/",
-				"https://www.artgeeky.com/",
-			],
-		},
-		{
 			title: "Design",
 			urls: [
 				"https://colorpicker.me/",
@@ -244,6 +236,14 @@ export const data: Resources = {
 				"https://www.sketch.com/",
 				"https://www.invisionapp.com/",
 				"https://canvas.apps.chrome/",
+			],
+		},
+		{
+			title: "Developers to Follow",
+			urls: [
+				"https://wattenberger.com/",
+				"https://www.joshwcomeau.com/",
+				"https://www.artgeeky.com/",
 			],
 		},
 		{
