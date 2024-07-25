@@ -192,6 +192,10 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Developers to Follow",
+			urls: ["https://wattenberger.com/", "https://www.joshwcomeau.com/"],
+		},
+		{
 			title: "Design",
 			urls: [
 				"https://colorpicker.me/",
@@ -421,6 +425,7 @@ export const data: Resources = {
 				"https://javascript.info/",
 				"https://www.partykit.io/",
 				"https://livekit.io/",
+				"https://dbushell.com/2024/07/25/git-granary/",
 			],
 		},
 		{
@@ -599,6 +604,7 @@ export const data: Resources = {
 				"https://caniuse.com/",
 				"https://a11y.coffee/",
 				"https://keliris.dev/articles/deep-note",
+				"https://www.bbss.dev/posts/eventloop/",
 			],
 		},
 		{
@@ -664,6 +670,7 @@ export const data: Resources = {
 				"https://egghead.io/courses/building-react-applications-with-idiomatic-redux",
 				"https://learngitbranching.js.org/",
 				"http://ES6.io",
+				"https://svg.wtf/",
 			],
 		},
 		{
