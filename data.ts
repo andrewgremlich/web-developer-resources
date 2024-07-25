@@ -193,7 +193,11 @@ export const data: Resources = {
 		},
 		{
 			title: "Developers to Follow",
-			urls: ["https://wattenberger.com/", "https://www.joshwcomeau.com/"],
+			urls: [
+				"https://wattenberger.com/",
+				"https://www.joshwcomeau.com/",
+				"https://www.artgeeky.com/",
+			],
 		},
 		{
 			title: "Design",
