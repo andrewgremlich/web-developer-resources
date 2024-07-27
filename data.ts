@@ -68,6 +68,7 @@ export const data: Resources = {
 				"https://venice.ai/chat/",
 				"https://www.perplexity.ai/",
 				"https://localai.io/",
+				"https://www.continue.dev/",
 			],
 		},
 		{
