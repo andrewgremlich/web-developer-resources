@@ -432,6 +432,8 @@ export const data: Resources = {
 				"https://www.partykit.io/",
 				"https://livekit.io/",
 				"https://dbushell.com/2024/07/25/git-granary/",
+				"https://anandchowdhary.github.io/calendar-link/",
+				"https://nolanlawson.github.io/emoji-picker-element/",
 			],
 		},
 		{
