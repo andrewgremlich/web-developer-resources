@@ -25,6 +25,7 @@ export const data: Resources = {
 				"https://web-dev-resources.com/#/",
 				"https://www.dev-box.app/",
 				"https://free-for.dev/#/",
+				"http://microjs.com/#",
 			],
 		},
 		{
