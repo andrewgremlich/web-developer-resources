@@ -70,6 +70,7 @@ export const data: Resources = {
 				"https://www.perplexity.ai/",
 				"https://localai.io/",
 				"https://www.continue.dev/",
+				"https://github.com/eduardoleao052/js-pytorch",
 			],
 		},
 		{
