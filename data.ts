@@ -294,7 +294,6 @@ export const data: Resources = {
 		{
 			title: "Free Resources",
 			urls: [
-				"https://p2p.mirotalk.com/",
 				"https://learnweb3.io/",
 				"https://onesignal.com/pricing",
 				"https://hackmd.io/",
@@ -583,6 +582,11 @@ export const data: Resources = {
 				"https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html",
 				"https://crates.io/crates/libp2p",
 				"https://www.npmjs.com/package/libp2p",
+				"https://otr.to/",
+				"https://p2pchat.info/",
+				"https://github.com/michal-wrzosek/p2p-chat",
+				"https://meet.jit.si/",
+				"https://p2p.mirotalk.com/",
 			],
 		},
 		{
