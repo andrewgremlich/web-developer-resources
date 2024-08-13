@@ -694,6 +694,9 @@ export const data: Resources = {
 			title: "Three Dimensional",
 			urls: [
 				"https://threejs.org/",
+				"https://docs.pmnd.rs/react-three-fiber/getting-started/introduction",
+				"https://schteppe.github.io/cannon.js/",
+				"https://github.com/kripken/ammo.js/",
 				"https://www.babylonjs.com/",
 				"https://aframe.io/",
 				"https://www.blender.org/",
