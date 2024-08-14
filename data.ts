@@ -239,6 +239,7 @@ export const data: Resources = {
 				"https://www.gimp.org/",
 				"https://meshgradient.com/",
 				"https://www.joshwcomeau.com/gradient-generator/",
+				"https://www.learnui.design/tools/gradient-generator.html",
 				"https://www.stockio.com/",
 				"https://phosphoricons.com/",
 				"https://www.svgrepo.com/",
@@ -376,6 +377,7 @@ export const data: Resources = {
 				"https://webhook.site/",
 				"https://kasper.github.io/phoenix/",
 				"https://crontab.guru/",
+				"https://github.com/jonroig/usBabyNames.js?ck_subscriber_id=1924360891",
 			],
 		},
 		{
@@ -566,6 +568,7 @@ export const data: Resources = {
 			title: "Mobile Frameworks",
 			urls: [
 				"https://expo.dev/",
+				"https://github.com/infinitered/ignite",
 				"https://reactnative.dev/",
 				"https://nativescript.org/",
 				"https://ionicframework.com/",
