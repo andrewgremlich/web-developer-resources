@@ -529,6 +529,7 @@ export const data: Resources = {
 				"https://jsremotely.com/",
 				"https://github.com/remoteintech/remote-jobs",
 				"https://stackoverflow.jobs/",
+				"https://www.utahtechjobs.io/",
 			],
 		},
 		{
