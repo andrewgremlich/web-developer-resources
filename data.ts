@@ -192,6 +192,8 @@ export const data: Resources = {
 				"https://www.prisma.io/",
 				"https://orm.drizzle.team/",
 				"https://neon.tech",
+				"https://postgres.new/",
+				"https://surrealdb.com/",
 			],
 		},
 		{
@@ -467,6 +469,7 @@ export const data: Resources = {
 				"https://dbushell.com/2024/07/25/git-granary/",
 				"https://anandchowdhary.github.io/calendar-link/",
 				"https://nolanlawson.github.io/emoji-picker-element/",
+				"https://turfjs.org/",
 			],
 		},
 		{
