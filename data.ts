@@ -533,6 +533,7 @@ export const data: Resources = {
 				"https://github.com/remoteintech/remote-jobs",
 				"https://stackoverflow.jobs/",
 				"https://www.utahtechjobs.io/",
+				"https://hiring.fyjump.com/",
 			],
 		},
 		{
