@@ -535,6 +535,8 @@ export const data: Resources = {
 				"https://stackoverflow.jobs/",
 				"https://www.utahtechjobs.io/",
 				"https://hiring.fyjump.com/",
+				"https://www.ycombinator.com/jobs/role/software-engineer",
+				"https://www.ycombinator.com/companies/",
 			],
 		},
 		{
