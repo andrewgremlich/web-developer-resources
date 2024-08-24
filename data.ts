@@ -280,6 +280,16 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Desktop Frameworks",
+			urls: [
+				"https://electronjs.org/",
+				"https://nwjs.io/",
+				"https://proton-native.js.org/",
+				"https://bevyengine.org/",
+				"https://tauri.app/",
+			],
+		},
+		{
 			title: "Developers to Follow",
 			urls: [
 				"https://wattenberger.com/",
