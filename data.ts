@@ -708,6 +708,7 @@ export const data: Resources = {
 				"https://docs.pmnd.rs/react-three-fiber/getting-started/introduction",
 				"https://schteppe.github.io/cannon.js/",
 				"https://github.com/kripken/ammo.js/",
+				"https://rapier.rs/",
 				"https://www.babylonjs.com/",
 				"https://aframe.io/",
 				"https://www.blender.org/",
