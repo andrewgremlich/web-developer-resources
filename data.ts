@@ -194,6 +194,8 @@ export const data: Resources = {
 				"https://neon.tech",
 				"https://postgres.new/",
 				"https://surrealdb.com/",
+				"https://crontab.guru/",
+				"https://www.cronvex.com/",
 			],
 		},
 		{
@@ -376,7 +378,6 @@ export const data: Resources = {
 				"https://github.com/epicweb-dev/epic-stack",
 				"https://webhook.site/",
 				"https://kasper.github.io/phoenix/",
-				"https://crontab.guru/",
 				"https://github.com/jonroig/usBabyNames.js?ck_subscriber_id=1924360891",
 			],
 		},
