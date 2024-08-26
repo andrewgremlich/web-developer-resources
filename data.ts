@@ -536,6 +536,7 @@ export const data: Resources = {
 				"https://hiring.fyjump.com/",
 				"https://www.ycombinator.com/jobs/role/software-engineer",
 				"https://www.ycombinator.com/companies/",
+				"https://filtra.io/",
 			],
 		},
 		{
