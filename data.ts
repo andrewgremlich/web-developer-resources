@@ -379,6 +379,7 @@ export const data: Resources = {
 				"https://webhook.site/",
 				"https://kasper.github.io/phoenix/",
 				"https://github.com/jonroig/usBabyNames.js?ck_subscriber_id=1924360891",
+				"https://neatnik.net/calendar/",
 			],
 		},
 		{
