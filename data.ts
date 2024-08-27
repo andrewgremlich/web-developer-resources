@@ -721,6 +721,7 @@ export const data: Resources = {
 				"https://3dviewer.net/",
 				"https://crates.io/crates/stl_io",
 				"https://crates.io/crates/nom_stl",
+				"https://ncviewer.com/",
 			],
 		},
 		{
