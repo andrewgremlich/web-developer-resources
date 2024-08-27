@@ -414,7 +414,6 @@ export const data: Resources = {
 				"https://code.org/",
 				"https://eyes.nasa.gov/apps/solar-system/#/home",
 				"https://eyes.nasa.gov/",
-				"https://dgreenheck.github.io/threejs-procedural-planets/",
 				"https://www.flightradar24.com/",
 				"https://planefinder.net/",
 				"https://www.marinetraffic.com/",
@@ -707,6 +706,7 @@ export const data: Resources = {
 			urls: [
 				"https://threejs.org/",
 				"https://docs.pmnd.rs/react-three-fiber/getting-started/introduction",
+				"https://dgreenheck.github.io/threejs-procedural-planets/",
 				"https://schteppe.github.io/cannon.js/",
 				"https://github.com/kripken/ammo.js/",
 				"https://rapier.rs/",
@@ -717,6 +717,10 @@ export const data: Resources = {
 				"https://www.openscad.org/",
 				"https://github.com/jscad",
 				"https://jscad.app/",
+				"https://core.vectreal.com/",
+				"https://3dviewer.net/",
+				"https://crates.io/crates/stl_io",
+				"https://crates.io/crates/nom_stl",
 			],
 		},
 		{
