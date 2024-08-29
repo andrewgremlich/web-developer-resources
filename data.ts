@@ -333,6 +333,14 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Franeworks and Libraries",
+			urls: [
+				"https://github.com/c410-f3r/wtx",
+				"https://nextjs.org/",
+				"https://remix.run/",
+			],
+		},
+		{
 			title: "FFI(ish)",
 			urls: [
 				"https://github.com/kabiroberai/node-swift",
