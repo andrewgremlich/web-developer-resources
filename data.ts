@@ -118,6 +118,16 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Build Tools",
+			urls: [
+				"https://www.snowpack.dev/",
+				"https://vitejs.dev/",
+				"https://esbuild.github.io/",
+				"https://parceljs.org/",
+				"https://rspack.dev/",
+			],
+		},
+		{
 			title: "CMS",
 			urls: [
 				"https://tina.io/",
@@ -446,6 +456,17 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Prsentation Software",
+			urls: [
+				"https://revealjs.com/",
+				"https://slides.com/",
+				"https://github.com/deckgo/deckdeckgo",
+				"https://www.beautiful.ai/",
+				"https://www.canva.com/",
+				"https://codehike.org/blog/v1",
+			],
+		},
+		{
 			title: "JavaScript",
 			urls: [
 				"https://doesitmutate.xyz/",
@@ -722,6 +743,7 @@ export const data: Resources = {
 				"https://crates.io/crates/stl_io",
 				"https://crates.io/crates/nom_stl",
 				"https://ncviewer.com/",
+				"https://pmndrs.github.io/uikit/docs/getting-started/introduction",
 			],
 		},
 		{
@@ -793,6 +815,7 @@ export const data: Resources = {
 				"https://sql.js.org/#/",
 				"https://github.com/tursodatabase/libsql-js",
 				"https://bevyengine.org/",
+				"https://github.com/nmrugg/stockfish.js",
 			],
 		},
 		{
