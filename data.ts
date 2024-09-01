@@ -91,6 +91,7 @@ export const data: Resources = {
 				"https://auth0.com/",
 				"https://next-auth.js.org/",
 				"https://stytch.com/",
+				"https://www.cerbos.dev/",
 			],
 		},
 		{
@@ -206,6 +207,8 @@ export const data: Resources = {
 				"https://surrealdb.com/",
 				"https://crontab.guru/",
 				"https://www.cronvex.com/",
+				"https://chartdb.io/",
+				"https://www.rockset.com/",
 			],
 		},
 		{
