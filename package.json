@@ -15,16 +15,16 @@
   },
   "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
   "dependencies": {
-    "@prisma/client": "^5.17.0",
+    "@prisma/client": "^5.19.1",
     "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.8.3",
-    "@types/node": "^20.14.11",
-    "husky": "^9.1.1",
-    "prisma": "^5.17.0",
+    "@types/node": "^22.5.2",
+    "husky": "^9.1.5",
+    "prisma": "^5.19.1",
     "ts-node": "^10.9.2",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.4"
   },
   "scripts": {
     "prepare": "husky",

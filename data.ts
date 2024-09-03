@@ -417,7 +417,6 @@ export const data: Resources = {
 				"https://sunilc.medium.com/kick-start-your-freelancing-career-with-these-tips-747cc27a150f",
 				"https://zapier.com/",
 				"https://www.make.com/en",
-				"https://snyk.io/",
 			],
 		},
 		{
@@ -502,6 +501,7 @@ export const data: Resources = {
 				"https://anandchowdhary.github.io/calendar-link/",
 				"https://nolanlawson.github.io/emoji-picker-element/",
 				"https://turfjs.org/",
+				"https://knip.dev/",
 			],
 		},
 		{
@@ -696,7 +696,10 @@ export const data: Resources = {
 		},
 		{
 			title: "Search",
-			urls: ["https://crawler.algolia.com/"],
+			urls: [
+				"https://crawler.algolia.com/",
+				"https://github.com/nextapps-de/flexsearch",
+			],
 		},
 		{
 			title: "Service Workers",
@@ -709,7 +712,16 @@ export const data: Resources = {
 		},
 		{
 			title: "Security",
-			urls: ["https://github.com/RetireJS/retire.js"],
+			urls: ["https://github.com/RetireJS/retire.js", "https://snyk.io/"],
+		},
+		{
+			title: "SSG",
+			urls: [
+				"https://rspress.dev/",
+				"https://www.gatsbyjs.com/",
+				"https://www.11ty.dev/",
+				"https://gohugo.io/",
+			],
 		},
 		{
 			title: "SVG Editors",
