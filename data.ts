@@ -116,6 +116,7 @@ export const data: Resources = {
 				"https://github.com/ryanmcdermott/clean-code-javascript",
 				"https://webrtcforthecurious.com/",
 				"https://github.com/MostlyAdequate/mostly-adequate-guide",
+				"https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup",
 			],
 		},
 		{
