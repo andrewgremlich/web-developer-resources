@@ -213,6 +213,10 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Browser Storage",
+			urls: ["https://dexie.org/", "https://tinybase.org/"],
+		},
+		{
 			title: "Coding lessons",
 			urls: [
 				"https://www.codecademy.com/",
@@ -310,6 +314,10 @@ export const data: Resources = {
 				"https://www.draw.io/",
 				"https://jspaint.app/",
 			],
+		},
+		{
+			title: "Documentation",
+			urls: ["https://github.com/jsdoc2md/jsdoc-to-markdown"],
 		},
 		{
 			title: "Privacy",
