@@ -332,6 +332,9 @@ export const data: Resources = {
 				"https://github.com/signalapp/libsignal",
 				"https://cryptii.com/",
 				"https://cryptpad.org/instances/",
+				"https://tresorit.com/",
+				"https://wire.com/en/",
+				"https://www.deepl.com/en/translator",
 			],
 		},
 		{
