@@ -851,6 +851,8 @@ export const data: Resources = {
 				"https://github.com/tursodatabase/libsql-js",
 				"https://bevyengine.org/",
 				"https://github.com/nmrugg/stockfish.js",
+				"https://surma.dev/things/rust-to-webassembly/",
+				"https://developer.mozilla.org/en-US/docs/WebAssembly",
 			],
 		},
 		{
