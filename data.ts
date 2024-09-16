@@ -334,7 +334,9 @@ export const data: Resources = {
 				"https://cryptpad.org/instances/",
 				"https://tresorit.com/",
 				"https://wire.com/en/",
+				"https://simplelogin.io/",
 				"https://www.deepl.com/en/translator",
+				"https://duckduckgo.com/",
 			],
 		},
 		{
