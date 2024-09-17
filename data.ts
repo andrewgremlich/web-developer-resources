@@ -430,6 +430,7 @@ export const data: Resources = {
 				"https://www.freecodecamp.org/news/freelance-web-developer-guide/",
 				"https://sunilc.medium.com/kick-start-your-freelancing-career-with-these-tips-747cc27a150f",
 				"https://zapier.com/",
+				"https://www.printful.com/",
 				"https://www.make.com/en",
 			],
 		},
