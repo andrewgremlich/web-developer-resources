@@ -461,6 +461,7 @@ export const data: Resources = {
 				"https://svtsim.com/moonjs/agc.html",
 				"https://visitedplaces.com/",
 				"https://www.myretrotvs.com/",
+				"https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html",
 			],
 		},
 		{
@@ -769,6 +770,10 @@ export const data: Resources = {
 				"https://github.com/kripken/ammo.js/",
 				"https://rapier.rs/",
 				"https://www.babylonjs.com/",
+				"https://gdevelop.io/",
+				"https://phaser.io/",
+				"https://jparticles.js.org/#/examples/quick-start",
+				"https://gh.echou.xyz/taro/",
 				"https://aframe.io/",
 				"https://www.blender.org/",
 				"https://www.tinkercad.com/",
