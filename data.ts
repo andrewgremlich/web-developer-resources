@@ -210,6 +210,7 @@ export const data: Resources = {
 				"https://www.cronvex.com/",
 				"https://chartdb.io/",
 				"https://www.rockset.com/",
+				"https://duckdb.org/",
 			],
 		},
 		{
