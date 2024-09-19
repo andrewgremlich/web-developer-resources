@@ -347,6 +347,7 @@ export const data: Resources = {
 				"https://github.com/fregante/Awesome-WebExtensions",
 				"https://wxt.dev/",
 				"https://extension.js.org/",
+				"https://www.luckymedia.dev/blog/how-to-create-a-chrome-extension-with-react-typescript-tailwindcss-and-vite-in-2024",
 			],
 		},
 		{
@@ -432,6 +433,9 @@ export const data: Resources = {
 				"https://zapier.com/",
 				"https://www.printful.com/",
 				"https://www.make.com/en",
+				"https://github.com/leerob/next-saas-starter",
+				"https://deno.com/saaskit",
+				"https://www.freelancer.com/",
 			],
 		},
 		{
@@ -787,6 +791,7 @@ export const data: Resources = {
 				"https://crates.io/crates/nom_stl",
 				"https://ncviewer.com/",
 				"https://pmndrs.github.io/uikit/docs/getting-started/introduction",
+				"https://deck.gl/",
 			],
 		},
 		{
