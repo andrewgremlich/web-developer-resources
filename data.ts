@@ -71,6 +71,7 @@ export const data: Resources = {
 				"https://localai.io/",
 				"https://www.continue.dev/",
 				"https://github.com/eduardoleao052/js-pytorch",
+				"https://danielmiessler.com/p/fabric-origin-story/",
 			],
 		},
 		{
@@ -211,6 +212,8 @@ export const data: Resources = {
 				"https://chartdb.io/",
 				"https://www.rockset.com/",
 				"https://duckdb.org/",
+				"https://www.localstack.cloud/",
+				"https://www.redislabs.com/",
 			],
 		},
 		{
@@ -793,6 +796,9 @@ export const data: Resources = {
 				"https://ncviewer.com/",
 				"https://pmndrs.github.io/uikit/docs/getting-started/introduction",
 				"https://deck.gl/",
+				"https://pixijs.com/",
+				"https://www.panda3d.org/",
+				"https://playcanvas.com/",
 			],
 		},
 		{
