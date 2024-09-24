@@ -72,6 +72,7 @@ export const data: Resources = {
 				"https://www.continue.dev/",
 				"https://github.com/eduardoleao052/js-pytorch",
 				"https://danielmiessler.com/p/fabric-origin-story/",
+				"https://code.fittentech.com/en",
 			],
 		},
 		{
