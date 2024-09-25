@@ -594,6 +594,10 @@ export const data: Resources = {
 				"https://www.ycombinator.com/jobs/role/software-engineer",
 				"https://www.ycombinator.com/companies/",
 				"https://filtra.io/",
+				"https://pangian.com/",
+				"https://jobspresso.co/",
+				"https://dynamitejobs.com/",
+				"https://topaisjobs.com/",
 			],
 		},
 		{
