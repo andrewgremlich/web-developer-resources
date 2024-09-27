@@ -807,7 +807,7 @@ export const data: Resources = {
 			],
 		},
 		{
-			title: "Tutorials",
+			title: "Tutorials/Courses",
 			urls: [
 				"https://css-tricks.com/implementing-push-notifications-setting-firebase/",
 				"https://css-tricks.com/implementing-push-notifications-back-end/",
@@ -818,6 +818,7 @@ export const data: Resources = {
 				"https://learngitbranching.js.org/",
 				"http://ES6.io",
 				"https://svg.wtf/",
+				"https://github.com/leerob/vim-for-react-devs",
 			],
 		},
 		{
