@@ -15,14 +15,12 @@
   },
   "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
   "dependencies": {
-    "@prisma/client": "^5.19.1",
     "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.2",
-    "@types/node": "^22.5.5",
+    "@types/node": "^22.7.4",
     "husky": "^9.1.6",
-    "prisma": "^5.19.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.2"
   },
@@ -31,8 +29,6 @@
     "build": "ts-node fetch-data.ts",
     "format": "biome format data.ts fetch-data.ts --write",
     "lint": "biome lint data.ts fetch-data.ts",
-    "check": "biome check --write data.ts fetch-data.ts",
-    "studio": "prisma studio",
-    "postinstall": "prisma generate"
+    "check": "biome check --write data.ts fetch-data.ts"
   }
 }

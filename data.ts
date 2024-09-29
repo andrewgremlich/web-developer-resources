@@ -215,6 +215,7 @@ export const data: Resources = {
 				"https://duckdb.org/",
 				"https://www.localstack.cloud/",
 				"https://www.redislabs.com/",
+				"https://jsoncrack.com/",
 			],
 		},
 		{

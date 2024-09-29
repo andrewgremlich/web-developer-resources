@@ -2,16 +2,18 @@ import fs from "node:fs";
 import { load } from "cheerio";
 
 import { type Resource, type ResourceDisplay, data } from "./data";
-import { CreateResource, GetResourceByUrl, prisma } from "./prisma/db";
+import untypedAllResources from "./full-data.json";
+
+const allResources: { [key: string]: ResourceDisplay } = untypedAllResources;
 
 const getUrlData = async (urlToPull: string): Promise<ResourceDisplay> => {
-	const resource = await GetResourceByUrl(urlToPull);
+	if (allResources[urlToPull]) {
+		const resource = allResources[urlToPull];
 
-	if (resource) {
 		return {
 			url: resource.url,
 			description: resource.description ?? undefined,
-			title: resource.name,
+			title: resource.title,
 		};
 	}
 
@@ -28,17 +30,15 @@ const getUrlData = async (urlToPull: string): Promise<ResourceDisplay> => {
 			title = $("title").text();
 		}
 
-		CreateResource({
-			name: title,
+		const newResource = {
+			title,
 			url: urlToPull,
-			description: $("meta[name='description']").attr("content"),
-		});
-
-		return {
-			url: urlToPull,
-			title: title,
 			description: $("meta[name='description']").attr("content"),
 		};
+
+		allResources[urlToPull] = newResource;
+
+		return newResource;
 	} catch {
 		return {
 			url: urlToPull,
@@ -93,10 +93,14 @@ const main = (async () => {
 			.map((sectionToGet) => makeSection(sectionToGet)),
 	);
 
-	await prisma.$disconnect();
+	console.log(`Found ${Object.keys(allResources).length} sections`);
 
-	// TODO: make a search bar that filters the contents.
-	// TODO: since I have page data, perhaps feed it to an OpenAI bot to help find a resource?
+	fs.writeFile("full-data.json", JSON.stringify(allResources), (err) => {
+		if (err) {
+			throw err;
+		}
+		console.log("full-data.json has been saved!");
+	});
 
 	const fileToWrite = `<!DOCTYPE html>
   <html lang="en-us">
@@ -141,6 +145,6 @@ const main = (async () => {
 		if (err) {
 			throw err;
 		}
-		console.log("The file has been saved!");
+		console.log("index.html has been saved!");
 	});
 })();
