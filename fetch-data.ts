@@ -135,6 +135,7 @@ const main = (async () => {
 				<p>Created without React. <a href="https://github.com/andrewgremlich/web-developer-resources" target="_blank">Check it out!</a></p>
       </footer>
 
+			<script>window.sectionsData=${JSON.stringify(allResources)}</script>
 			<script src="./hash-listener.js"></script>
 			<script src="./flex-search.js"></script>
 			<script src="./site-search.js"></script>

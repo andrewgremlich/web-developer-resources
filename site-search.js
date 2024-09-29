@@ -11,8 +11,6 @@
     };
   }
 
-  const fullData = await fetch("full-data.json");
-  const sectionsData = await fullData.json();
   const searchInput = document.querySelector("#search");
   const searchResults = document.querySelector("#search-results");
   const searchDoc = FlexSearch.Document({
@@ -22,32 +20,27 @@
     },
   });
 
-  for (const sectionUrl of Object.keys(sectionsData)) {
+  for (const sectionUrl of Object.keys(window.sectionsData)) {
     searchDoc.add({
       url: sectionUrl,
-      title: sectionsData[sectionUrl].title,
-      description: sectionsData[sectionUrl].description,
+      title: window.sectionsData[sectionUrl].title,
+      description: window.sectionsData[sectionUrl].description,
     });
   }
-
-  console.log(sectionsData);
 
   searchInput.addEventListener(
     "input",
     debounce((event) => {
-      console.log(event.target.value);
       const searchResult = searchDoc.search(event.target.value);
       const uniqueResult = new Set(searchResult.map(({ result }) => result[0]));
 
       searchResults.innerHTML = "";
 
       for (const url of uniqueResult) {
-        const section = Object.keys(sectionsData).find(
-          (sectionUrl) => sectionUrl === url
-        );
         const link = document.createElement("a");
-        link.href = section.url;
-        link.textContent = section.title;
+        link.href = window.sectionsData[url].url;
+        link.textContent = window.sectionsData[url].title;
+
         searchResults.appendChild(link);
       }
     }, 300)
