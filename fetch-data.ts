@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import { load } from "cheerio";
+import sanitizeHtml from "sanitize-html";
 
 import { type Resource, type ResourceDisplay, data } from "./data";
 import untypedAllResources from "./full-data.json";
@@ -27,13 +28,15 @@ const getUrlData = async (urlToPull: string): Promise<ResourceDisplay> => {
 		if (page.status !== 200) {
 			title = urlToPull;
 		} else {
-			title = $("title").text();
+			title = sanitizeHtml($("title").text());
 		}
 
 		const newResource = {
 			title,
 			url: urlToPull,
-			description: $("meta[name='description']").attr("content"),
+			description: sanitizeHtml(
+				$("meta[name='description']").attr("content") ?? "",
+			),
 		};
 
 		allResources[urlToPull] = newResource;
@@ -111,9 +114,6 @@ const main = (async () => {
       <meta name="author" content="Andrew Gremlich">
       <meta name="description" content="${data.description}">
       <link rel="stylesheet" type="text/css" href="./style.css">
-			<script>window.sectionsData=${JSON.stringify(
-				sectonsData.flatMap(({ sectionInfo }) => sectionInfo.sectionData),
-			)}</script>
     </head>
     <body>
 			<h1>${data.title}</h1>
