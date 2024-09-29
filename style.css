@@ -32,7 +32,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.75em;
+  font-size: 2em;
   font-weight: 400;
   margin: 0.83em 0;
 
@@ -86,4 +86,26 @@ li {
 
 hr {
   margin: 1em 0;
+}
+
+input[type="text"]#search {
+  background-color: #333;
+  padding: 0.5em;
+  border: none;
+  color: white;
+  width: 100%;
+  margin-bottom: 1em;
+  font-size: 1em;
+  border-radius: 0.2em;
+}
+
+.resource-title {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.description {
+  font-size: 0.9em;
+  color: #ccc;
+  padding-left: 1em;
 }
