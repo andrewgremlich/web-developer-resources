@@ -76,6 +76,7 @@ export const data: Resources = {
 				"https://github.com/huggingface/candle",
 				"https://huggingface.co/collections/radames/candle-wasm-examples-650898dee13ff96230ce3e1f",
 				"https://huggingface.co/docs/transformers.js/index",
+				"https://bolt.new/",
 			],
 		},
 		{
