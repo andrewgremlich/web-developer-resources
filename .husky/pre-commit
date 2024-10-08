@@ -1,4 +1,5 @@
 npm run check
 npm run build
 git add index.html
+git add full-data.json
 git add data.ts
