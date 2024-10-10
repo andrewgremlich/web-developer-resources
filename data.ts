@@ -566,7 +566,6 @@ export const data: Resources = {
 				"https://remote.com/jobs",
 				"https://www.workatastartup.com/",
 				"https://www.workingnomads.co/jobs",
-				"https://www.wfh.io/",
 				"https://www.skipthedrive.com/",
 				"https://www.flexjobs.com/",
 				"https://www.indeed.com/",
@@ -603,6 +602,9 @@ export const data: Resources = {
 				"https://jobspresso.co/",
 				"https://dynamitejobs.com/",
 				"https://topaisjobs.com/",
+				"https://www.rustjobs.fyi/",
+				"https://rustjobs.dev/",
+				"https://www.reactjobsboard.com/",
 			],
 		},
 		{
