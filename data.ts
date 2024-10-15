@@ -347,7 +347,12 @@ export const data: Resources = {
 				"https://simplelogin.io/",
 				"https://www.deepl.com/en/translator",
 				"https://duckduckgo.com/",
+				"https://proton.me/",
 			],
+		},
+		{
+			title: "Productivity",
+			urls: ["https://coda.io/welcome", "https://www.airtable.com/"],
 		},
 		{
 			title: "Extensions",
@@ -477,6 +482,7 @@ export const data: Resources = {
 				"https://visitedplaces.com/",
 				"https://www.myretrotvs.com/",
 				"https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html",
+				"https://www.windy.com/",
 			],
 		},
 		{
@@ -811,6 +817,10 @@ export const data: Resources = {
 				"https://pixijs.com/",
 				"https://www.panda3d.org/",
 				"https://playcanvas.com/",
+				"https://www.stlfinder.com/",
+				"https://www.yeggi.com/",
+				"https://www.cgtrader.com/",
+				"https://thangs.com/",
 			],
 		},
 		{
