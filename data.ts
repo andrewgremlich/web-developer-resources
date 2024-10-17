@@ -354,6 +354,10 @@ export const data: Resources = {
 				"https://www.privacytools.io/",
 				"https://incogni.com/",
 				"https://nordvpn.com/",
+				"https://github.com/pluja/awesome-privacy",
+				"https://www.torproject.org/",
+				"https://github.com/Lissy93/awesome-privacy",
+				"https://github.com/paulaime/Awesome-Privacy",
 			],
 		},
 		{
