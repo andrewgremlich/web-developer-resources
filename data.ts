@@ -610,7 +610,8 @@ export const data: Resources = {
 				"https://topaisjobs.com/",
 				"https://www.rustjobs.fyi/",
 				"https://rustjobs.dev/",
-				"https://www.reactjobsboard.com/",
+				"https://rust.careers/",
+				"https://tryremote.com/",
 			],
 		},
 		{
