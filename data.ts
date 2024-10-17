@@ -348,6 +348,12 @@ export const data: Resources = {
 				"https://www.deepl.com/en/translator",
 				"https://duckduckgo.com/",
 				"https://proton.me/",
+				"https://ente.io/",
+				"https://www.optery.com/",
+				"https://www.privacy.com/",
+				"https://www.privacytools.io/",
+				"https://incogni.com/",
+				"https://nordvpn.com/",
 			],
 		},
 		{
