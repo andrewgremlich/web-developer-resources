@@ -43,6 +43,7 @@ export const data: Resources = {
 				"https://platform.openai.com/docs/api-reference",
 				"https://docs.privategpt.dev/",
 				"https://huggingface.co/",
+				"https://microsoft.github.io/genaiscript/",
 				"https://huggingface.co/TheBloke/guanaco-65B-GPTQ",
 				"https://huggingface.co/codellama/CodeLlama-70b-hf",
 				"https://lmstudio.ai/",
@@ -467,6 +468,7 @@ export const data: Resources = {
 			title: "Fun websites",
 			urls: [
 				"https://neal.fun/",
+				"https://jslegend.itch.io/",
 				"https://thetruesize.com/",
 				"https://based.cooking/",
 				"https://theskylive.com/",
@@ -745,6 +747,7 @@ export const data: Resources = {
 				"https://a11y.coffee/",
 				"https://keliris.dev/articles/deep-note",
 				"https://www.bbss.dev/posts/eventloop/",
+				"https://ui.dev/why-react-renders",
 			],
 		},
 		{
@@ -796,6 +799,7 @@ export const data: Resources = {
 				"https://playwright.dev/",
 				"https://www.selenium.dev/",
 				"https://www.npmjs.com/package/leaked-handles",
+				"https://www.wheresrhys.co.uk/fetch-mock/",
 			],
 		},
 		{
@@ -855,6 +859,8 @@ export const data: Resources = {
 				"https://github.com/jagenjo/litegraph.js",
 				"https://two.js.org/",
 				"https://roughjs.com/",
+				"https://apexcharts.com/",
+				"https://www.chartjs.org/",
 			],
 		},
 		{
