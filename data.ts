@@ -366,6 +366,10 @@ export const data: Resources = {
 			urls: ["https://coda.io/welcome", "https://www.airtable.com/"],
 		},
 		{
+			title: "Ecommerce",
+			urls: ["https://medusajs.com/", "https://www.shopify.com/"],
+		},
+		{
 			title: "Extensions",
 			urls: [
 				"https://github.com/dutiyesh/chrome-extension-cli",
