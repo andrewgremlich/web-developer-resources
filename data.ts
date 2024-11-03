@@ -712,6 +712,7 @@ export const data: Resources = {
 			title: "Peer 2 Peer",
 			urls: [
 				"https://www.sharedrop.io/",
+				"https://gofile.io/",
 				"https://www.snapdrop.net",
 				"https://instant.io/",
 				"https://webtorrent.io/intro",
