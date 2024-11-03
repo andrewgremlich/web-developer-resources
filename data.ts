@@ -97,6 +97,8 @@ export const data: Resources = {
 				"https://github.com/whizkydee/Awesome-APIs",
 				"https://github.com/public-apis/public-apis",
 				"https://www.earthdata.nasa.gov/",
+				"https://pds.mcp.nasa.gov/portal/",
+				"https://serc.carleton.edu/usingdata/datasheets/MOLA.html",
 			],
 		},
 		{
@@ -854,6 +856,8 @@ export const data: Resources = {
 				"https://www.thingiverse.com/",
 				"https://cesium.com/blog/2024/08/06/introducing-cesium-moon-terrain/",
 				"https://cesium.com/",
+				"https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html",
+				"https://nasa3d.arc.nasa.gov/",
 			],
 		},
 		{
