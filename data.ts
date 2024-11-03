@@ -89,8 +89,15 @@ export const data: Resources = {
 			],
 		},
 		{
-			title: "APIs",
-			urls: ["https://pirateweather.net/", "https://miragejs.com/"],
+			title: "APIs or Data Sources",
+			urls: [
+				"https://pirateweather.net/",
+				"https://miragejs.com/",
+				"https://astronomyapi.com/",
+				"https://github.com/whizkydee/Awesome-APIs",
+				"https://github.com/public-apis/public-apis",
+				"https://www.earthdata.nasa.gov/",
+			],
 		},
 		{
 			title: "Authentication",
@@ -840,6 +847,12 @@ export const data: Resources = {
 				"https://www.yeggi.com/",
 				"https://www.cgtrader.com/",
 				"https://thangs.com/",
+				"https://portal.opentopography.org/raster?opentopoID=OTSRTM.082015.4326.1",
+				"https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1#web-tools",
+				"https://pgda.gsfc.nasa.gov/products/54",
+				"https://www.thingiverse.com/",
+				"https://cesium.com/blog/2024/08/06/introducing-cesium-moon-terrain/",
+				"https://cesium.com/",
 			],
 		},
 		{
