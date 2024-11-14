@@ -858,6 +858,7 @@ export const data: Resources = {
 				"https://cesium.com/",
 				"https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html",
 				"https://nasa3d.arc.nasa.gov/",
+				"https://virtual.basilicasanpietro.va/",
 			],
 		},
 		{
