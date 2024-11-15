@@ -493,6 +493,7 @@ export const data: Resources = {
 				"https://github.com/leerob/next-saas-starter",
 				"https://deno.com/saaskit",
 				"https://www.freelancer.com/",
+				"https://www.youtube.com/watch?v=68Li7ukgDKg",
 			],
 		},
 		{
