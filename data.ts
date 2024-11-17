@@ -491,6 +491,7 @@ export const data: Resources = {
 				"https://www.printful.com/",
 				"https://www.make.com/en",
 				"https://github.com/leerob/next-saas-starter",
+				"https://github.com/vercel/nextjs-subscription-payments",
 				"https://deno.com/saaskit",
 				"https://www.freelancer.com/",
 				"https://www.youtube.com/watch?v=68Li7ukgDKg",
