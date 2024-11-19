@@ -37,11 +37,13 @@
       searchResults.innerHTML = "";
 
       for (const url of uniqueResult) {
+        const paragraph = document.createElement("p");
         const link = document.createElement("a");
         link.href = window.sectionsData[url].url;
         link.textContent = window.sectionsData[url].title;
 
-        searchResults.appendChild(link);
+        paragraph.appendChild(link);
+        searchResults.appendChild(paragraph);
       }
     }, 300)
   );
