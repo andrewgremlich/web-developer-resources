@@ -390,7 +390,16 @@ export const data: Resources = {
 		},
 		{
 			title: "Productivity",
-			urls: ["https://coda.io/welcome", "https://www.airtable.com/"],
+			urls: [
+				"https://coda.io/welcome",
+				"https://www.airtable.com/",
+				"https://grep.app/",
+				"https://www.notion.so/",
+				"https://www.roamresearch.com/",
+				"https://www.taskade.com/",
+				"https://www.trello.com/",
+				"https://www.todoist.com/",
+			],
 		},
 		{
 			title: "Ecommerce",
@@ -495,6 +504,7 @@ export const data: Resources = {
 				"https://deno.com/saaskit",
 				"https://www.freelancer.com/",
 				"https://www.youtube.com/watch?v=68Li7ukgDKg",
+				"https://www.waveapps.com/accounting/",
 			],
 		},
 		{
