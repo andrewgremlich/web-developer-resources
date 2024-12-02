@@ -79,6 +79,7 @@ export const data: Resources = {
 				"https://huggingface.co/docs/transformers.js/index",
 				"https://bolt.new/",
 				"https://chat.groq.com/",
+				"https://www.cursor.com/",
 			],
 		},
 		{
