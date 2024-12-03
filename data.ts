@@ -101,6 +101,8 @@ export const data: Resources = {
 				"https://www.earthdata.nasa.gov/",
 				"https://pds.mcp.nasa.gov/portal/",
 				"https://serc.carleton.edu/usingdata/datasheets/MOLA.html",
+				"https://termly.io/",
+				"https://drata.com/",
 			],
 		},
 		{
@@ -110,6 +112,7 @@ export const data: Resources = {
 				"https://next-auth.js.org/",
 				"https://stytch.com/",
 				"https://www.cerbos.dev/",
+				"https://www.descope.com/",
 			],
 		},
 		{
