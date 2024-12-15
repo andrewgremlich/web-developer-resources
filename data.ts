@@ -80,6 +80,8 @@ export const data: Resources = {
 				"https://bolt.new/",
 				"https://chat.groq.com/",
 				"https://www.cursor.com/",
+				"https://www.transcribejs.dev/",
+				"https://notebooklm.google/",
 			],
 		},
 		{
@@ -969,6 +971,7 @@ export const data: Resources = {
 				"https://github.com/nmrugg/stockfish.js",
 				"https://surma.dev/things/rust-to-webassembly/",
 				"https://developer.mozilla.org/en-US/docs/WebAssembly",
+				"https://github.com/kleisauke/wasm-vips",
 			],
 		},
 		{
