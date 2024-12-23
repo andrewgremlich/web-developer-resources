@@ -180,6 +180,22 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Color",
+			urls: [
+				"https://css-tricks.com/re-pleasing-color-palettes/",
+				"https://colorpicker.me/",
+				"https://colorffy.com/color-scheme-generator",
+				"https://color.adobe.com/create/color-wheel",
+				"https://www.colourlovers.com/",
+				"https://colorhunt.co/",
+				"https://coolors.co/",
+				"https://www.colorbox.io/",
+				"https://www.colorzilla.com/",
+				"https://www.colorhexa.com/",
+				"https://www.color-hex.com/",
+			]
+		},
+		{
 			title: "CSS",
 			urls: [
 				"https://a.singlediv.com/",
@@ -199,7 +215,6 @@ export const data: Resources = {
 				"https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
 				"https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/",
 				"https://css-tricks.com/snippets/css/complete-guide-grid/",
-				"https://css-tricks.com/re-pleasing-color-palettes/",
 				"https://philipwalton.com/articles/what-no-one-told-you-about-z-index/",
 				"https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index",
 				"https://loading.io/css/",
@@ -281,9 +296,6 @@ export const data: Resources = {
 		{
 			title: "Design",
 			urls: [
-				"https://colorpicker.me/",
-				"https://colorffy.com/color-scheme-generator",
-				"https://color.adobe.com/create/color-wheel",
 				"https://css-tricks.com/design-resource-sites/",
 				"https://lawsofux.com/en/",
 				"https://www.checklist.design/",
