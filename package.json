@@ -16,7 +16,7 @@
   "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "sanitize-html": "^2.13.1"
+    "sanitize-html": "^2.14.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",

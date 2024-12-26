@@ -908,6 +908,7 @@ export const data: Resources = {
 				"https://nasa3d.arc.nasa.gov/",
 				"https://virtual.basilicasanpietro.va/",
 				"https://www.npmjs.com/package/three.meshline",
+				"https://www.scratchapixel.com/index.html",
 			],
 		},
 		{
