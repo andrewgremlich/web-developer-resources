@@ -193,7 +193,7 @@ export const data: Resources = {
 				"https://www.colorzilla.com/",
 				"https://www.colorhexa.com/",
 				"https://www.color-hex.com/",
-			]
+			],
 		},
 		{
 			title: "CSS",
