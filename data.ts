@@ -82,6 +82,7 @@ export const data: Resources = {
 				"https://www.cursor.com/",
 				"https://www.transcribejs.dev/",
 				"https://notebooklm.google/",
+				"https://lumalabs.ai/dream-machine/",
 			],
 		},
 		{
