@@ -987,6 +987,8 @@ export const data: Resources = {
 				"https://surma.dev/things/rust-to-webassembly/",
 				"https://radu-matei.com/blog/practical-guide-to-wasm-memory/",
 				"https://developer.mozilla.org/en-US/docs/WebAssembly",
+				"https://developer.mozilla.org/en-US/docs/WebAssembly/JavaScript_interface/Memory",
+				"https://developer.mozilla.org/en-US/docs/WebAssembly/JavaScript_interface/Memory/Memory",
 				"https://github.com/kleisauke/wasm-vips",
 			],
 		},
