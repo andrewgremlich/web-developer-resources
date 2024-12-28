@@ -985,6 +985,7 @@ export const data: Resources = {
 				"https://bevyengine.org/",
 				"https://github.com/nmrugg/stockfish.js",
 				"https://surma.dev/things/rust-to-webassembly/",
+				"https://radu-matei.com/blog/practical-guide-to-wasm-memory/",
 				"https://developer.mozilla.org/en-US/docs/WebAssembly",
 				"https://github.com/kleisauke/wasm-vips",
 			],
