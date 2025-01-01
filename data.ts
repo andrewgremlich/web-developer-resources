@@ -613,6 +613,7 @@ export const data: Resources = {
 				"https://nolanlawson.github.io/emoji-picker-element/",
 				"https://turfjs.org/",
 				"https://knip.dev/",
+				"https://metafizzy.co/",
 			],
 		},
 		{
