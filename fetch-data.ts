@@ -124,7 +124,7 @@ const main = (async () => {
 
 			<aside>
 				<h2>Table of Contents</h2>
-				<ul>
+				<ul id="table-of-contents">
 					${sectonsData
 						.map(
 							({ sectionInfo }) =>

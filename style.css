@@ -36,8 +36,7 @@ h2 {
   font-weight: 400;
   margin: 0.83em 0;
 
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
+  text-underline-offset: 0.3em;
 }
 
 h3 {
@@ -61,7 +60,11 @@ p {
 
 a {
   color: white;
-  text-decoration: none;
+  text-decoration: line;
+  text-underline-offset: 0.3em;
+  text-decoration-color: #60bdc9;
+  text-decoration-thickness: 0.1em;
+  text-decoration-style: dashed;
 }
 
 a:hover {
@@ -101,6 +104,7 @@ input[type="text"]#search {
 
 .resource-title {
   font-size: 1.5em;
+  line-height: 1.5;
   margin-bottom: 0.5em;
 }
 
@@ -108,4 +112,13 @@ input[type="text"]#search {
   font-size: 0.9em;
   color: #ccc;
   padding-left: 1em;
+}
+
+#table-of-contents {
+  display: flex;
+  flex-wrap: wrap;
+
+  & > li {
+    margin-right: 2em;
+  }
 }
