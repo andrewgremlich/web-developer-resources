@@ -121,6 +121,8 @@ export const data: Resources = {
 		{
 			title: "Books",
 			urls: [
+				"https://github.com/PacktPublishing/AI-Crash-Course",
+				"https://github.com/henrythe9th/ai-crash-course",
 				"http://eloquentjavascript.net/3rd_edition/",
 				"https://github.com/vinodotdev/node-to-rust/",
 				"https://github.com/getify/You-Dont-Know-JS",
@@ -533,6 +535,7 @@ export const data: Resources = {
 				"https://neal.fun/",
 				"https://jslegend.itch.io/",
 				"https://thetruesize.com/",
+				"https://truesizeofcountries.com/",
 				"https://based.cooking/",
 				"https://theskylive.com/",
 				"https://www.meteorshowers.org/view/all",
