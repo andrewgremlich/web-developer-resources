@@ -83,6 +83,10 @@ export const data: Resources = {
 				"https://www.transcribejs.dev/",
 				"https://notebooklm.google/",
 				"https://lumalabs.ai/dream-machine/",
+				"https://n8n.io/",
+				"https://flowiseai.com/",
+				"https://sdk.vercel.ai/",
+				
 			],
 		},
 		{
@@ -504,6 +508,7 @@ export const data: Resources = {
 				"https://github.com/jonroig/usBabyNames.js?ck_subscriber_id=1924360891",
 				"https://neatnik.net/calendar/",
 				"https://squish.addy.ie/",
+				"https://mail.tm/en/",
 			],
 		},
 		{
