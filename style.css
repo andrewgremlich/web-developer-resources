@@ -122,3 +122,7 @@ input[type="text"]#search {
     margin-right: 2em;
   }
 }
+
+.category-section {
+  margin-bottom: 6rem;
+}
