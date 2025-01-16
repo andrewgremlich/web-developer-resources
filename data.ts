@@ -329,7 +329,6 @@ export const data: Resources = {
 				"https://express.adobe.com/",
 				"https://pixabay.com/",
 				"https://opengameart.org/",
-				"https://imagemagick.org/",
 				"https://excalidraw.com/",
 				"https://www.tldraw.com/",
 			],
@@ -354,6 +353,7 @@ export const data: Resources = {
 				"https://proton-native.js.org/",
 				"https://bevyengine.org/",
 				"https://tauri.app/",
+				"https://www.todesktop.com/",
 			],
 		},
 		{
@@ -564,8 +564,11 @@ export const data: Resources = {
 			],
 		},
 		{
-			title: "Placeholder Service",
+			title: "Images",
 			urls: [
+				"https://imagemagick.org/",
+				"https://www.imgix.com/",
+				"https://css-tricks.com/the-complete-guide-to-lazy-loading-images/",
 				"https://placekitten.com/",
 				"https://dummyimage.com/",
 				"https://loremflickr.com/",
@@ -786,6 +789,15 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Push Notifications",
+			urls: [
+				"https://onesignal.com/",
+				"https://pusher.com/",
+				"https://css-tricks.com/implementing-push-notifications-setting-firebase/",
+				"https://css-tricks.com/implementing-push-notifications-back-end/",
+			],
+		},
+		{
 			title: "Reference/Articles",
 			urls: [
 				"https://htmlhead.dev/",
@@ -797,7 +809,6 @@ export const data: Resources = {
 				"https://css-tricks.com/now-ever-might-not-need-jquery/",
 				"https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/",
 				"https://css-tricks.com/reactive-uis-vanillajs-part-2-class-based-components/",
-				"https://css-tricks.com/the-complete-guide-to-lazy-loading-images/",
 				"https://github.com/leonardomso/33-js-concepts",
 				"https://areknawo.com/your-webgl-aiders/",
 				"https://restfulapi.net/",
@@ -920,8 +931,6 @@ export const data: Resources = {
 		{
 			title: "Tutorials/Courses",
 			urls: [
-				"https://css-tricks.com/implementing-push-notifications-setting-firebase/",
-				"https://css-tricks.com/implementing-push-notifications-back-end/",
 				"https://angular.io/guide/cheatsheet",
 				"https://www.learnrxjs.io/",
 				"https://egghead.io/courses/getting-started-with-redux",
@@ -962,6 +971,7 @@ export const data: Resources = {
 				"https://www.vidstack.io/",
 				"https://www.mux.com/",
 				"https://wistia.com/",
+				"https://www.100ms.live/",
 			],
 		},
 		{
