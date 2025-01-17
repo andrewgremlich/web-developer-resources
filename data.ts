@@ -803,6 +803,12 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Realtime",
+			urls: [
+				"https://yjs.dev/#intro",
+			]
+		},
+		{
 			title: "Reference/Articles",
 			urls: [
 				"https://htmlhead.dev/",
