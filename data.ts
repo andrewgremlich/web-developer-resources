@@ -269,6 +269,7 @@ export const data: Resources = {
 				"https://codecrafters.io/pricing",
 				"https://www.epicweb.dev/",
 				"https://www.udacity.com/",
+				"https://www.greatfrontend.com/",
 			],
 		},
 		{
