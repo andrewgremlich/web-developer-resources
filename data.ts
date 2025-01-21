@@ -270,6 +270,7 @@ export const data: Resources = {
 				"https://www.epicweb.dev/",
 				"https://www.udacity.com/",
 				"https://www.greatfrontend.com/",
+				"https://next-learn-dashboard.vercel.sh/",
 			],
 		},
 		{
@@ -330,6 +331,8 @@ export const data: Resources = {
 				"https://iconoir.com/",
 				"http://fontawesome.io/icons/",
 				"https://www.npmjs.com/package/react-icons",
+				"https://shields.io/",
+				"https://simpleicons.org/",
 				"https://react-demo.hugeicons.com/",
 				"https://express.adobe.com/",
 				"https://pixabay.com/",
