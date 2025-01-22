@@ -86,7 +86,6 @@ export const data: Resources = {
 				"https://n8n.io/",
 				"https://flowiseai.com/",
 				"https://sdk.vercel.ai/",
-				
 			],
 		},
 		{
@@ -808,9 +807,7 @@ export const data: Resources = {
 		},
 		{
 			title: "Realtime",
-			urls: [
-				"https://yjs.dev/#intro",
-			]
+			urls: ["https://yjs.dev/#intro"],
 		},
 		{
 			title: "Reference/Articles",
