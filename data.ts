@@ -332,6 +332,7 @@ export const data: Resources = {
 				"https://www.npmjs.com/package/react-icons",
 				"https://shields.io/",
 				"https://simpleicons.org/",
+				"https://iconify.design/",
 				"https://react-demo.hugeicons.com/",
 				"https://express.adobe.com/",
 				"https://pixabay.com/",
