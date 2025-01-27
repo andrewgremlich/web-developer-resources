@@ -561,6 +561,7 @@ export const data: Resources = {
 				"https://www.myretrotvs.com/",
 				"https://landsat.gsfc.nasa.gov/apps/YourNameInLandsat-main/index.html",
 				"https://www.windy.com/",
+				"https://shademap.app/",
 			],
 		},
 		{
