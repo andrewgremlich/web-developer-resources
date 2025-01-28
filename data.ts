@@ -747,6 +747,10 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Math",
+			urls: ["https://www.desmos.com/"]
+		},
+		{
 			title: "Mobile Frameworks",
 			urls: [
 				"https://expo.dev/",
