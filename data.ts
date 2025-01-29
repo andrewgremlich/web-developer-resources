@@ -858,7 +858,7 @@ export const data: Resources = {
 			title: "Rich Text Editors",
 			urls: [
 				"https://quilljs.com/",
-				"https://www.slatejs.org/",
+				"https://www.slatejs.org/examples/richtext",
 				"https://www.blocknotejs.org/",
 			],
 		},
