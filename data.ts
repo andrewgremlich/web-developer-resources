@@ -748,7 +748,7 @@ export const data: Resources = {
 		},
 		{
 			title: "Math",
-			urls: ["https://www.desmos.com/"]
+			urls: ["https://www.desmos.com/"],
 		},
 		{
 			title: "Mobile Frameworks",
@@ -852,6 +852,14 @@ export const data: Resources = {
 				"https://keliris.dev/articles/deep-note",
 				"https://www.bbss.dev/posts/eventloop/",
 				"https://ui.dev/why-react-renders",
+			],
+		},
+		{
+			title: "Rich Text Editors",
+			urls: [
+				"https://quilljs.com/",
+				"https://www.slatejs.org/",
+				"https://www.blocknotejs.org/",
 			],
 		},
 		{
