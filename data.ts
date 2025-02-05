@@ -442,10 +442,7 @@ export const data: Resources = {
 		},
 		{
 			title: "Fake Data",
-			urls: [
-				"https://temp-name.org/",
-				"https://fakerjs.dev/guide/",
-			]
+			urls: ["https://temp-name.org/", "https://fakerjs.dev/guide/"],
 		},
 		{
 			title: "Franeworks and Libraries",
