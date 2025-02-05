@@ -407,6 +407,9 @@ export const data: Resources = {
 				"https://www.torproject.org/",
 				"https://github.com/Lissy93/awesome-privacy",
 				"https://github.com/paulaime/Awesome-Privacy",
+				"https://flowcrypt.com/",
+				"https://openpgpjs.org/",
+				"https://www.openudc.org/",
 			],
 		},
 		{
@@ -645,6 +648,8 @@ export const data: Resources = {
 				"https://turfjs.org/",
 				"https://knip.dev/",
 				"https://metafizzy.co/",
+				"https://colonelparrot.github.io/jscanify/",
+				"https://jsontr.ee/",
 			],
 		},
 		{
@@ -1055,6 +1060,7 @@ export const data: Resources = {
 				"https://dnsimple.com/",
 				"https://dan.com/",
 				"https://www.namecheap.com/",
+				"https://domains.cloudflare.com/",
 				"https://www.name.com/",
 				"https://www.duckdns.org/",
 				"https://porkbun.com/",
