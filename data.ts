@@ -262,7 +262,7 @@ export const data: Resources = {
 			],
 		},
 		{
-			title: "Coding lessons",
+			title: "Lessons/Tutorials",
 			urls: [
 				"https://www.codecademy.com/",
 				"https://www.freecodecamp.org/",
@@ -288,6 +288,7 @@ export const data: Resources = {
 				"https://svg.wtf/",
 				"https://github.com/leerob/vim-for-react-devs",
 				"https://fullstackopen.com/en/",
+				"https://micro-frontends.org/",
 			],
 		},
 		{
@@ -345,8 +346,6 @@ export const data: Resources = {
 				"https://express.adobe.com/",
 				"https://pixabay.com/",
 				"https://opengameart.org/",
-				"https://excalidraw.com/",
-				"https://www.tldraw.com/",
 			],
 		},
 		{
@@ -426,6 +425,7 @@ export const data: Resources = {
 				"https://flowcrypt.com/",
 				"https://openpgpjs.org/",
 				"https://www.openudc.org/",
+				"https://joindeleteme.com/",
 			],
 		},
 		{
