@@ -127,6 +127,7 @@ export const data: Resources = {
 				"https://webauthn.io/",
 				"https://simplewebauthn.dev/docs/",
 				"https://passkeys.dev/",
+				"https://authjs.dev/",
 			],
 		},
 		{
