@@ -73,7 +73,6 @@ export const data: Resources = {
 				"https://www.continue.dev/",
 				"https://github.com/eduardoleao052/js-pytorch",
 				"https://danielmiessler.com/p/fabric-origin-story/",
-				"https://code.fittentech.com/en",
 				"https://github.com/huggingface/candle",
 				"https://huggingface.co/collections/radames/candle-wasm-examples-650898dee13ff96230ce3e1f",
 				"https://huggingface.co/docs/transformers.js/index",
