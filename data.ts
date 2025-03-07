@@ -128,6 +128,8 @@ export const data: Resources = {
 				"https://passkeys.dev/",
 				"https://authjs.dev/",
 				"https://authts.github.io/oidc-client-ts/",
+				"https://stack-auth.com/",
+				"https://www.passportjs.org/",
 			],
 		},
 		{
