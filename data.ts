@@ -127,6 +127,7 @@ export const data: Resources = {
 				"https://simplewebauthn.dev/docs/",
 				"https://passkeys.dev/",
 				"https://authjs.dev/",
+				"https://authts.github.io/oidc-client-ts/",
 			],
 		},
 		{
