@@ -425,6 +425,8 @@ export const data: Resources = {
 				"https://openpgpjs.org/",
 				"https://www.openudc.org/",
 				"https://joindeleteme.com/",
+				"https://matrix.org/",
+				"https://atproto.com/",
 			],
 		},
 		{
