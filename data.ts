@@ -86,6 +86,7 @@ export const data: Resources = {
 				"https://flowiseai.com/",
 				"https://sdk.vercel.ai/",
 				"https://github.gg/",
+				"https://www.pinecone.io/",
 			],
 		},
 		{
