@@ -988,6 +988,8 @@ export const data: Resources = {
 				"https://virtual.basilicasanpietro.va/",
 				"https://www.npmjs.com/package/three.meshline",
 				"https://www.scratchapixel.com/index.html",
+				"https://explore-mars.esri.com/",
+				"https://maps.planet.fu-berlin.de/#map=3/2074498.35/0",
 			],
 		},
 		{
