@@ -1116,6 +1116,7 @@ export const data: Resources = {
 				"https://coolify.io/",
 				"https://caprover.com/",
 				"https://rclone.org/",
+				"https://zephyr-cloud.io/",
 			],
 		},
 		{
