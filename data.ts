@@ -87,6 +87,7 @@ export const data: Resources = {
 				"https://sdk.vercel.ai/",
 				"https://github.gg/",
 				"https://www.pinecone.io/",
+				"https://lingo.dev/en/",
 			],
 		},
 		{
@@ -131,6 +132,7 @@ export const data: Resources = {
 				"https://authts.github.io/oidc-client-ts/",
 				"https://stack-auth.com/",
 				"https://www.passportjs.org/",
+				"https://clerk.com/",
 			],
 		},
 		{
