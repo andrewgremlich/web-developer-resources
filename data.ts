@@ -197,6 +197,16 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Code Screenshots",
+			urls: [
+				"https://cs.vkrsi.com/",
+				"https://ray.so/",
+				"https://carbon.now.sh/",
+				"https://codeimage.dev/",
+				"https://snappify.com/",
+			],
+		},
+		{
 			title: "Color",
 			urls: [
 				"https://css-tricks.com/re-pleasing-color-palettes/",
@@ -492,9 +502,6 @@ export const data: Resources = {
 				"https://tinywow.com/",
 				"https://vocalremover.org/",
 				"https://www.trackawesomelist.com/",
-				"https://ray.so/",
-				"https://cs.vkrsi.com/",
-				"https://carbon.now.sh/",
 				"https://streamlinehq.com/",
 				"https://codemyui.com/",
 				"https://soundbible.com/",
