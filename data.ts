@@ -79,6 +79,7 @@ export const data: Resources = {
 				"https://bolt.new/",
 				"https://chat.groq.com/",
 				"https://www.cursor.com/",
+				"https://codeium.com/windsurf",
 				"https://www.transcribejs.dev/",
 				"https://notebooklm.google/",
 				"https://lumalabs.ai/dream-machine/",
