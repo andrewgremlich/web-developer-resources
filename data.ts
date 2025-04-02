@@ -1001,6 +1001,7 @@ export const data: Resources = {
 				"https://explore-mars.esri.com/",
 				"https://maps.planet.fu-berlin.de/#map=3/2074498.35/0",
 				"https://stuffin.space/",
+				"https://skia.org/docs/user/modules/canvaskit/",
 			],
 		},
 		{
