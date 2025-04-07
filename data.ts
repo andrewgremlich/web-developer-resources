@@ -1002,6 +1002,7 @@ export const data: Resources = {
 				"https://maps.planet.fu-berlin.de/#map=3/2074498.35/0",
 				"https://stuffin.space/",
 				"https://skia.org/docs/user/modules/canvaskit/",
+				"https://animejs.com/",
 			],
 		},
 		{
