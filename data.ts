@@ -89,6 +89,8 @@ export const data: Resources = {
 				"https://github.gg/",
 				"https://www.pinecone.io/",
 				"https://lingo.dev/en/",
+				"https://smithery.ai/",
+				"https://www.mcp.run/",
 			],
 		},
 		{
@@ -634,6 +636,7 @@ export const data: Resources = {
 				"https://placehold.co/",
 				"https://randomuser.me/",
 				"https://boringavatars.com/",
+				"https://github.com/andrelandgraf/openimg",
 			],
 		},
 		{
