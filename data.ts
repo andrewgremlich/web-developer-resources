@@ -97,6 +97,7 @@ export const data: Resources = {
 				"https://devin.ai/",
 				"https://openrouter.ai/openrouter/optimus-alpha",
 				"https://openrouter.ai/",
+				"https://roocode.com/",
 			],
 		},
 		{
