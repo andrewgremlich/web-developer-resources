@@ -91,6 +91,12 @@ export const data: Resources = {
 				"https://lingo.dev/en/",
 				"https://smithery.ai/",
 				"https://www.mcp.run/",
+				"https://www.codebuff.com/",
+				"https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview",
+				"https://cline.bot/",
+				"https://devin.ai/",
+				"https://openrouter.ai/openrouter/optimus-alpha",
+				"https://openrouter.ai/",
 			],
 		},
 		{
