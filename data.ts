@@ -31,6 +31,7 @@ export const data: Resources = {
 		{
 			title: "AI tools",
 			urls: [
+				"https://firebase.studio/",
 				"https://www.jasper.ai/",
 				"https://contentbot.ai/hemingway-ai",
 				"https://www.copy.ai/",
