@@ -1114,6 +1114,7 @@ export const data: Resources = {
 				"https://vercel.com/",
 				"https://firebase.google.com/",
 				"https://render.com/",
+				"https://railway.com/",
 				"https://www.heroku.com/",
 				"https://www.withcoherence.com/",
 				"https://www.digitalocean.com/",
