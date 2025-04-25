@@ -550,6 +550,7 @@ export const data: Resources = {
 				"https://neatnik.net/calendar/",
 				"https://squish.addy.ie/",
 				"https://mail.tm/en/",
+				"https://temp-mail.org/",
 			],
 		},
 		{
