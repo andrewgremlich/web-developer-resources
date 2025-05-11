@@ -452,6 +452,7 @@ export const data: Resources = {
 				"https://joindeleteme.com/",
 				"https://matrix.org/",
 				"https://atproto.com/",
+				"https://www.veracrypt.fr/en/Home.html",
 			],
 		},
 		{
