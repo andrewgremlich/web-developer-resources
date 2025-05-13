@@ -905,6 +905,8 @@ export const data: Resources = {
 				"https://keliris.dev/articles/deep-note",
 				"https://www.bbss.dev/posts/eventloop/",
 				"https://ui.dev/why-react-renders",
+				"https://stackcrawler.com/",
+				"https://builtwith.com/",
 			],
 		},
 		{
