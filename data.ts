@@ -125,6 +125,14 @@ export const data: Resources = {
 			],
 		},
 		{
+			title: "Audio",
+			urls: [
+				"https://www.futurelibrary.no/",
+				"https://howlerjs.com/",
+				"https://wavesurfer.xyz/",
+			],
+		},
+		{
 			title: "Authentication",
 			urls: [
 				"https://auth0.com/",
@@ -1019,6 +1027,7 @@ export const data: Resources = {
 				"https://stuffin.space/",
 				"https://skia.org/docs/user/modules/canvaskit/",
 				"https://animejs.com/",
+				"https://www.futurelibrary.no/",
 			],
 		},
 		{
