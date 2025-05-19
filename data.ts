@@ -1028,6 +1028,9 @@ export const data: Resources = {
 				"https://skia.org/docs/user/modules/canvaskit/",
 				"https://animejs.com/",
 				"https://www.futurelibrary.no/",
+				"https://www.npmjs.com/package/wawa-vfx",
+				"https://github.com/brettlyne/r3f-particle-field",
+				"https://github.com/sampstrong/r3f-particle-system",
 			],
 		},
 		{
