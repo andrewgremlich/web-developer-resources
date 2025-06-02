@@ -981,6 +981,10 @@ export const data: Resources = {
 			title: "Three Dimensional",
 			urls: [
 				"https://threejs.org/",
+				"https://luma.gl/",
+				"https://d3js.org/",
+				"https://deck.gl/",
+				"https://xeogl.org/",
 				"https://docs.pmnd.rs/react-three-fiber/getting-started/introduction",
 				"https://dgreenheck.github.io/threejs-procedural-planets/",
 				"https://schteppe.github.io/cannon.js/",
