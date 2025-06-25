@@ -378,6 +378,7 @@ export const data: Resources = {
 				"https://express.adobe.com/",
 				"https://pixabay.com/",
 				"https://opengameart.org/",
+				"https://mossaik.app/",
 			],
 		},
 		{
