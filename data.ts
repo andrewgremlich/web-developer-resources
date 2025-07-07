@@ -591,6 +591,8 @@ export const data: Resources = {
 		{
 			title: "Fun websites",
 			urls: [
+				"https://onemillionchessboards.com/#3428,3438",
+				"https://strudel.cc/",
 				"https://neal.fun/",
 				"https://jslegend.itch.io/",
 				"https://thetruesize.com/",
