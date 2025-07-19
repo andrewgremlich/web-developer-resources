@@ -31,6 +31,7 @@ export const data: Resources = {
 		{
 			title: "AI tools",
 			urls: [
+			"https://huggingface.co/blog/lynn-mikami/awesome-mcp-servers",
 				"https://surrealdb.com/",
 				"https://firebase.studio/",
 				"https://www.jasper.ai/",
@@ -626,6 +627,7 @@ export const data: Resources = {
 				"https://apolloinrealtime.org/",
 			],
 		},
+		{title: "HTML", urls: ["https://dev.to/maxprilutskiy/html5-elements-you-didnt-know-you-need-gan"]},
 		{
 			title: "Icons",
 			urls: [
@@ -676,6 +678,7 @@ export const data: Resources = {
 		{
 			title: "JavaScript",
 			urls: [
+			"https://jsdate.wtf/",
 				"https://doesitmutate.xyz/",
 				"https://react-hooks.org/docs/hooks-list/",
 				"https://github.com/agauniyal/wireframe",
@@ -927,6 +930,7 @@ export const data: Resources = {
 				"https://quilljs.com/",
 				"https://www.slatejs.org/examples/richtext",
 				"https://www.blocknotejs.org/",
+				"https://tiptap.dev/docs/resources/whats-new"
 			],
 		},
 		{
