@@ -31,6 +31,7 @@ export const data: Resources = {
 		{
 			title: "AI tools",
 			urls: [
+				"https://pixlr.com/",
 				"https://huggingface.co/blog/lynn-mikami/awesome-mcp-servers",
 				"https://surrealdb.com/",
 				"https://firebase.studio/",
@@ -594,6 +595,12 @@ export const data: Resources = {
 			title: "Fun websites",
 			urls: [
 				"https://firstcommit.is/",
+				"https://gutenberg.org/",
+				"https://librivox.org/",
+				"https://annas-archive.org/",
+				"https://www.cleardarksky.com/csk/prov/all_charts_map.html",
+				"https://www.cleardarksky.com/index.html",
+				"https://mynoise.net/noiseMachines.php",
 				"https://onemillionchessboards.com/#3428,3438",
 				"https://strudel.cc/",
 				"https://neal.fun/",
@@ -669,6 +676,7 @@ export const data: Resources = {
 				"https://randomuser.me/",
 				"https://boringavatars.com/",
 				"https://github.com/andrelandgraf/openimg",
+				"https://www.remove.bg/",
 			],
 		},
 		{
