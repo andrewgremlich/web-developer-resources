@@ -720,6 +720,7 @@ export const data: Resources = {
 				"https://metafizzy.co/",
 				"https://colonelparrot.github.io/jscanify/",
 				"https://jsontr.ee/",
+				"https://www.npmjs.com/package/dependency-cruiser",
 			],
 		},
 		{
