@@ -2,7 +2,7 @@ import fs from "node:fs";
 import { load } from "cheerio";
 import sanitizeHtml from "sanitize-html";
 
-import { type Resource, type ResourceDisplay, data } from "./data";
+import { data, type Resource, type ResourceDisplay } from "./data";
 import untypedAllResources from "./full-data.json";
 
 const allResources: { [key: string]: ResourceDisplay } = untypedAllResources;
@@ -89,7 +89,7 @@ const makeSection = async (sectionToGet: Resource) => {
 	};
 };
 
-const main = (async () => {
+(async () => {
 	const sectonsData = await Promise.all(
 		data.other
 			.sort((a, b) => a.title.localeCompare(b.title))

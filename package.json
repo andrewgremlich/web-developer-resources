@@ -16,15 +16,15 @@
   "homepage": "https://github.com/andrewgremlich/web-developer-resources#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "sanitize-html": "^2.14.0"
+    "sanitize-html": "^2.17.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
-    "@types/node": "^22.10.2",
-    "@types/sanitize-html": "^2.13.0",
+    "@biomejs/biome": "2.2.2",
+    "@types/node": "^24.3.0",
+    "@types/sanitize-html": "^2.16.0",
     "husky": "^9.1.7",
     "ts-node": "^10.9.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.9.2"
   },
   "scripts": {
     "prepare": "husky",
