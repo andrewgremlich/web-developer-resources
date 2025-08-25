@@ -680,7 +680,7 @@ export const data: Resources = {
 			],
 		},
 		{
-			title: "Prsentation Software",
+			title: "Presentation Software",
 			urls: [
 				"https://revealjs.com/",
 				"https://slides.com/",
