@@ -739,7 +739,7 @@ export const data: Resources = {
 			urls: [
 				"https://deno.land/manual@v1.30.1/tools",
 				"https://biomejs.dev/",
-				"https://oxc-project.github.io/",
+				"https://oxc.rs/",
 				"https://github.com/karimould/awesome-js-tooling-in-rust",
 				"https://jsonplaceholder.typicode.com",
 				"https://webcontainers.io/",
@@ -891,6 +891,7 @@ export const data: Resources = {
 				"https://github.com/michal-wrzosek/p2p-chat",
 				"https://meet.jit.si/",
 				"https://p2p.mirotalk.com/",
+				"https://brie.fi/ng",
 			],
 		},
 		{
