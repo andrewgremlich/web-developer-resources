@@ -179,6 +179,7 @@ export const data: Resources = {
 				"https://webrtcforthecurious.com/",
 				"https://github.com/MostlyAdequate/mostly-adequate-guide",
 				"https://www.totaltypescript.com/books/total-typescript-essentials/kickstart-your-typescript-setup",
+				"https://github.com/zakirullin/cognitive-load",
 			],
 		},
 		{
