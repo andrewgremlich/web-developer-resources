@@ -9,7 +9,7 @@ export async function GET(_request: Request) {
   if (!dbUrl || !authToken) {
     return NextResponse.json(
       { error: "Missing Turso DB credentials" },
-      { status: 500 },
+      { status: 500 }
     );
   }
 
@@ -45,6 +45,9 @@ export async function GET(_request: Request) {
     return NextResponse.json(transform);
   } catch (error) {
     console.error("Error fetching category contents:", error);
-    return NextResponse.json({ error: error.message }, { status: 500 });
+    return NextResponse.json(
+      { error: "Failed to fetch bookmarks" },
+      { status: 500 }
+    );
   }
 }

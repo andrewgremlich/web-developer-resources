@@ -7,7 +7,7 @@ import { v4 } from "uuid";
 
 import { fetchBookmarks } from "@/lib/categories";
 
-const LoadingWrapper = ({ children }) => {
+const LoadingWrapper = ({ children }: { children: React.ReactNode }) => {
   return (
     <main>
       <H1>Web Developer Resources</H1>
