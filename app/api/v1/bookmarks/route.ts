@@ -42,7 +42,11 @@ export async function GET(_request: Request) {
     }
 
     const transform = Array.from(categoryMap.values());
-    return NextResponse.json(transform);
+    return NextResponse.json(transform, {
+      headers: {
+        "Cache-Control": "public, max-age=300, stale-while-revalidate=600",
+      },
+    });
   } catch (error) {
     console.error("Error fetching category contents:", error);
     return NextResponse.json(
