@@ -11,18 +11,18 @@
     "format": "biome format --write"
   },
   "dependencies": {
-    "@libsql/client": "^0.15.14",
-    "@tanstack/react-query": "^5.87.1",
-    "next": "15.5.2",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
-    "summit-kit": "^3.2.1",
-    "uuid": "^12.0.0"
+    "@libsql/client": "^0.15.15",
+    "@tanstack/react-query": "^5.90.1",
+    "next": "15.5.3",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "summit-kit": "^3.2.2",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.2.0",
+    "@biomejs/biome": "2.2.4",
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "tailwindcss": "^4",
