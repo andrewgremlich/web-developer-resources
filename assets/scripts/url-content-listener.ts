@@ -17,7 +17,9 @@ type ResourceItem = {
 	const fetchCategoryDataFromSite = async (
 		category: string,
 	): Promise<ResourceItem[]> => {
-		const response = await fetch("/index.json");
+		const response = await fetch("/index.json", {
+			cache: "force-cache",
+		});
 		if (!response.ok) {
 			throw new Error(`HTTP error! status: ${response.status}`);
 		}
@@ -47,12 +49,12 @@ type ResourceItem = {
 	const initialUrl = new URL(window.location.href);
 	const initialParams = new URLSearchParams(initialUrl.search);
 	const initialCategory = initialParams.get("category");
-	
+
 	if (!history.state) {
 		history.replaceState(
-			{ category: initialCategory }, 
-			"", 
-			window.location.href
+			{ category: initialCategory },
+			"",
+			window.location.href,
 		);
 	}
 
@@ -82,7 +84,8 @@ type ResourceItem = {
 		} else {
 			// Navigate back to the main page (no category)
 			// You might want to show all items or a default view here
-			contentView.innerHTML = "<p>Welcome! Select a category to view resources.</p>";
+			contentView.innerHTML =
+				"<p>Welcome! Select a category to view resources.</p>";
 		}
 	});
 

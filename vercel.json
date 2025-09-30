@@ -4,5 +4,16 @@
 			"HUGO_VERSION": "0.149.0"
 		}
 	},
-	"buildCommand": "hugo --gc --minify"
+	"buildCommand": "hugo --gc --minify",
+	"headers": [
+		{
+			"source": "/index.json",
+			"headers": [
+				{
+					"key": "Cache-Control",
+					"value": "public, max-age=300, s-maxage=300"
+				}
+			]
+		}
+	]
 }
