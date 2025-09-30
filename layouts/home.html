@@ -1,19 +1,21 @@
 {{ define "main" }}
-  <main>
-    <nav>
-      {{ range $key, $value := .Site.Taxonomies.categories }}
-      <li>
-        <a href="?category={{ $key | urlize  }}">
-          {{ $key | humanize }}
-        </a> ({{ len $value }})
-      </li>
-      {{ end }}
-    </nav>
-    
-    <section id="content">
-      <h1>{{ .Title }}</h1>
-      <div id="output"></div>
-    </section>
-  </main>
+<main>
+  <nav>
+    {{ range $key, $value := .Site.Taxonomies.categories }}
+    <li>
+      <a class="nav-item" data-categoryid="{{ $key | urlize }}">
+        {{ $key | humanize }}
+      </a> ({{ len $value }})
+    </li>
+    {{ end }}
+  </nav>
+
+  <section id="content">
+    <h1>{{ .Title }}</h1>
+    <div id="output">
+      <p>Click anything in the menu for it to appear here!</p>
+    </div>
+  </section>
+</main>
 
 {{ end }}

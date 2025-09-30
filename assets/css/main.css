@@ -28,7 +28,7 @@ nav {
 nav {
   min-width: 250px;
   border-right: 1px solid #ccc;
-  padding-right: 1rem;
+  padding: 2rem 1rem 2rem 0rem;
 
   li {
     white-space: nowrap;
@@ -62,7 +62,7 @@ h2 {
 }
 
 a {
-  @apply hover:text-green-800 dark:hover:text-yellow-300 underline decoration-dashed underline-offset-6 whitespace-nowrap;
+  @apply hover:text-green-800 cursor-pointer dark:hover:text-yellow-300 underline decoration-dashed underline-offset-6 whitespace-nowrap;
 }
 
 .item {
