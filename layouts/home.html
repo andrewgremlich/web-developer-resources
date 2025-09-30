@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <main>
+    <nav>
+      {{ range $key, $value := .Site.Taxonomies.categories }}
+      <li>
+        <a href="?category={{ $key | urlize  }}">
+          {{ $key | humanize }}
+        </a> ({{ len $value }})
+      </li>
+      {{ end }}
+    </nav>
+    
+    <section id="content">
+      <h1>{{ .Title }}</h1>
+      <div id="output"></div>
+    </section>
+  </main>
+
+{{ end }}

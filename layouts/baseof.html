@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
+
+<head>
+	{{ partial "head.html" . }}
+</head>
+
+<body>
+	<header>
+		{{ partial "header.html" . }}
+	</header>
+	{{ block "main" . }}
+	This will be replaced with content from the
+	corresponding "define" action found in the template
+	to which this base template is applied.
+	{{ end }}
+	<footer>
+		{{ partial "footer.html" . }}
+	</footer>
+</body>
+
+</html>

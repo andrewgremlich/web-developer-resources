@@ -1,0 +1,58 @@
+{
+  "languageCode": "en-us",
+  "title": "Web Developer Resources",
+  "enableRobotsTXT": true,
+  "taxonomies": {
+    "tag": "tags",
+    "category": "categories"
+  },
+  "params": {
+    "description": "A collection of bookmarks I gathered over the years.",
+    "email": "andrew@gremlich.dev",
+    "name": "Andrew Gremlich",
+    "sitemapMax": 49999,
+    "dateFormatUTC": "2006-01-02T15:04:05Z"
+  },
+  "outputs": {
+    "home": ["html", "json", "robots", "manifest"],
+    "section": ["html", "json", "robots", "manifest"],
+    "taxonomy": ["html", "json", "robots", "manifest"],
+    "page": ["html"]
+  },
+  "outputFormats": {
+    "manifest": {
+      "mediaType": "application/manifest+json",
+      "baseName": "manifest",
+      "isPlainText": true
+    },
+    "sitemap": {
+      "mediaType": "application/xml",
+      "baseName": "sitemap",
+      "rel": "alternate",
+      "isPlainText": false,
+      "isHTML": false,
+      "noUgly": true,
+      "notAlternate": true
+    },
+    "json": {
+      "mediaType": "application/json",
+      "baseName": "index",
+      "isPlainText": true,
+      "isHTML": false,
+      "noUgly": true,
+      "notAlternate": true
+    }
+  },
+  "markup": {
+    "defaultMarkdownHandler": "goldmark",
+    "goldmark": {
+      "parser": {
+        "autoHeadingID": true,
+        "autoHeadingIDType": "github"
+      },
+      "renderer": {
+        "unsafe": true
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  @apply px-2 bg-gradient-to-b from-emerald-200 to-emerald-50 dark:from-emerald-900 dark:to-emerald-700 text-slate-800 dark:text-slate-200;
+}
+
+main {
+  display: flex;
+  max-height: 100%;
+}
+
+#content,
+nav {
+  overflow-y: scroll;
+}
+
+#content {
+  flex: 1;
+  padding: 2rem;
+}
+
+nav {
+  min-width: 250px;
+  border-right: 1px solid #ccc;
+  padding-right: 1rem;
+
+  li {
+    white-space: nowrap;
+  }
+
+  ul, li {
+    list-style: none;
+    padding: 0;
+  }
+}
+
+p,
+span,
+input,
+label,
+time,
+a,
+li {
+  @apply text-base md:text-lg leading-7 tracking-tight;
+  font-family: "Molengo", sans-serif;
+}
+
+h1 {
+  @apply text-3xl md:text-5xl font-bold leading-snug tracking-wider text-center;
+  font-family: "Rakkas", serif;
+}
+
+h2 {
+  @apply text-2xl md:text-4xl font-bold leading-snug tracking-wider;
+  font-family: "Rakkas", serif;
+}
+
+a {
+  @apply hover:text-green-800 dark:hover:text-yellow-300 underline decoration-dashed underline-offset-6 whitespace-nowrap;
+}
+
+.item {
+  margin-bottom: 1.5rem;
+}

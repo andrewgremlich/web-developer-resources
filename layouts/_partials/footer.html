@@ -1,0 +1,5 @@
+<footer>
+</footer>
+
+{{ $urlContentListener := resources.Get "scripts/url-content-listener.ts" | js.Build (dict "minify" true) | resources.Fingerprint "sha512" }}
+<script defer src="{{ $urlContentListener.RelPermalink }}" integrity="{{ $urlContentListener.Data.Integrity }}"></script>

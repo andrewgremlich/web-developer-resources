@@ -1,0 +1,7 @@
+[{{ range $index , $e := .Page.RegularPagesRecursive }}{{ if $index }},{{end}}{{ $date := (.Date | time.Format "2006-01-02") }}{
+  "title": {{ .Title | plainify | jsonify  }},
+  "description": {{ .Description | plainify | jsonify }},
+  "url": {{ .Params.original_url | plainify | jsonify }},
+  {{ with .Params.categories }}"category": {{ (index . 0) | urlize | jsonify }},{{ end }}
+  "date": {{ $date | plainify | jsonify }}
+}{{end}}]
