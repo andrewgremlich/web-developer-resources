@@ -1,6 +1,6 @@
 {
-  "name": "hugo-resources",
-  "version": "1.0.0",
+  "name": "web-developer-resources",
+  "version": "3.0.0",
   "type": "module",
   "scripts": {
     "import:turso": "tsx index.ts",
