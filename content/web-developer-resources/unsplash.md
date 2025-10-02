@@ -1,5 +1,5 @@
 ---
-title: "Beautiful Free Images &amp; Pictures | UnsplashUnsplash HomeSquarespaceSquarespace"
+title: "Beautiful Free Images &amp; Pictures | Unsplash"
 date: "2025-09-30T00:11:40.362Z"
 lastmod: "2025-09-30T00:11:40.362Z"
 categories: ["Design"]

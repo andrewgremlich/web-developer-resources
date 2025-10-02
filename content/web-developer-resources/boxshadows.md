@@ -1,5 +1,5 @@
 ---
-title: "boxShadows | CSS box-shadow editor &amp; quick presets"
+title: "BoxShadows | CSS box-shadow editor"
 date: "2025-09-30T00:11:40.369Z"
 lastmod: "2025-09-30T00:11:40.369Z"
 categories: ["CSS"]

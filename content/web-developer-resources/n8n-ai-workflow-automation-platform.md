@@ -1,5 +1,5 @@
 ---
-title: "AI Workflow Automation Platform &amp; Tools - n8n"
+title: "n&n - AI Workflow Automation Platform"
 date: "2025-09-30T00:11:40.333Z"
 lastmod: "2025-09-30T00:11:40.333Z"
 categories: ["AI tools"]

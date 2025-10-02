@@ -1,5 +1,5 @@
 ---
-title: "alphaTab"
+title: "AlphaTab"
 date: "2025-09-30T00:11:40.409Z"
 lastmod: "2025-09-30T00:11:40.409Z"
 categories: ["Audio"]

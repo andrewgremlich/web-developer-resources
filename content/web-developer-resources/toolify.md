@@ -1,5 +1,5 @@
 ---
-title: "Best AI Tools Directory &amp; AI Tools List - Toolify"
+title: "Best AI Tools Directory & AI Tools List - Toolify"
 date: "2025-09-30T00:11:40.328Z"
 lastmod: "2025-09-30T00:11:40.328Z"
 categories: ["AI tools"]

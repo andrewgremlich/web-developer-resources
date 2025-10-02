@@ -1,5 +1,5 @@
 ---
-title: "Cerbos: Open-Source Authorization Layer &amp; Access Control System"
+title: "Cerbos: Open-Source Authorization Layer & Access Control System"
 date: "2025-09-30T00:11:40.315Z"
 lastmod: "2025-09-30T00:11:40.315Z"
 categories: ["Authentication"]

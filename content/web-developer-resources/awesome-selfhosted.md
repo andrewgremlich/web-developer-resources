@@ -1,5 +1,5 @@
 ---
-title: "awesome-selfhostedContentsMenuExpandLight modeDark modeAuto light/dark mode"
+title: "Awesome Self-Hosted"
 date: "2025-09-30T00:11:40.356Z"
 lastmod: "2025-09-30T00:11:40.356Z"
 categories: ["Free Resources"]

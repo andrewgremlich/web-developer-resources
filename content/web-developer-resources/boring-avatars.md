@@ -1,5 +1,5 @@
 ---
-title: "Boring Avatars: Open-Source React Library &amp; Customizable SVG Avatar Service"
+title: "Boring Avatars: Open-Source React Library & Customizable SVG Avatar Service"
 date: "2025-09-30T00:11:40.378Z"
 lastmod: "2025-09-30T00:11:40.378Z"
 categories: ["Images"]

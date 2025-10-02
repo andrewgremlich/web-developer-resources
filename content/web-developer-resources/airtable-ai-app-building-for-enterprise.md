@@ -1,5 +1,5 @@
 ---
-title: "Airtable: AI App Building for Enterprise - Airtable"
+title: "Airtable: AI App Building for Enterprise"
 date: "2025-09-30T00:11:40.375Z"
 lastmod: "2025-09-30T00:11:40.375Z"
 categories: ["Productivity"]
