@@ -4,14 +4,14 @@
     {{ range $key, $value := .Site.Taxonomies.categories }}
     <li>
       <a class="nav-item" data-categoryid="{{ $key | urlize }}">
-        {{ $key | humanize }}
+        {{ $key }}
       </a> ({{ len $value }})
     </li>
     {{ end }}
   </nav>
 
   <section id="content">
-    <h1>{{ .Title }}</h1>
+    <h1 id="site-title">{{ .Title }}</h1>
     <div id="output">
       <p>Click anything in the menu for it to appear here!</p>
     </div>

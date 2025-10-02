@@ -8,9 +8,15 @@ type ResourceItem = {
 
 (async () => {
 	const contentView = document.querySelector("#content #output");
+	const siteTitle = document.getElementById("site-title");
 
 	if (!contentView) {
 		console.warn("No content view element found");
+		return;
+	}
+
+	if (!siteTitle) {
+		console.warn("No site title element found");
 		return;
 	}
 
@@ -20,10 +26,21 @@ type ResourceItem = {
 		const response = await fetch("/index.json", {
 			cache: "force-cache",
 		});
+
 		if (!response.ok) {
 			throw new Error(`HTTP error! status: ${response.status}`);
 		}
+
 		const data = await response.json();
+
+		siteTitle.textContent = category
+			.split("-")
+			.map((word) => {
+				if (word.length < 3) return word;
+				return word.charAt(0).toUpperCase() + word.slice(1);
+			})
+			.join(" ");
+
 		return data.filter((item: ResourceItem) => item.category === category);
 	};
 
