@@ -1,5 +1,5 @@
 ---
-title: "Windsurf Editor | WindsurfDiscord"
+title: "Windsurf Editor"
 date: "2025-09-30T00:11:40.333Z"
 lastmod: "2025-09-30T00:11:40.333Z"
 categories: ["AI tools"]

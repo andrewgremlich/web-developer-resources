@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Jungle | Login"
+title: "Welcome to the Jungle"
 date: "2025-09-30T00:11:40.387Z"
 lastmod: "2025-09-30T00:11:40.387Z"
 categories: ["Job Boards"]
