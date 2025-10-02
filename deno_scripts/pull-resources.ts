@@ -99,4 +99,4 @@ async function main() {
 	console.log('Done.');
 }
 
-await main();
+// await main();
