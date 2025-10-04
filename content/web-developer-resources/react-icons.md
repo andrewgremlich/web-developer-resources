@@ -1,5 +1,5 @@
 ---
-title: "react-icons - npmGitDownloads"
+title: "react-icons"
 date: "2025-09-30T00:11:40.379Z"
 lastmod: "2025-09-30T00:11:40.379Z"
 categories: ["Icons"]

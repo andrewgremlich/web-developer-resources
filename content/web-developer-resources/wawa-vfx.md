@@ -1,5 +1,5 @@
 ---
-title: "wawa-vfx - npmGitDownloads"
+title: "wawa-vfx"
 date: "2025-09-30T00:11:40.399Z"
 lastmod: "2025-09-30T00:11:40.399Z"
 categories: ["Three Dimensional"]

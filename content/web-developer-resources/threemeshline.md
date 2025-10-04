@@ -1,5 +1,5 @@
 ---
-title: "three.meshline - npmGitDownloads"
+title: "three.meshline"
 date: "2025-09-30T00:11:40.398Z"
 lastmod: "2025-09-30T00:11:40.398Z"
 categories: ["Three Dimensional"]

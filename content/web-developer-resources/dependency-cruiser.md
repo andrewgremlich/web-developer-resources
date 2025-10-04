@@ -1,5 +1,5 @@
 ---
-title: "dependency-cruiser - npmGitDownloads"
+title: "dependency-cruiser"
 date: "2025-09-30T00:11:40.382Z"
 lastmod: "2025-09-30T00:11:40.382Z"
 categories: ["JavaScript"]

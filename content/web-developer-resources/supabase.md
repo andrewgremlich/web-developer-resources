@@ -1,5 +1,5 @@
 ---
-title: "Supabase | The Postgres Development Platform.OpenAI logoHugging Face logo"
+title: "Supabase | The Postgres Development Platform"
 date: "2025-09-30T00:11:40.368Z"
 lastmod: "2025-09-30T00:11:40.368Z"
 categories: ["Databases"]

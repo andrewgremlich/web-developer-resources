@@ -1,5 +1,5 @@
 ---
-title: "@simplewebauthn/browser - npmGitDownloads"
+title: "@simplewebauthn/browser"
 date: "2025-09-30T00:11:40.316Z"
 lastmod: "2025-09-30T00:11:40.316Z"
 categories: ["Authentication"]

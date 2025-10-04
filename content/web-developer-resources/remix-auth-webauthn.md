@@ -1,5 +1,5 @@
 ---
-title: "remix-auth-webauthn - npmGitDownloads"
+title: "remix-auth-webauthn"
 date: "2025-09-30T00:11:40.314Z"
 lastmod: "2025-09-30T00:11:40.314Z"
 categories: ["Authentication"]

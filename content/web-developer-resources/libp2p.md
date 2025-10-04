@@ -1,5 +1,5 @@
 ---
-title: "libp2p - npmGitDownloads"
+title: "libp2p"
 date: "2025-09-30T00:11:40.348Z"
 lastmod: "2025-09-30T00:11:40.348Z"
 categories: ["Peer 2 Peer"]
