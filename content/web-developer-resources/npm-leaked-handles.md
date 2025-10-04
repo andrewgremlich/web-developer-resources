@@ -1,9 +1,5 @@
 ---
-<<<<<<<< HEAD:content/web-developer-resources/npm-leaked-handles.md
 title: "NPM - leaked-handles"
-========
-title: "aefis-core-ui"
->>>>>>>> 9d40bc7 (newest batch of cleanups):content/web-developer-resources/aefis-core-ui.md
 date: "2025-09-30T00:11:40.400Z"
 lastmod: "2025-09-30T00:11:40.400Z"
 categories: ["Testing"]
