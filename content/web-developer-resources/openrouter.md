@@ -1,5 +1,5 @@
 ---
-title: "OpenRouterGoogleGitHubMetaMaskModel routing visualizationData policy visualizationDiscordGitHubLinke"
+title: "OpenRouter"
 date: "2025-09-30T00:11:40.335Z"
 lastmod: "2025-09-30T00:11:40.335Z"
 categories: ["AI tools"]
