@@ -1,5 +1,5 @@
 ---
-title: "Lingo.dev - Automated AI localization for web &amp; mobile apps"
+title: "Lingo.dev - Automated AI localization for web & mobile apps"
 date: "2025-09-30T00:11:40.333Z"
 lastmod: "2025-09-30T00:11:40.333Z"
 categories: ["AI tools"]

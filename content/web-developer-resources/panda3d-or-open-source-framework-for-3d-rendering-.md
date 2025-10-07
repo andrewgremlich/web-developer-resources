@@ -1,5 +1,5 @@
 ---
-title: "Panda3D | Open Source Framework for 3D Rendering &amp; Games"
+title: "Panda3D | Open Source Framework for 3D Rendering & Games"
 date: "2025-09-30T00:11:40.398Z"
 lastmod: "2025-09-30T00:11:40.398Z"
 categories: ["Three Dimensional"]

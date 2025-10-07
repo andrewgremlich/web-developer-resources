@@ -1,5 +1,5 @@
 ---
-title: "TinaCMS – Headless CMS with GitHub &amp; Markdown Support"
+title: "TinaCMS – Headless CMS with GitHub & Markdown Support"
 date: "2025-09-30T00:11:40.323Z"
 lastmod: "2025-09-30T00:11:40.323Z"
 categories: ["CMS"]

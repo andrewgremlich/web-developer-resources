@@ -1,5 +1,5 @@
 ---
-title: "Implementing Push Notifications: Setting Up &amp; Firebase | CSS-Tricks"
+title: "Implementing Push Notifications: Setting Up & Firebase | CSS-Tricks"
 date: "2025-09-30T00:11:40.391Z"
 lastmod: "2025-09-30T00:11:40.391Z"
 categories: ["Push Notifications"]

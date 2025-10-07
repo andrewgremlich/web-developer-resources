@@ -1,5 +1,5 @@
 ---
-title: "Penpot: The Design Tool for Design &amp; Code Collaboration"
+title: "Penpot: The Design Tool for Design & Code Collaboration"
 date: "2025-09-30T00:11:40.367Z"
 lastmod: "2025-09-30T00:11:40.367Z"
 categories: ["Design Systems"]

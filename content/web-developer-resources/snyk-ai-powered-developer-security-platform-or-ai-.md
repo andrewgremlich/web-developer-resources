@@ -1,5 +1,5 @@
 ---
-title: "Snyk AI-powered Developer Security Platform | AI-powered AppSec Tool &amp; Security Platform | Snyk"
+title: "Snyk AI-powered Developer Security Platform | AI-powered AppSec Tool & Security Platform | Snyk"
 date: "2025-09-30T00:11:40.358Z"
 lastmod: "2025-09-30T00:11:40.358Z"
 categories: ["Security"]

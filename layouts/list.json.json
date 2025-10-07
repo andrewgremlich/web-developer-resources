@@ -2,6 +2,11 @@
   "title": {{ .Title | plainify | jsonify  }},
   "description": {{ .Description | plainify | jsonify }},
   "url": {{ .Params.original_url | plainify | jsonify }},
-  {{ with .Params.categories }}"category": {{ (index . 0) | urlize | jsonify }},{{ end }}
+  {{ with .Params.categories }}"categories": [
+    {{ range $i, $cat := . }}
+    {{ if $i }},{{ end }}
+      {{ $cat | urlize | jsonify }}
+    {{ end }}],
+  {{ end }}
   "date": {{ $date | plainify | jsonify }}
 }{{end}}]

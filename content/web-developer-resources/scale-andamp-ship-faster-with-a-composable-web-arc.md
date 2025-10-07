@@ -1,5 +1,5 @@
 ---
-title: "Scale &amp; Ship Faster with a Composable Web Architecture | Netlify"
+title: "Scale & Ship Faster with a Composable Web Architecture | Netlify"
 date: "2025-09-30T00:11:40.407Z"
 lastmod: "2025-09-30T00:11:40.407Z"
 categories: ["Web Hosting or Functions"]

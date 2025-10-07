@@ -1,5 +1,5 @@
 ---
-title: "Monster Jobs - Job Search, Career Advice &amp; Hiring Resources | Monster.com"
+title: "Monster Jobs - Job Search, Career Advice & Hiring Resources | Monster.com"
 date: "2025-09-30T00:11:40.386Z"
 lastmod: "2025-09-30T00:11:40.386Z"
 categories: ["Job Boards"]

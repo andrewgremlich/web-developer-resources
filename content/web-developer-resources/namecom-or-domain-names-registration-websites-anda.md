@@ -1,5 +1,5 @@
 ---
-title: "Name.com | Domain Names, Registration, Websites &amp; Hosting"
+title: "Name.com | Domain Names, Registration, Websites & Hosting"
 date: "2025-09-30T00:11:40.397Z"
 lastmod: "2025-09-30T00:11:40.397Z"
 categories: ["Website deployment"]

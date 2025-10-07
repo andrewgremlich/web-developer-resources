@@ -1,5 +1,5 @@
 ---
-title: "Jonathan Harrell | CSS Blogger &amp; Teacher, UI/UX Designer, Front-End Engineer"
+title: "Jonathan Harrell | CSS Blogger & Teacher, UI/UX Designer, Front-End Engineer"
 date: "2025-09-30T00:11:40.348Z"
 lastmod: "2025-09-30T00:11:40.348Z"
 categories: ["CSS"]

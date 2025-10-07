@@ -1,5 +1,5 @@
 ---
-title: "Codementor | Get live 1:1 coding help, hire a developer, &amp; more"
+title: "Codementor | Get live 1:1 coding help, hire a developer, & more"
 date: "2025-09-30T00:11:40.351Z"
 lastmod: "2025-09-30T00:11:40.351Z"
 categories: ["Freelance"]

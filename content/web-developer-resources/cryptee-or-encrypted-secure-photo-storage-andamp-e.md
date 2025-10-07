@@ -1,5 +1,5 @@
 ---
-title: "Cryptee | Encrypted Secure Photo Storage &amp; Encrypted Documents Editor"
+title: "Cryptee | Encrypted Secure Photo Storage & Encrypted Documents Editor"
 date: "2025-09-30T00:11:40.342Z"
 lastmod: "2025-09-30T00:11:40.342Z"
 categories: ["Privacy"]

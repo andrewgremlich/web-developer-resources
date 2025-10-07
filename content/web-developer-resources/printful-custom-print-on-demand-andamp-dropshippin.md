@@ -1,5 +1,5 @@
 ---
-title: "Printful: Custom Print On Demand &amp; Dropshipping"
+title: "Printful: Custom Print On Demand & Dropshipping"
 date: "2025-09-30T00:11:40.353Z"
 lastmod: "2025-09-30T00:11:40.353Z"
 categories: ["Freelance"]

@@ -1,5 +1,5 @@
 ---
-title: "JSON Formatter, Validator &amp; Viewer Online | JSON Tree | JSONtr.eegithub"
+title: "JSON Formatter, Validator & Viewer Online | JSON Tree | JSONtr.eegithub"
 date: "2025-09-30T00:11:40.382Z"
 lastmod: "2025-09-30T00:11:40.382Z"
 categories: ["JavaScript"]

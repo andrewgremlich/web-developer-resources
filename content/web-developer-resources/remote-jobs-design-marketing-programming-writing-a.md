@@ -1,5 +1,5 @@
 ---
-title: "Remote Jobs: Design, Marketing, Programming, Writing &amp; More"
+title: "Remote Jobs: Design, Marketing, Programming, Writing & More"
 date: "2025-09-30T00:11:40.388Z"
 lastmod: "2025-09-30T00:11:40.388Z"
 categories: ["Job Boards"]

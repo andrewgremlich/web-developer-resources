@@ -1,5 +1,5 @@
 ---
-title: "Payments, tax &amp; subscriptions for software companies • Lemon Squeezy"
+title: "Payments, tax & subscriptions for software companies • Lemon Squeezy"
 date: "2025-09-30T00:11:40.347Z"
 lastmod: "2025-09-30T00:11:40.347Z"
 categories: ["Payment Portals"]

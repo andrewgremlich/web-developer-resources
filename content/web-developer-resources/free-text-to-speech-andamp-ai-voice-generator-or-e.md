@@ -1,5 +1,5 @@
 ---
-title: "Free Text to Speech &amp; AI Voice Generator | ElevenLabs"
+title: "Free Text to Speech & AI Voice Generator | ElevenLabs"
 date: "2025-09-30T00:11:40.329Z"
 lastmod: "2025-09-30T00:11:40.329Z"
 categories: ["AI tools"]

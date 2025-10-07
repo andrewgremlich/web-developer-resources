@@ -1,5 +1,5 @@
 ---
-title: "Getting Started | FakerOpen CollectiveOpen Collective"
+title: "Faker.JS"
 date: "2025-09-30T00:11:40.379Z"
 lastmod: "2025-09-30T00:11:40.379Z"
 categories: ["Fake Data"]

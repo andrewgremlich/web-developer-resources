@@ -1,5 +1,5 @@
 ---
-title: "Remote Work: Jobs, Companies &amp; Virtual Teams - Remote.co"
+title: "Remote Work: Jobs, Companies & Virtual Teams - Remote.co"
 date: "2025-09-30T00:11:40.385Z"
 lastmod: "2025-09-30T00:11:40.385Z"
 categories: ["Job Boards"]

@@ -1,5 +1,5 @@
 ---
-title: "Scalable Feeds, Chat, &amp; Video - Powerful APIs and Components by Stream"
+title: "Scalable Feeds, Chat, & Video - Powerful APIs and Components by Stream"
 date: "2025-09-30T00:11:40.357Z"
 lastmod: "2025-09-30T00:11:40.357Z"
 categories: ["Free Resources"]

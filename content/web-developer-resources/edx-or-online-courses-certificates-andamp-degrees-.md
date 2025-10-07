@@ -1,5 +1,5 @@
 ---
-title: "edX | Online Courses, Certificates &amp; Degrees from Leading Institutions"
+title: "edX | Online Courses, Certificates & Degrees from Leading Institutions"
 date: "2025-09-30T00:11:40.340Z"
 lastmod: "2025-09-30T00:11:40.340Z"
 categories: ["Lessons/Tutorials"]

@@ -1,5 +1,5 @@
 ---
-title: "Free &amp; Open Source Jobs - fossjobs.net"
+title: "Free & Open Source Jobs - fossjobs.net"
 date: "2025-09-30T00:11:40.387Z"
 lastmod: "2025-09-30T00:11:40.387Z"
 categories: ["Job Boards"]

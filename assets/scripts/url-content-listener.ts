@@ -2,7 +2,7 @@ type ResourceItem = {
 	title: string;
 	description: string;
 	url: string;
-	category: string;
+	categories: string[];
 	date: string;
 };
 
@@ -41,7 +41,7 @@ type ResourceItem = {
 			})
 			.join(" ");
 
-		return data.filter((item: ResourceItem) => item.category === category);
+		return data.filter((item: ResourceItem) => item.categories.includes(category));
 	};
 
 	const outputCategoryData = (items: ResourceItem[]) => {

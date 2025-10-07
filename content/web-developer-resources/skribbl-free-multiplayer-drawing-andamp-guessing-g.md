@@ -1,5 +1,5 @@
 ---
-title: "skribbl - Free Multiplayer Drawing &amp; Guessing Game"
+title: "skribbl - Free Multiplayer Drawing & Guessing Game"
 date: "2025-09-30T00:11:40.385Z"
 lastmod: "2025-09-30T00:11:40.385Z"
 categories: ["Online Games"]

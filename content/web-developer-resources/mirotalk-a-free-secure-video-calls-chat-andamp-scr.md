@@ -1,5 +1,5 @@
 ---
-title: "MiroTalk a Free Secure Video Calls, Chat &amp; Screen Sharing.ForumFacebookYouTubeEmail"
+title: "MiroTalk a Free Secure Video Calls, Chat & Screen Sharing.ForumFacebookYouTubeEmail"
 date: "2025-09-30T00:11:40.393Z"
 lastmod: "2025-09-30T00:11:40.393Z"
 categories: ["Peer 2 Peer"]

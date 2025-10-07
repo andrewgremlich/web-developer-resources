@@ -1,5 +1,5 @@
 ---
-title: "Free Stock Images &amp; Videos ~ AllTheFreeStock.com"
+title: "Free Stock Images & Videos ~ AllTheFreeStock.com"
 date: "2025-09-30T00:11:40.341Z"
 lastmod: "2025-09-30T00:11:40.341Z"
 categories: ["Design"]

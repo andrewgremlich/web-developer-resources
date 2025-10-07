@@ -1,5 +1,5 @@
 ---
-title: "Declutter your JavaScript &amp; TypeScript projects | KnipShopify03 Logo_Teal"
+title: "Declutter your JavaScript & TypeScript projects | KnipShopify03 Logo_Teal"
 date: "2025-09-30T00:11:40.383Z"
 lastmod: "2025-09-30T00:11:40.383Z"
 categories: ["JavaScript"]

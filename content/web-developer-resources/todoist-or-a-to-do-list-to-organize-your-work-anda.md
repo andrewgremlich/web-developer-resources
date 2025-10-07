@@ -1,5 +1,5 @@
 ---
-title: "Todoist | A To-Do List to Organize Your Work &amp; LifeTodoist LogoTodoist LogoTodoist LogoTodoist L"
+title: "Todoist | A To-Do List to Organize Your Work & LifeTodoist LogoTodoist LogoTodoist LogoTodoist L"
 date: "2025-09-30T00:11:40.351Z"
 lastmod: "2025-09-30T00:11:40.351Z"
 categories: ["Productivity"]

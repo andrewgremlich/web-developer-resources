@@ -1,5 +1,5 @@
 ---
-title: "Google NotebookLM | AI Research Tool &amp; Thinking Partner"
+title: "Google NotebookLM | AI Research Tool & Thinking Partner"
 date: "2025-09-30T00:11:40.334Z"
 lastmod: "2025-09-30T00:11:40.334Z"
 categories: ["AI tools"]

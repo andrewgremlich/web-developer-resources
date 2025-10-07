@@ -1,5 +1,5 @@
 ---
-title: "Discover Unicode Character Entities &amp; Symbols | AmpWhat"
+title: "Discover Unicode Character Entities & Symbols | AmpWhat"
 date: "2025-09-30T00:11:40.358Z"
 lastmod: "2025-09-30T00:11:40.358Z"
 categories: ["Free Resources"]
