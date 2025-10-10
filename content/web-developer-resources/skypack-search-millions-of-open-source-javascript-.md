@@ -1,5 +1,5 @@
 ---
-title: "Skypack: search millions of open source JavaScript packagesSkypackSkypack\n\t\t\t\tSkypack"
+title: "Skypack: search millions of open source JavaScript packages"
 date: "2025-09-30T00:11:40.390Z"
 lastmod: "2025-09-30T00:11:40.390Z"
 categories: ["Module Service"]
