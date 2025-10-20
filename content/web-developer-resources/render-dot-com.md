@@ -1,5 +1,5 @@
 ---
-title: "Cloud Application Platform | Render"
+title: "Render.com"
 date: "2025-09-30T00:11:40.402Z"
 lastmod: "2025-09-30T00:11:40.402Z"
 categories: ["Web Hosting or Functions"]
