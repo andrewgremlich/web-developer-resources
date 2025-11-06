@@ -1,5 +1,5 @@
 ---
-title: "Capture, organize, and tackle your to-dos from anywhere | Trello"
+title: "Trello"
 date: "2025-09-30T00:11:40.374Z"
 lastmod: "2025-09-30T00:11:40.374Z"
 categories: ["Productivity"]
