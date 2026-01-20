@@ -1,5 +1,5 @@
 ---
-title: "Extension.jsGitHubDiscordXGitHubDiscordXArrow rightArrow rightArrow rightGitHub icon"
+title: "Extension.js"
 date: "2025-09-30T00:11:40.346Z"
 lastmod: "2025-09-30T00:11:40.346Z"
 categories: ["Extensions"]
