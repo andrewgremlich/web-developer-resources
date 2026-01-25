@@ -1,8 +1,9 @@
 ---
 title: "Vanta"
-date: "2025-09-30T00:11:40.322Z"
-lastmod: "2025-09-30T00:11:40.322Z"
+date: "2026-01-25T17:40:50.000Z"
+lastmod: "2026-01-25T17:40:50.000Z"
 categories: ["Startup"]
 original_url: "https://www.vanta.com/"
 draft: false
 ---
+
